@@ -1,4061 +1,2970 @@
-//Mon Sep 23 2024 09:31:38 GMT+0000 (Coordinated Universal Time)
+//Tue Jun 24 2025 06:18:34 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
-const _0x4c672b = _0x4a9430("中国联通"),
-  _0x2bba68 = require("got"),
-  _0x2bbc1d = require("path"),
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+const _0x1366a8 = _0x1c156a("顺丰速运"),
+  _0x149a58 = require("got"),
+  _0x508ad7 = require("path"),
   {
-    exec: _0x526718
+    exec: _0x39cbfc
   } = require("child_process"),
-  _0x368aa5 = require("crypto-js"),
+  _0x204044 = require("crypto-js"),
   {
-    CookieJar: _0x4484a5
+    CookieJar: _0xd37655
   } = require("tough-cookie"),
-  _0x24434b = "chinaUnicom",
-  _0x55899c = ["\n", "&", "@"],
-  _0x52f10b = [_0x24434b + "Cookie"],
-  _0x159493 = process.env[_0x24434b + "Sign"] === "false",
-  _0xedc529 = process.env[_0x24434b + "Ltzf"] === "false",
-  _0x148eb1 = 50000,
-  _0x1cbe1e = 3;
-const _0x2bad9c = 2.08,
-  _0x4a2c68 = "chinaUnicom",
-  _0x2eca5f = "https://leafxcy.coding.net/api/user/leafxcy/project/validcode/shared-depot/validCode/git/blob/master/code.json",
-  _0x1971e5 = "https://leafxcy.coding.net/api/user/leafxcy/project/validcode/shared-depot/validCode/git/blob/master/" + _0x4a2c68 + ".json",
-  _0x239ea0 = 5,
-  _0x469423 = "iphone_c@11.0503",
-  _0x546817 = "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 unicom{version:" + _0x469423 + "}",
-  _0x281cdf = "d82ac3821b50e6f05f6c684d27d252a584517c685da7130a2bd27361afb4f2e300ab1ecc5a701b4d2d4df69e795299dc08c2c5a1129381372a65a1a9a397eb16cec3c3cc0179f01df450042f3469658331cec050c7d5c50b121dc28b3f31ece6",
-  _0x3d9810 = "10000002",
-  _0xa01453 = "7k1HcDL8RKvc",
-  _0x49426e = "woreadst^&*12345",
-  _0x4872bf = "10000006",
-  _0x457ac0 = "yQsp9gUqv7qX",
-  _0x20c0ff = "QzUzOUM2QTQ2MTc4",
-  _0x18c84f = "16-Bytes--String",
-  _0x3e622c = "225",
-  _0x46b3a9 = "225",
-  _0x127422 = "party",
-  _0x5b10f9 = "6-WfVldfFrt3zhjHhe6kzwI-XfG5aMCzRTLI_4K7_a0",
-  _0x460d74 = "73b138fd-250c-4126-94e2-48cbcc8b9cbe",
-  _0x558192 = "7cb46449-3b11-4414-bb49-cbd15525fb88",
-  _0x3bb78f = "9",
-  _0x3db78e = "1",
-  _0x2f3d25 = "wocareMBHServiceLife1",
-  _0x12fe67 = "beea1c7edf7c4989b2d3621c4255132f",
-  _0x5f2a5c = "f4cd4ffeb5554586acf65ba7110534f5",
-  _0x4e5ad9 = "0123456789",
-  _0x4192c6 = "qwertyuiopasdfghjklzxcvbnm",
-  _0x27f1a2 = process.env[_0x24434b + "Uuid"] || _0x4c672b.randomUuid(),
-  _0x26ccd8 = [9, 10, 11, 12, 13],
-  _0x123877 = 1000,
-  _0x5d9e11 = 5000,
-  _0x392042 = "1001000003",
-  _0x2a3518 = "100002",
-  _0x353847 = "";
-let _0x333e1b = [],
-  _0x1051da = [],
-  _0x188394 = [],
-  _0x55391c = null,
-  _0x5724ea = [6640, 6641];
-const _0x36a6fc = 7,
-  _0x52ff20 = 5,
-  _0x4cffb4 = 5,
-  _0x3484cf = {
-    ttlxj: "TTLXJ20210330",
-    card_618: "NZJK618CJHD"
-  };
-const _0x166d60 = {
-  name: "星座配对",
-  id: 2
-};
-const _0x5a4a00 = {
-  name: "大转盘",
-  id: 3
-};
-const _0x1b5ea0 = {
-  name: "盲盒抽奖",
-  id: 4
-};
-const _0x4376d8 = [_0x166d60, _0x5a4a00, _0x1b5ea0],
-  _0x1c214d = {
-    ZFGJBXXCY1: "空气",
-    GJBNZJK19: "[6]",
-    GJBNZJK20: "[1]",
-    GJBNZJK21: "[8]",
-    GJBNZJK22: "[狂]",
-    GJBNZJK23: "[欢]"
-  };
-const _0x10ec87 = {
-  "抽奖": "01",
-  "首次进入": "02",
-  "卡片合成": "03",
-  "瓜分奖励": "04"
-};
-function _0x71b805(_0x6a8fe2, _0x1dd78a, _0x1e36ab, _0x3359f8, _0x2c8970, _0x16f3cf) {
-  return _0x368aa5[_0x6a8fe2].encrypt(_0x368aa5.enc.Utf8.parse(_0x3359f8), _0x368aa5.enc.Utf8.parse(_0x2c8970), {
-    mode: _0x368aa5.mode[_0x1dd78a],
-    padding: _0x368aa5.pad[_0x1e36ab],
-    iv: _0x368aa5.enc.Utf8.parse(_0x16f3cf)
-  }).ciphertext.toString(_0x368aa5.enc.Hex);
-}
-function _0x26715b(_0x186221, _0x49588d, _0x1d0a7d, _0x469ed4, _0x25017e, _0x48835f) {
-  return _0x368aa5[_0x186221].decrypt({
-    ciphertext: _0x368aa5.enc.Hex.parse(_0x469ed4)
-  }, _0x368aa5.enc.Utf8.parse(_0x25017e), {
-    mode: _0x368aa5.mode[_0x49588d],
-    padding: _0x368aa5.pad[_0x1d0a7d],
-    iv: _0x368aa5.enc.Utf8.parse(_0x48835f)
-  }).toString(_0x368aa5.enc.Utf8);
-}
-let _0x191c8c = 0,
-  _0x13c734 = 0;
-function _0x169d23() {
-  _0x13c734 = 1;
+  _0x3d0561 = "sfsy",
+  _0x371509 = /[\n]/,
+  _0x12e0b9 = [_0x3d0561 + "Url"],
+  _0x94f81d = process.env[_0x3d0561 + "Bee"] || "false",
+  _0x3bec27 = process.env[_0x3d0561 + "DragonBoatDraw"] || "false",
+  _0x5b274f = 8000,
+  _0x238e48 = 3,
+  _0x30f72a = 3.03,
+  _0x16c88c = "sfsy",
+  _0x1e5430 = "https://leafxcy.coding.net/api/user/leafxcy/project/validcode/shared-depot/validCode/git/blob/master/code.json",
+  _0x5c6146 = "https://leafxcy.coding.net/api/user/leafxcy/project/validcode/shared-depot/validCode/git/blob/master/" + _0x16c88c + ".json",
+  _0x4da51e = 5,
+  _0x8785c6 = "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+  _0x5aa02d = "wwesldfs29aniversaryvdld29",
+  _0x2bbd78 = "MCS-MIMP-CORE",
+  _0x1f992f = "czflqdlhbxcx",
+  _0x51a8e3 = "wxwd26mem1",
+  _0xd3a68c = {
+    "BAOZHU_CARD": "[爆竹卡]",
+    "CHUNLIAN_CARD": "[春联卡]",
+    "DENGLONG_CARD": "[灯笼卡]",
+    "HONGBAO_CARD": "[红包卡]",
+    "YUANXIAO_CARD": "[元宵卡]",
+    "CHUANGHUA_CARD": "[窗花卡]",
+    "COMMON_CARD": "[万能卡]"
+  },
+  _0x2500ab = {
+    "PUSH_TIMES": "推金币次数",
+    "COIN": "金币",
+    "WELFARE_CARD": "财富卡",
+    "RICH_CARD_GAME": "发财卡"
+  },
+  _0xb8d615 = "YEAR_END_2023",
+  _0x4c1524 = "ANNIVERSARY_2024",
+  _0x1c616b = "MEMBER_DAY",
+  _0x49a488 = "DRAGONBOAT_2024",
+  _0x48074c = 8,
+  _0x596697 = 1 << _0x48074c - 1,
+  _0x144bb1 = ["完成连签7天", "参与积分活动", "每月累计寄件", "完成每月任务", "与好友微信分享会员福利", "DAILY_VIP_TASK_TYPE", "去新增一个收件偏好", "用行业模板寄件下单", "用积分兑任意礼品", "领任意生活特权福利", "设置你的顺丰ID"];
+let _0x11aa2a = [],
+  _0x479306 = {},
+  _0x48776e = 0,
+  _0x3ecd02 = 0;
+function _0x52bf8a() {
+  _0x3ecd02 = 1;
   process.on("SIGTERM", () => {
-    _0x13c734 = 2;
+    _0x3ecd02 = 2;
     process.exit(0);
   });
-  const _0x1067e7 = _0x2bbc1d.basename(process.argv[1]),
-    _0x485af0 = ["bash", "timeout", "grep"];
-  let _0x58df8a = ["ps afx"];
-  _0x58df8a.push("grep " + _0x1067e7);
-  _0x58df8a = _0x58df8a.concat(_0x485af0.map(_0x12a62f => "grep -v \"" + _0x12a62f + " \""));
-  _0x58df8a.push("wc -l");
-  const _0x5ef64e = _0x58df8a.join("|"),
-    _0x3b614a = () => {
-      _0x526718(_0x5ef64e, (_0x3ebb06, _0x1bb818, _0x1b4324) => {
-        if (_0x3ebb06 || _0x1b4324) {
+  const _0x3fadf2 = _0x508ad7.basename(process.argv[1]),
+    _0x51cacc = ["bash", "timeout", "grep"];
+  let _0x5739a3 = ["ps afx"];
+  _0x5739a3.push("grep " + _0x3fadf2);
+  _0x5739a3 = _0x5739a3.concat(_0x51cacc.map(_0x1aee2b => "grep -v \"" + _0x1aee2b + " \""));
+  _0x5739a3.push("wc -l");
+  const _0x78340f = _0x5739a3.join("|"),
+    _0x3362ef = () => {
+      _0x39cbfc(_0x78340f, (_0x5629d7, _0x4f58df, _0x1a68f3) => {
+        if (_0x5629d7 || _0x1a68f3) {
           return;
         }
-        _0x191c8c = parseInt(_0x1bb818.trim(), 10);
+        _0x48776e = parseInt(_0x4f58df.trim(), 10);
       });
-      if (_0x13c734 == 1) {
-        setTimeout(_0x3b614a, 2000);
-      }
+      _0x3ecd02 == 1 && setTimeout(_0x3362ef, 2000);
     };
-  _0x3b614a();
+  _0x3362ef();
 }
-class _0x1e60de {
+class _0x5d22ab {
   constructor() {
-    this.index = _0x4c672b.userIdx++;
+    this.index = _0x1366a8.userIdx++;
     this.name = "";
     this.valid = false;
-    const _0x1dc10b = {
-      limit: 0
-    };
-    const _0x3e8908 = {
-      Connection: "keep-alive"
-    };
-    const _0x7705b4 = {
-      retry: _0x1dc10b,
-      timeout: _0x148eb1,
-      followRedirect: false,
-      ignoreInvalidCookies: true,
-      headers: _0x3e8908
-    };
-    this.got = _0x2bba68.extend(_0x7705b4);
-    if (_0x13c734 == 0) {
-      _0x169d23();
+    const _0x1d0d84 = {
+        "limit": 0
+      },
+      _0x5599b9 = {
+        "Connection": "keep-alive"
+      },
+      _0x61552a = {
+        "retry": _0x1d0d84,
+        "timeout": _0x5b274f,
+        "followRedirect": false,
+        "ignoreInvalidCookies": true,
+        "headers": _0x5599b9
+      };
+    this.got = _0x149a58.extend(_0x61552a);
+    if (_0x3ecd02 == 0) {
+      _0x52bf8a();
     }
   }
-  log(_0x269c59, _0x301c3b = {}) {
-    var _0x18a4a7 = "",
-      _0x732521 = _0x4c672b.userCount.toString().length;
-    if (this.index) {
-      _0x18a4a7 += "账号[" + _0x4c672b.padStr(this.index, _0x732521) + "]";
-    }
-    if (this.name) {
-      _0x18a4a7 += "[" + this.name + "]";
-    }
-    _0x4c672b.log(_0x18a4a7 + _0x269c59, _0x301c3b);
+  ["log"](_0x21fe94, _0x39fb22 = {}) {
+    var _0x31b824 = "",
+      _0x5cffb5 = _0x1366a8.userCount.toString().length;
+    this.index && (_0x31b824 += "账号[" + _0x1366a8.padStr(this.index, _0x5cffb5) + "]");
+    this.name && (_0x31b824 += "[" + this.name + "]");
+    _0x1366a8.log(_0x31b824 + _0x21fe94, _0x39fb22);
   }
-  set_cookie(_0x2599f0, _0x6eb0f3, _0x312d79, _0x193e1e, _0x5c93b8 = {}) {
-    this.cookieJar.setCookieSync(_0x2599f0 + "=" + _0x6eb0f3 + "; Domain=" + _0x312d79 + ";", "" + _0x193e1e);
+  ["set_cookie"](_0x5a0503, _0x1fa732, _0x15fe3f, _0x2d9b31, _0x1de568 = {}) {
+    this.cookieJar.setCookieSync(_0x5a0503 + "=" + _0x1fa732 + "; Domain=" + _0x15fe3f + ";", "" + _0x2d9b31);
   }
-  async request(_0x433feb) {
-    const _0x290a0a = ["ECONNRESET", "EADDRINUSE", "ENOTFOUND", "EAI_AGAIN"],
-      _0x23df85 = ["TimeoutError"],
-      _0x668150 = ["EPROTO"],
-      _0x1a1818 = [];
-    var _0x4a443f = null,
-      _0x1a7b45 = 0,
-      _0x3f4231 = _0x433feb.fn || _0x433feb.url;
-    let _0x5e1d36 = _0x4c672b.get(_0x433feb, "valid_code", _0x1a1818);
-    _0x433feb.method = _0x433feb?.["method"]?.["toUpperCase"]() || "GET";
-    let _0x823091, _0x173cf5;
-    while (_0x1a7b45 < _0x1cbe1e) {
+  async ["request"](_0x330dd5) {
+    const _0x2e3323 = ["ECONNRESET", "EADDRINUSE", "ENOTFOUND", "EAI_AGAIN"],
+      _0x4d7527 = ["TimeoutError"],
+      _0x50ea8b = ["EPROTO"],
+      _0x39d2d6 = [];
+    var _0x25080e = null,
+      _0x197aab = 0,
+      _0x297358 = _0x330dd5.fn || _0x330dd5.url;
+    let _0x6aab7b = _0x1366a8.get(_0x330dd5, "valid_code", _0x39d2d6);
+    _0x330dd5.method = _0x330dd5?.["method"]?.["toUpperCase"]() || "GET";
+    let _0xe78592, _0x5dda49;
+    while (_0x197aab < _0x238e48) {
       try {
-        _0x1a7b45++;
-        _0x823091 = "";
-        _0x173cf5 = "";
-        let _0x179710 = null,
-          _0x58a24f = _0x433feb?.["timeout"] || this.got?.["defaults"]?.["options"]?.["timeout"]?.["request"] || _0x148eb1,
-          _0x143403 = false,
-          _0x3d7559 = Math.max(this.index - 2, 0),
-          _0x37401b = Math.min(Math.max(this.index - 2, 1), 4),
-          _0x123345 = Math.min(Math.max(this.index - 4, 1), 5),
-          _0x45246d = _0x3d7559 * _0x37401b * _0x123345 * _0x123345 * 600,
-          _0x315014 = _0x3d7559 * _0x37401b * _0x123345 * _0x123345 * 4000,
-          _0xcde5b2 = _0x45246d + Math.floor(Math.random() * _0x315014),
-          _0x359a88 = _0x191c8c * (_0x191c8c - 1) * 3000,
-          _0x3a57f5 = (_0x191c8c - 1) * (_0x191c8c - 1) * 5000,
-          _0x307da0 = _0x359a88 + Math.floor(Math.random() * _0x3a57f5),
-          _0x17e433 = Math.max(_0x4c672b.userCount - 2, 0),
-          _0xeb7e25 = Math.max(_0x4c672b.userCount - 3, 0),
-          _0x36d37b = _0x17e433 * 400,
-          _0x55e6b9 = _0xeb7e25 * 1000,
-          _0x2c7717 = _0x36d37b + Math.floor(Math.random() * _0x55e6b9),
-          _0x2a8da8 = _0xcde5b2 + _0x307da0 + _0x2c7717;
-        await _0x4c672b.wait(_0x2a8da8);
-        await new Promise(async _0x57cb0a => {
+        _0x197aab++;
+        _0xe78592 = "";
+        _0x5dda49 = "";
+        let _0x447414 = null,
+          _0x159376 = _0x330dd5?.["timeout"] || this.got?.["defaults"]?.["options"]?.["timeout"]?.["request"] || _0x5b274f,
+          _0x422da7 = false,
+          _0x5ec7e8 = Math.max(this.index - 2, 0),
+          _0x37e872 = Math.min(Math.max(this.index - 2, 1), 4),
+          _0x3e6bdb = Math.min(Math.max(this.index - 4, 1), 5),
+          _0x1761f6 = _0x5ec7e8 * _0x37e872 * _0x3e6bdb * _0x3e6bdb * 600,
+          _0x477acd = _0x5ec7e8 * _0x37e872 * _0x3e6bdb * _0x3e6bdb * 4000,
+          _0x19514d = _0x1761f6 + Math.floor(Math.random() * _0x477acd),
+          _0x7335a0 = _0x48776e * (_0x48776e - 1) * 3000,
+          _0x504cf8 = (_0x48776e - 1) * (_0x48776e - 1) * 5000,
+          _0x4258d2 = _0x7335a0 + Math.floor(Math.random() * _0x504cf8),
+          _0x5ec485 = Math.max(_0x1366a8.userCount - 2, 0),
+          _0x115d4f = Math.max(_0x1366a8.userCount - 3, 0),
+          _0x59163e = _0x5ec485 * 400,
+          _0x127afd = _0x115d4f * 1000,
+          _0x563aaa = _0x59163e + Math.floor(Math.random() * _0x127afd),
+          _0x351eea = _0x19514d + _0x4258d2 + _0x563aaa;
+        await _0x1366a8.wait(_0x351eea);
+        await new Promise(async _0x211c40 => {
           setTimeout(() => {
-            _0x143403 = true;
-            _0x57cb0a();
-          }, _0x58a24f);
-          await this.got(_0x433feb).then(_0x4366f3 => {
-            _0x4a443f = _0x4366f3;
-          }, _0x30aa0f => {
-            _0x179710 = _0x30aa0f;
-            _0x4a443f = _0x30aa0f.response;
-            _0x823091 = _0x179710?.["code"] || "";
-            _0x173cf5 = _0x179710?.["name"] || "";
+            _0x422da7 = true;
+            _0x211c40();
+          }, _0x159376);
+          await this.got(_0x330dd5).then(_0x20c380 => {
+            _0x25080e = _0x20c380;
+          }, _0x257dcc => {
+            _0x447414 = _0x257dcc;
+            _0x25080e = _0x257dcc.response;
+            _0xe78592 = _0x447414?.["code"] || "";
+            _0x5dda49 = _0x447414?.["name"] || "";
           });
-          _0x57cb0a();
+          _0x211c40();
         });
-        if (_0x143403) {
-          this.log("[" + _0x3f4231 + "]请求超时(" + _0x58a24f / 1000 + "秒)，重试第" + _0x1a7b45 + "次");
+        if (_0x422da7) {
+          this.log("[" + _0x297358 + "]请求超时(" + _0x159376 / 1000 + "秒)，重试第" + _0x197aab + "次");
         } else {
-          if (_0x668150.includes(_0x823091)) {
-            this.log("[" + _0x3f4231 + "]请求错误[" + _0x823091 + "][" + _0x173cf5 + "]");
-            if (_0x179710?.["message"]) {
-              console.log(_0x179710.message);
+          if (_0x50ea8b.includes(_0xe78592)) {
+            this.log("[" + _0x297358 + "]请求错误[" + _0xe78592 + "][" + _0x5dda49 + "]");
+            if (_0x447414?.["message"]) {
+              console.log(_0x447414.message);
             }
             break;
           } else {
-            if (_0x23df85.includes(_0x173cf5)) {
-              this.log("[" + _0x3f4231 + "]请求错误[" + _0x823091 + "][" + _0x173cf5 + "]，重试第" + _0x1a7b45 + "次");
-            } else {
-              if (_0x290a0a.includes(_0x823091)) {
-                this.log("[" + _0x3f4231 + "]请求错误[" + _0x823091 + "][" + _0x173cf5 + "]，重试第" + _0x1a7b45 + "次");
-              } else {
-                let _0x26ca58 = _0x4a443f?.["statusCode"] || "",
-                  _0xeb6c6a = _0x26ca58 / 100 | 0;
-                if (_0x26ca58) {
-                  _0xeb6c6a > 3 && !_0x5e1d36.includes(_0x26ca58) && (_0x26ca58 ? this.log("请求[" + _0x3f4231 + "]返回[" + _0x26ca58 + "]") : this.log("请求[" + _0x3f4231 + "]错误[" + _0x823091 + "][" + _0x173cf5 + "]"));
-                  if (_0xeb6c6a <= 4) {
+            if (_0x4d7527.includes(_0x5dda49)) this.log("[" + _0x297358 + "]请求错误[" + _0xe78592 + "][" + _0x5dda49 + "]，重试第" + _0x197aab + "次");else {
+              if (_0x2e3323.includes(_0xe78592)) this.log("[" + _0x297358 + "]请求错误[" + _0xe78592 + "][" + _0x5dda49 + "]，重试第" + _0x197aab + "次");else {
+                let _0x537c00 = _0x25080e?.["statusCode"] || "",
+                  _0x2db2b7 = _0x537c00 / 100 | 0;
+                if (_0x537c00) {
+                  _0x2db2b7 > 3 && !_0x6aab7b.includes(_0x537c00) && (_0x537c00 ? this.log("请求[" + _0x297358 + "]返回[" + _0x537c00 + "]") : this.log("请求[" + _0x297358 + "]错误[" + _0xe78592 + "][" + _0x5dda49 + "]"));
+                  if (_0x2db2b7 <= 4) {
                     break;
                   }
-                } else {
-                  this.log("请求[" + _0x3f4231 + "]错误[" + _0x823091 + "][" + _0x173cf5 + "]");
-                }
+                } else this.log("请求[" + _0x297358 + "]错误[" + _0xe78592 + "][" + _0x5dda49 + "]");
               }
             }
           }
         }
-      } catch (_0x3004fb) {
-        _0x3004fb.name == "TimeoutError" ? this.log("[" + _0x3f4231 + "]请求超时，重试第" + _0x1a7b45 + "次") : this.log("[" + _0x3f4231 + "]请求错误(" + _0x3004fb.message + ")，重试第" + _0x1a7b45 + "次");
+      } catch (_0x3a5b61) {
+        _0x3a5b61.name == "TimeoutError" ? this.log("[" + _0x297358 + "]请求超时，重试第" + _0x197aab + "次") : this.log("[" + _0x297358 + "]请求错误(" + _0x3a5b61.message + ")，重试第" + _0x197aab + "次");
       }
     }
-    if (_0x4a443f == null) {
-      return Promise.resolve({
-        statusCode: _0x823091 || -1,
-        headers: null,
-        result: null
-      });
-    }
+    const _0x2d8cba = {
+      "statusCode": _0xe78592 || -1,
+      "headers": null,
+      "result": null
+    };
+    if (_0x25080e == null) return Promise.resolve(_0x2d8cba);
     let {
-      statusCode: _0x50b741,
-      headers: _0x590c9b,
-      body: _0x1d560d
-    } = _0x4a443f;
-    if (_0x1d560d) {
+      statusCode: _0x7b584b,
+      headers: _0x3ec0c6,
+      body: _0xbf2fff
+    } = _0x25080e;
+    if (_0xbf2fff) {
       try {
-        _0x1d560d = JSON.parse(_0x1d560d);
+        _0xbf2fff = JSON.parse(_0xbf2fff);
       } catch {}
     }
-    const _0x44d302 = {
-      statusCode: _0x50b741,
-      headers: _0x590c9b,
-      result: _0x1d560d
+    const _0x584858 = {
+      "statusCode": _0x7b584b,
+      "headers": _0x3ec0c6,
+      "result": _0xbf2fff
     };
-    return Promise.resolve(_0x44d302);
+    return Promise.resolve(_0x584858);
   }
 }
-let _0x24046c = _0x1e60de;
+let _0x49bd9d = _0x5d22ab;
 try {
-  let _0x12396e = require("./LocalBasic");
-  _0x24046c = _0x12396e;
+  let _0x5e0ebf = require("./LocalBasic");
+  _0x49bd9d = _0x5e0ebf;
 } catch {}
-let _0x23c014 = new _0x24046c(_0x4c672b);
-class _0x333e45 extends _0x24046c {
-  constructor(_0xd93737) {
-    super(_0x4c672b);
-    this.cookieJar = new _0x4484a5();
-    const _0x320a64 = {
-      "User-Agent": _0x546817
+let _0xd9af8d = new _0x49bd9d(_0x1366a8);
+class _0x520715 extends _0x49bd9d {
+  constructor(_0x34905f) {
+    super(_0x1366a8);
+    this.refreshUrl = _0x34905f;
+    this.cookieJar = new _0xd37655();
+    this.deviceId = _0x1366a8.randomPattern("xxxxxxxx-xxxx-xxxx");
+    this.jika_black = false;
+    this.anniversary_black = false;
+    this.dragonBoat_black = false;
+    this.memberDay_black = false;
+    this.memberDay_redPacket_drewToday = false;
+    this.memberDay_redPacket_map = {};
+    const _0x196321 = {
+      "User-Agent": _0x8785c6
     };
     this.got = this.got.extend({
-      cookieJar: this.cookieJar,
-      headers: _0x320a64
+      "cookieJar": this.cookieJar,
+      "headers": _0x196321
     });
-    let _0x52e0a3 = _0xd93737.split("#");
-    this.token_online = _0x52e0a3[0];
-    this.unicomTokenId = _0x4c672b.randomString(32);
-    this.tokenId_cookie = "chinaunicom-" + _0x4c672b.randomString(32, _0x4e5ad9 + _0x4192c6).toUpperCase();
-    this.rptId = "";
-    this.city = [];
-    this.t_flmf_task = 0;
-    this.t_woread_draw = 0;
-    this.need_read_rabbit = false;
-    this.moonbox_task_record = {};
-    this.moonbox_notified = [];
-    this.set_cookie("TOKENID_COOKIE", this.tokenId_cookie);
-    this.set_cookie("UNICOM_TOKENID", this.unicomTokenId);
-    this.set_cookie("sdkuuid", this.unicomTokenId);
   }
-  set_cookie(_0x693930, _0x1088e8, _0x52b165 = {}) {
-    let _0x44b4f4 = _0x52b165?.["domain"] || "10010.com",
-      _0x3b30c6 = _0x52b165?.["currentUrl"] || "https://epay.10010.com";
-    super.set_cookie(_0x693930, _0x1088e8, _0x44b4f4, _0x3b30c6, _0x52b165);
-  }
-  get_bizchannelinfo() {
-    const _0x2fbd5b = {
-      bizChannelCode: _0x46b3a9,
-      disriBiz: _0x127422,
-      unionSessionId: "",
-      stType: "",
-      stDesmobile: "",
-      source: "",
-      rptId: this.rptId,
-      ticket: "",
-      tongdunTokenId: this.tokenId_cookie,
-      xindunTokenId: this.sdkuuid
+  ["getSign"](_0x4a4eb6 = {}) {
+    let _0x2419a7 = Date.now(),
+      _0x58700a = "token=" + _0x5aa02d + "&timestamp=" + _0x2419a7 + "&sysCode=" + _0x2bbd78,
+      _0x9fa05 = _0x204044.MD5(_0x58700a).toString();
+    const _0x7e67b4 = {
+      "platform": "MINI_PROGRAM",
+      "channel": _0x51a8e3,
+      "sysCode": _0x2bbd78,
+      "timestamp": _0x2419a7,
+      "signature": _0x9fa05
     };
-    let _0x2ae285 = JSON.stringify(_0x2fbd5b);
-    return _0x2ae285;
+    return _0x7e67b4;
   }
-  get_epay_authinfo() {
-    const _0x31fa00 = {
-      mobile: "",
-      sessionId: this.sessionId,
-      tokenId: this.tokenId,
-      userId: ""
-    };
-    return JSON.stringify(_0x31fa00);
-  }
-  get_flmf_data(_0x30396c = "welfareCenter") {
-    const _0x1e4b94 = {
-      sid: this.flmf_sid,
-      actcode: _0x30396c
-    };
-    return _0x1e4b94;
-  }
-  encode_woread(_0x1fb841, _0x2edf26 = _0x49426e) {
-    let _0x5d406d = _0x71b805("AES", "CBC", "Pkcs7", JSON.stringify(_0x1fb841), _0x2edf26, _0x18c84f);
-    return Buffer.from(_0x5d406d, "utf-8").toString("base64");
-  }
-  get_woread_param() {
-    return {
-      timestamp: _0x4c672b.time("yyyyMMddhhmmss"),
-      token: this.woread_token,
-      userid: this.woread_userid,
-      userId: this.woread_userid,
-      userIndex: this.woread_userIndex,
-      userAccount: this.mobile,
-      verifyCode: this.woread_verifycode
-    };
-  }
-  get_woread_m_param() {
-    return {
-      timestamp: _0x4c672b.time("yyyyMMddhhmmss"),
-      signtimestamp: Date.now(),
-      source: _0x3bb78f,
-      token: this.woread_token
-    };
-  }
-  get_ltyp_sign_header(_0x535fbf) {
-    let _0x4ebb05 = Date.now(),
-      _0x334431 = Math.floor(89999 * Math.random()) + 100000,
-      _0x26bfbe = _0x2a3518,
-      _0x5ba8fb = _0x353847,
-      _0x461c52 = _0x368aa5.MD5(_0x535fbf + _0x4ebb05 + _0x334431 + _0x26bfbe + _0x5ba8fb).toString();
-    const _0x59dfc6 = {
-      key: _0x535fbf,
-      resTime: _0x4ebb05,
-      reqSeq: _0x334431,
-      channel: _0x26bfbe,
-      version: _0x5ba8fb,
-      sign: _0x461c52
-    };
-    return _0x59dfc6;
-  }
-  async onLine(_0x12cbf8 = {}) {
-    let _0x4d2878 = false;
+  async ["refresh_cookie"](_0x2edcab = {}) {
+    let _0x23229d = false;
     try {
-      let _0x248c36 = {
-          fn: "onLine",
-          method: "post",
-          url: "https://m.client.10010.com/mobileService/onLine.htm",
-          form: {
-            token_online: this.token_online,
-            reqtime: _0x4c672b.time("yyyy-MM-dd hh:mm:ss"),
-            appId: _0x281cdf,
-            version: _0x469423,
-            step: "bindlist",
-            isFirstInstall: 0,
-            deviceModel: "iPhone"
-          }
-        },
-        {
-          result: _0x1b682a,
-          statusCode: _0x152ca4
-        } = await this.request(_0x248c36),
-        _0x5655f9 = _0x4c672b.get(_0x1b682a, "code", _0x152ca4);
-      if (_0x5655f9 == 0) {
-        _0x4d2878 = true;
-        this.valid = true;
-        this.mobile = _0x1b682a?.["desmobile"];
-        this.name = _0x1b682a?.["desmobile"];
-        this.ecs_token = _0x1b682a?.["ecs_token"];
-        this.city = _0x1b682a?.["list"];
-        this.log("登录成功");
-      } else {
-        this.valid = false;
-        this.log("登录失败[" + _0x5655f9 + "]");
-      }
-    } catch (_0x158d45) {
-      console.log(_0x158d45);
-    } finally {
-      return _0x4d2878;
-    }
-  }
-  async openPlatLineNew(_0x214a77, _0x356709 = {}) {
-    const _0x51e388 = {
-      ticket: "",
-      type: "",
-      loc: ""
-    };
-    let _0x6e6d39 = _0x51e388;
-    try {
-      const _0x4299db = {
-        to_url: _0x214a77
-      };
-      const _0x312936 = {
-        fn: "openPlatLineNew",
-        method: "get",
-        url: "https://m.client.10010.com/mobileService/openPlatform/openPlatLineNew.htm",
-        searchParams: _0x4299db
+      const _0x1970d3 = {
+        "fn": "refresh_cookie",
+        "method": "get",
+        "url": this.refreshUrl
       };
       let {
-        headers: _0x1ad54b,
-        statusCode: _0x3bb878
-      } = await this.request(_0x312936);
-      if (_0x1ad54b?.["location"]) {
-        let _0x4d5939 = new URL(_0x1ad54b.location),
-          _0x5c9903 = _0x4d5939.searchParams.get("type") || "02",
-          _0x10c474 = _0x4d5939.searchParams.get("ticket");
-        !_0x10c474 && this.log("获取ticket失败");
-        const _0x3aab7e = {
-          loc: _0x1ad54b.location,
-          ticket: _0x10c474,
-          type: _0x5c9903
-        };
-        _0x6e6d39 = _0x3aab7e;
-      } else {
-        this.log("获取ticket失败[" + _0x3bb878 + "]");
-      }
-    } catch (_0x2f04bf) {
-      console.log(_0x2f04bf);
-    } finally {
-      return _0x6e6d39;
-    }
-  }
-  async gettaskip(_0x14bf80 = {}) {
-    let _0x4d9a4f = _0x4c672b.randomString(32).toUpperCase();
-    try {
-      const _0x21c80b = {
-        mobile: this.mobile,
-        orderId: _0x4d9a4f
-      };
-      const _0x23a9e8 = {
-        fn: "gettaskip",
-        method: "post",
-        url: "https://m.client.10010.com/taskcallback/topstories/gettaskip",
-        form: _0x21c80b
-      };
-      await this.request(_0x23a9e8);
-    } catch (_0x39c470) {
-      console.log(_0x39c470);
-    } finally {
-      return _0x4d9a4f;
-    }
-  }
-  async draw_28_queryChance(_0x4fee58 = {}) {
-    try {
-      const _0x155eef = {
-        fn: "draw_28_queryChance",
-        method: "post",
-        url: "https://m.client.10010.com/AppMonthly/appMonth/queryChance"
-      };
-      let {
-          result: _0x264d2c,
-          statusCode: _0x1270ec
-        } = await this.request(_0x155eef),
-        _0x16eb3b = _0x4c672b.get(_0x264d2c, "status", _0x1270ec);
-      if (_0x16eb3b == "0000") {
-        let _0x16c184 = parseInt(_0x264d2c?.["data"]?.["allRemainTimes"] || 0),
-          _0x20fa50 = Math.min(_0x4cffb4, _0x16c184);
-        this.log("28日五折日可以抽奖" + _0x16c184 + "次, 去抽" + _0x20fa50 + "次");
-        let _0x3cbcdc = false;
-        while (_0x20fa50-- > 0) {
-          if (_0x3cbcdc) {
-            await _0x4c672b.wait(8000);
-          }
-          _0x3cbcdc = true;
-          await this.draw_28_lottery();
-        }
-      } else {
-        let _0x10a2a1 = _0x264d2c?.["message"] || _0x264d2c?.["msg"] || "";
-        this.log("28日五折日查询抽奖次数失败[" + _0x16eb3b + "]: " + _0x10a2a1);
-      }
-    } catch (_0x30dd28) {
-      console.log(_0x30dd28);
-    }
-  }
-  async draw_28_lottery(_0x30b1c2 = {}) {
-    try {
-      const _0x1dc0b2 = {
-        fn: "draw_28_lottery",
-        method: "post",
-        url: "https://m.client.10010.com/AppMonthly/appMonth/lottery"
-      };
-      let {
-          result: _0x49d94d,
-          statusCode: _0x1541b9
-        } = await this.request(_0x1dc0b2),
-        _0x201a54 = _0x4c672b.get(_0x49d94d, "status", _0x1541b9);
-      if (_0x201a54 == "0000") {
-        let _0x2f5c79 = _0x4c672b.get(_0x49d94d?.["data"], "code", -1);
-        if (_0x49d94d?.["data"]?.["uuid"]) {
-          await _0x4c672b.wait(2000);
-          await this.draw_28_winningRecord(_0x49d94d.data.uuid);
-        } else {
-          let _0x385a86 = _0x49d94d?.["data"]?.["message"] || _0x49d94d?.["data"]?.["msg"] || "";
-          this.log("28日五折日抽奖失败[" + _0x2f5c79 + "]: " + _0x385a86);
-        }
-      } else {
-        let _0x10529b = _0x49d94d?.["message"] || _0x49d94d?.["msg"] || "";
-        this.log("28日五折日抽奖失败[" + _0x201a54 + "]: " + _0x10529b);
-      }
-    } catch (_0x184f71) {
-      console.log(_0x184f71);
-    }
-  }
-  async draw_28_winningRecord(_0xefc971, _0x31e980 = {}) {
-    try {
-      const _0x1a1822 = {
-        requestId: _0xefc971
-      };
-      const _0x8694fa = {
-        fn: "draw_28_winningRecord",
-        method: "post",
-        url: "https://m.client.10010.com/AppMonthly/appMonth/winningRecord",
-        form: _0x1a1822
-      };
-      let {
-          result: _0x555923,
-          statusCode: _0x24354c
-        } = await this.request(_0x8694fa),
-        _0x4f5744 = _0x4c672b.get(_0x555923, "status", _0x24354c);
-      if (_0x4f5744 == "0000") {
-        let _0x1d3b22 = _0x4c672b.get(_0x555923?.["data"], "code", -1);
-        if (_0x1d3b22 == "0000") {
-          const _0x38cfce = {
-            notify: true
-          };
-          this.log("28日五折日抽奖: " + _0x555923?.["data"]?.["prizeName"]?.["replace"](/\t/g, ""), _0x38cfce);
-        } else {
-          let _0x1218f5 = _0x555923?.["data"]?.["message"] || _0x555923?.["data"]?.["msg"] || "";
-          this.log("查询28日五折日抽奖结果失败[" + _0x1d3b22 + "]: " + _0x1218f5);
-        }
-      } else {
-        let _0x408868 = _0x555923?.["message"] || _0x555923?.["msg"] || "";
-        this.log("查询28日五折日抽奖结果失败[" + _0x4f5744 + "]: " + _0x408868);
-      }
-    } catch (_0xfa9340) {
-      console.log(_0xfa9340);
-    }
-  }
-  async ttlxj_authorize(_0x11f5a4, _0x2307cf, _0x3da8d2, _0x10b4d4 = {}) {
-    try {
-      let _0x388582 = {
-          fn: "ttlxj_authorize",
-          method: "post",
-          url: "https://epay.10010.com/woauth2/v2/authorize",
-          headers: {
-            Origin: "https://epay.10010.com",
-            Referer: _0x3da8d2
-          },
-          json: {
-            response_type: "rptid",
-            client_id: _0x460d74,
-            redirect_uri: "https://epay.10010.com/ci-mps-st-web/",
-            login_hint: {
-              credential_type: "st_ticket",
-              credential: _0x11f5a4,
-              st_type: _0x2307cf,
-              force_logout: true,
-              source: "app_sjyyt"
-            },
-            device_info: {
-              token_id: "chinaunicom-pro-" + Date.now() + "-" + _0x4c672b.randomString(13),
-              trace_id: _0x4c672b.randomString(32)
-            }
-          }
-        },
-        {
-          result: _0x1ef66b
-        } = await this.request(_0x388582),
-        _0x58c1b9 = _0x4c672b.get(_0x1ef66b, "status", -1);
-      if (_0x58c1b9 == 200) {
-        await this.ttlxj_authCheck();
-      } else {
-        let _0x29da44 = _0x1ef66b?.["message"] || _0x1ef66b?.["msg"] || "";
-        this.log("天天领现金获取SESSION失败[" + _0x58c1b9 + "]: " + _0x29da44);
-      }
-    } catch (_0x588690) {
-      console.log(_0x588690);
-    }
-  }
-  async ttlxj_authCheck(_0x4f6022 = {}) {
-    try {
-      let _0x4d99f0 = {
-          fn: "ttlxj_authCheck",
-          method: "post",
-          url: "https://epay.10010.com/ps-pafs-auth-front/v1/auth/check",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo()
-          }
-        },
-        {
-          result: _0x3b9b60
-        } = await this.request(_0x4d99f0),
-        _0x225a71 = _0x4c672b.get(_0x3b9b60, "code", -1);
-      if (_0x225a71 == "0000") {
-        let {
-          mobile: _0x3d95dc,
-          sessionId: _0x4d0c33,
-          tokenId: _0x49ad12,
-          userId: _0x31f9ba
-        } = _0x3b9b60?.["data"]?.["authInfo"];
-        const _0x253112 = {
-          sessionId: _0x4d0c33,
-          tokenId: _0x49ad12,
-          userId: _0x31f9ba
-        };
-        Object.assign(this, _0x253112);
-        await this.ttlxj_userDrawInfo();
-        await this.ttlxj_queryAvailable();
-      } else {
-        if (_0x225a71 == "2101000100") {
-          let _0x3c284b = _0x3b9b60?.["data"]?.["woauth_login_url"];
-          await this.ttlxj_login(_0x3c284b);
-        } else {
-          let _0x118393 = _0x3b9b60?.["msgInside"] || _0x3b9b60?.["msg"] || "";
-          this.log("天天领现金获取tokenId失败[" + _0x225a71 + "]: " + _0x118393);
-        }
-      }
-    } catch (_0x241235) {
-      console.log(_0x241235);
-    }
-  }
-  async ttlxj_login(_0x1b4633, _0x14425a = {}) {
-    try {
-      _0x1b4633 += "https://epay.10010.com/ci-mcss-party-web/clockIn/?bizFrom=" + _0x3e622c + "&bizChannelCode=" + _0x46b3a9;
-      const _0x452066 = {
-        fn: "ttlxj_login",
-        method: "get",
-        url: _0x1b4633
-      };
-      let {
-        headers: _0x3fd535,
-        statusCode: _0x11cbd3
-      } = await this.request(_0x452066);
-      if (_0x3fd535?.["location"]) {
-        let _0x48f551 = new URL(_0x3fd535.location);
-        this.rptId = _0x48f551.searchParams.get("rptid");
-        this.rptId ? await this.ttlxj_authCheck() : this.log("天天领现金获取rptid失败");
-      } else {
-        this.log("天天领现金获取rptid失败[" + _0x11cbd3 + "]");
-      }
-    } catch (_0x5dbd52) {
-      console.log(_0x5dbd52);
-    }
-  }
-  async ttlxj_userDrawInfo(_0x37fbc0 = {}) {
-    try {
-      let _0x4d8335 = {
-          fn: "ttlxj_userDrawInfo",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/ttlxj/userDrawInfo",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
-          }
-        },
-        {
-          result: _0x45a3ac
-        } = await this.request(_0x4d8335),
-        _0x5c07d0 = _0x4c672b.get(_0x45a3ac, "code", -1);
-      if (_0x5c07d0 == "0000") {
-        let _0x588d7e = _0x45a3ac?.["data"]?.["dayOfWeek"],
-          _0x54a427 = "day" + _0x588d7e,
-          _0x2e460c = _0x45a3ac?.["data"]?.[_0x54a427] == "1";
-        const _0x21c565 = {
-          notify: true
-        };
-        this.log("天天领现金今天" + (_0x2e460c ? "未" : "已") + "打卡", _0x21c565);
-        if (_0x2e460c) {
-          let _0x8aadbb = new Date().getDay();
-          _0x8aadbb % 7 == 0 ? await this.ttlxj_unifyDrawNew("C") : await this.ttlxj_unifyDrawNew("B");
-        }
-      } else {
-        let _0x164c15 = _0x45a3ac?.["msg"] || "";
-        this.log("天天领现金查询失败[" + _0x5c07d0 + "]: " + _0x164c15);
-      }
-    } catch (_0xe34553) {
-      console.log(_0xe34553);
-    }
-  }
-  async ttlxj_unifyDrawNew(_0x58b44e, _0x1be412 = {}) {
-    try {
-      const _0x3a6ffd = {
-        drawType: _0x58b44e,
-        bizFrom: _0x3e622c,
-        activityId: "TTLXJ20210330"
-      };
-      let _0x1d3a15 = {
-          fn: "ttlxj_unifyDrawNew",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/ttlxj/unifyDrawNew",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
-          },
-          form: _0x3a6ffd
-        },
-        {
-          result: _0x5dd24a
-        } = await this.request(_0x1d3a15),
-        _0x5783a6 = _0x4c672b.get(_0x5dd24a, "code", -1);
-      if (_0x5783a6 == "0000" && _0x5dd24a?.["data"]?.["returnCode"] == 0) {
-        let _0x46ba0e = _0x5dd24a?.["data"]?.["awardTipContent"]?.["replace"](/xx/, _0x5dd24a?.["data"]?.["amount"]);
-        const _0x59731c = {
-          notify: true
-        };
-        this.log("天天领现金打卡:" + _0x46ba0e, _0x59731c);
-      } else {
-        let _0x366f6b = _0x5dd24a?.["data"]?.["returnMsg"] || _0x5dd24a?.["msg"] || "";
-        this.log("天天领现金打卡失败[" + (_0x5dd24a?.["data"]?.["returnCode"] || _0x5783a6) + "]: " + _0x366f6b);
-      }
-    } catch (_0x28cf1a) {
-      console.log(_0x28cf1a);
-    }
-  }
-  async ttlxj_h(_0x47d16c = {}) {
-    try {
-      const _0x2f3dc6 = {
-        bizFrom: _0x3e622c,
-        activityId: _0x3484cf.ttlxj,
-        uid: _0x5b10f9
-      };
-      let _0x469865 = {
-        fn: "ttlxj_h",
-        method: "post",
-        url: "https://epay.10010.com/ci-mcss-party-front/v1/ttlxj/help",
-        headers: {
-          bizchannelinfo: this.get_bizchannelinfo(),
-          authinfo: this.get_epay_authinfo()
-        },
-        form: _0x2f3dc6
-      };
-      await this.request(_0x469865);
-    } catch (_0x173381) {
-      console.log(_0x173381);
-    }
-  }
-  async ttlxj_queryAvailable(_0x23c9d2 = {}) {
-    try {
-      let _0x2f3ee4 = {
-          fn: "ttlxj_queryAvailable",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/ttlxj/queryAvailable",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
-          }
-        },
-        {
-          result: _0x351127
-        } = await this.request(_0x2f3ee4),
-        _0x22c4f9 = _0x4c672b.get(_0x351127, "code", -1);
-      if (_0x22c4f9 == "0000" && _0x351127?.["data"]?.["returnCode"] == 0) {
-        let _0x11a97b = _0x351127?.["data"]?.["availableAmount"] || 0;
-        const _0x3dffbb = {
-          notify: true
-        };
-        this.log("可用立减金: " + (_0x11a97b / 100).toFixed(2) + "元", _0x3dffbb);
-        let _0x3a9ca0 = [],
-          _0x4a77d6 = Date.now();
-        for (let _0x22c5c5 of _0x351127?.["data"]?.["prizeList"]?.["filter"](_0xac5521 => _0xac5521.status == "A")) {
-          let _0xdf42c9 = _0x22c5c5.endTime,
-            _0x148118 = new Date(_0xdf42c9.slice(0, 4) + "-" + _0xdf42c9.slice(4, 6) + "-" + _0xdf42c9.slice(6, 8) + " 00:00:00"),
-            _0xc3cc5f = _0x148118.getTime();
-          if (_0xc3cc5f - _0x4a77d6 < _0x36a6fc * 24 * 60 * 60 * 1000) {
-            let _0x24bd89 = _0x4c672b.time("yyyy-MM-dd", _0xc3cc5f);
-            const _0x4d3dd0 = {
-              timestamp: _0xc3cc5f,
-              date: _0x24bd89,
-              amount: _0x22c5c5.amount
-            };
-            _0x3a9ca0.push(_0x4d3dd0);
-          }
-        }
-        if (_0x3a9ca0.length) {
-          const _0x4097fc = {
-            timestamp: 0
-          };
-          let _0xb33342 = _0x4097fc,
-            _0x296b80 = _0x3a9ca0.reduce(function (_0x11f322, _0x3cd209) {
-              (_0xb33342.timestamp == 0 || _0x3cd209.timestamp < _0xb33342.timestamp) && (_0xb33342 = _0x3cd209);
-              return _0x11f322 + parseFloat(_0x3cd209.amount);
-            }, 0);
-          const _0x5d32b7 = {
-            notify: true
-          };
-          this.log(_0x36a6fc + "天内过期立减金: " + _0x296b80.toFixed(2) + "元", _0x5d32b7);
-          const _0x2dff48 = {
-            notify: true
-          };
-          this.log("最早过期立减金: " + _0xb33342.amount + "元 -- " + _0xb33342.date + "过期", _0x2dff48);
-        } else {
-          const _0x437216 = {
-            notify: true
-          };
-          this.log(_0x36a6fc + "天内没有过期的立减金", _0x437216);
-        }
-      } else {
-        let _0x1a23ec = _0x351127?.["data"]?.["returnMsg"] || _0x351127?.["msg"] || "";
-        this.log("天天领现金打卡失败[" + (_0x351127?.["data"]?.["returnCode"] || _0x22c4f9) + "]: " + _0x1a23ec);
-      }
-    } catch (_0x2d80a8) {
-      console.log(_0x2d80a8);
-    }
-  }
-  async epay_28_authCheck(_0x1d0fd8 = {}) {
-    try {
-      let _0x35ae82 = {
-          fn: "epay_28_authCheck",
-          method: "post",
-          url: "https://epay.10010.com/ps-pafs-auth-front/v1/auth/check",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo()
-          }
-        },
-        {
-          result: _0x1d449e
-        } = await this.request(_0x35ae82),
-        _0x4e8f00 = _0x4c672b.get(_0x1d449e, "code", -1);
-      if (_0x4e8f00 == "0000") {
-        let {
-          mobile: _0x4668a5,
-          sessionId: _0xb2b5be,
-          tokenId: _0x7c73d9,
-          userId: _0x42df1c
-        } = _0x1d449e?.["data"]?.["authInfo"];
-        const _0x4d9ca1 = {
-          sessionId: _0xb2b5be,
-          tokenId: _0x7c73d9,
-          userId: _0x42df1c
-        };
-        Object.assign(this, _0x4d9ca1);
-        await this.epay_28_queryUserPage();
-      } else {
-        if (_0x4e8f00 == "2101000100") {
-          let _0x5892fa = _0x1d449e?.["data"]?.["woauth_login_url"];
-          await this.epay_28_login(_0x5892fa);
-        } else {
-          let _0x1fb8e2 = _0x1d449e?.["msgInside"] || _0x1d449e?.["msg"] || "";
-          this.log("联通支付日获取tokenId失败[" + _0x4e8f00 + "]: " + _0x1fb8e2);
-        }
-      }
-    } catch (_0x268652) {
-      console.log(_0x268652);
-    }
-  }
-  async epay_28_login(_0x139155, _0x3721a9 = {}) {
-    try {
-      let _0x236f54 = _0x4c672b.time("yyyyMM") + "28ZFR";
-      _0x139155 += "https://epay.10010.com/ci-mcss-party-web/rainbow/?templateName=" + _0x236f54 + "&bizFrom=225&bizChannelCode=225&channelType=WDQB";
-      const _0x5d5710 = {
-        fn: "epay_28_login",
-        method: "get",
-        url: _0x139155
-      };
-      let {
-        headers: _0x10b4ba,
-        statusCode: _0x1c60e3
-      } = await this.request(_0x5d5710);
-      if (_0x10b4ba?.["location"]) {
-        let _0xbf5a4c = new URL(_0x10b4ba.location);
-        this.rptId = _0xbf5a4c.searchParams.get("rptid");
-        this.rptId ? await this.epay_28_authCheck() : this.log("联通支付日获取rptid失败");
-      } else {
-        this.log("联通支付日获取rptid失败[" + _0x1c60e3 + "]");
-      }
-    } catch (_0x24e61c) {
-      console.log(_0x24e61c);
-    }
-  }
-  async epay_28_queryUserPage(_0x593a59 = {}) {
-    try {
-      let _0x52a117 = _0x4c672b.time("yyyyMM") + "28ZFR";
-      const _0xa4a05 = {
-        templateName: _0x52a117
-      };
-      let _0x2b8287 = {
-          fn: "epay_28_queryUserPage",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/rainbow/queryUserPage",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
-          },
-          form: _0xa4a05
-        },
-        {
-          result: _0x316895
-        } = await this.request(_0x2b8287),
-        _0x2a5e2b = _0x4c672b.get(_0x316895, "code", -1);
-      if (_0x2a5e2b == "0000" && _0x316895?.["data"]?.["returnCode"] == 0) {
-        for (let _0x29cca7 of _0x316895?.["data"]?.["prizeList"]?.["rainbowMouldInfos"] || []) {
-          _0x29cca7?.["rainbowUnitInfos"]?.[0]?.["unitActivityId"] && (await this.epay_28_unifyDraw(_0x29cca7.rainbowUnitInfos[0]));
-          if (_0x29cca7?.["day01DrawParam"]) {
-            await this.epay_28_queryMiddleUnit(_0x52a117, _0x29cca7.mouldName);
+        statusCode: _0x4a183d,
+        headers: _0xa7c30f
+      } = await this.request(_0x1970d3);
+      if (_0x4a183d == 302) {
+        for (let _0x4e32ea of _0xa7c30f["set-cookie"]) {
+          if (_0x4e32ea.includes("_login_mobile_")) {
+            let _0x120be9 = _0x4e32ea.match(/_login_mobile_=(\d+);/);
+            _0x120be9 && (this.name = _0x120be9[1]);
             break;
           }
         }
-      } else {
-        let _0x253476 = _0x316895?.["message"] || _0x316895?.["msg"] || "";
-        this.log("联通支付日进入主页失败[" + _0x2a5e2b + "]: " + _0x253476);
-      }
-    } catch (_0x4d57b5) {
-      console.log(_0x4d57b5);
+        _0x23229d = true;
+        this.log("登录成功");
+      } else this.log("登录失败[" + _0x4a183d + "]");
+    } catch (_0x157636) {
+      console.log(_0x157636);
+    } finally {
+      return _0x23229d;
     }
   }
-  async epay_28_queryMiddleUnit(_0x5c5db5, _0x392918, _0x5f3e9d = {}) {
+  async ["personalInfo"](_0x186e4e = {}) {
     try {
-      const _0x52c66e = {
-        activityId: _0x5c5db5,
-        mouldName: _0x392918
-      };
-      let _0x272e95 = {
-          fn: "epay_28_queryMiddleUnit",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/rainbow/queryMiddleUnit",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
+      let _0x29363c = {
+          "fn": "personalInfo",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/member/personalInfo",
+          "headers": {
+            ...this.getSign()
           },
-          form: _0x52c66e
+          "json": {}
         },
         {
-          result: _0x3851a6
-        } = await this.request(_0x272e95),
-        _0x4b44ce = _0x4c672b.get(_0x3851a6, "code", -1);
-      if (_0x4b44ce == "0000") {
-        let _0xcad9a9 = _0x4c672b.time("dd");
-        _0x3851a6?.["data"]?.[_0xcad9a9] == "1" ? this.log("联通支付日今日(" + _0xcad9a9 + "号)已打卡") : await this.epay_28_unifyDrawNew(_0x5c5db5, _0x392918);
-      } else {
-        let _0x42d4bb = _0x3851a6?.["message"] || _0x3851a6?.["msg"] || "";
-        this.log("联通支付日查询打卡失败[" + _0x4b44ce + "]: " + _0x42d4bb);
-      }
-    } catch (_0x56f54c) {
-      console.log(_0x56f54c);
+          result: _0x45107f
+        } = await this.request(_0x29363c);
+      if (_0x45107f?.["success"]) {
+        const _0x344474 = {
+          "notify": true
+        };
+        this.log("积分: " + _0x45107f.obj.availablePoints, _0x344474);
+      } else this.log("查询账号信息失败: " + (_0x45107f?.["errorMessage"] || (_0x45107f ? JSON.stringify(_0x45107f) : "无返回")));
+    } catch (_0x312ca7) {
+      console.log(_0x312ca7);
     }
   }
-  async epay_28_unifyDrawNew(_0x32455a, _0x3b23ed, _0x4b4480 = {}) {
+  async ["queryUserInfo"](_0x1f93df = {}) {
     try {
-      const _0x1af316 = {
-        bizFrom: _0x3e622c,
-        activityId: _0x32455a,
-        mouldName: _0x3b23ed
-      };
-      let _0x1e4109 = {
-          fn: "epay_28_unifyDrawNew",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/rainbow/unifyDrawNew",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
+      let _0x45f799 = {
+          "fn": "queryUserInfo",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberIntegral~userInfoService~queryUserInfo",
+          "headers": {
+            ...this.getSign()
           },
-          form: _0x1af316
+          "json": {
+            "sysCode": "ESG-CEMP-CORE",
+            "optionalColumns": ["usablePoint", "cycleSub", "leavePoint"],
+            "token": "zeTLTYeG0bLetfRk"
+          }
         },
         {
-          result: _0x39b4c5
-        } = await this.request(_0x1e4109),
-        _0x372dd5 = _0x4c672b.get(_0x39b4c5, "code", -1);
-      if (_0x372dd5 == "0000" && _0x39b4c5?.["data"]?.["returnCode"] == 0) {
-        let _0xc69fe5 = _0x39b4c5?.["data"]?.["awardTipContent"]?.["replace"](/xx/, _0x39b4c5?.["data"]?.["amount"]);
-        const _0x5e238f = {
-          notify: true
+          result: _0x42dd86
+        } = await this.request(_0x45f799);
+      if (_0x42dd86?.["success"]) {
+        let {
+            usablePoint: _0x47ef3e,
+            cycleAdd: _0x48943a,
+            cycleSub: _0x428469,
+            leavePoint: _0x4413ac,
+            pointClearCycle: _0x2c85c9
+          } = _0x42dd86.obj,
+          _0x12a83a = "积分: " + _0x47ef3e,
+          _0x80eedf = _0x4413ac - _0x428469,
+          _0x258b83 = new Date(_0x2c85c9 + " 00:00:00");
+        _0x258b83.setFullYear(_0x258b83.getFullYear() + 1);
+        let _0xebc99 = _0x258b83.getTime();
+        if (_0x80eedf > 0 && _0xebc99 > Date.now()) {
+          let _0x8a3e6d = _0x1366a8.time("yyyy-MM-dd", _0xebc99);
+          _0x12a83a += ", 有" + _0x80eedf + "积分将在" + _0x8a3e6d + "过期";
+        }
+        const _0x1f2a79 = {
+          "notify": true
         };
-        this.log("联通支付日打卡:" + _0xc69fe5, _0x5e238f);
-      } else {
-        let _0x5dd5bd = _0x39b4c5?.["data"]?.["returnMsg"] || _0x39b4c5?.["msg"] || "";
-        this.log("联通支付日打卡失败[" + (_0x39b4c5?.["data"]?.["returnCode"] || _0x372dd5) + "]: " + _0x5dd5bd);
-      }
-    } catch (_0xe6df9) {
-      console.log(_0xe6df9);
+        this.log(_0x12a83a, _0x1f2a79);
+      } else this.log("查询账号信息失败: " + (_0x42dd86?.["errorMessage"] || (_0x42dd86 ? JSON.stringify(_0x42dd86) : "无返回")));
+    } catch (_0x11ca36) {
+      console.log(_0x11ca36);
     }
   }
-  async epay_28_unifyDraw(_0x38a578, _0x5c8b17 = {}) {
+  async ["automaticSignFetchPackage"](_0x3a324f = {}) {
     try {
-      const _0x3bf056 = {
-        activityId: _0x38a578.unitActivityId,
-        isBigActivity: _0x38a578.isBigActivity,
-        bigActivityId: _0x38a578.bigActivityId,
-        bizFrom: _0x3e622c
-      };
-      let _0x59ed9a = {
-          fn: "epay_28_unifyDraw",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/rainbow/unifyDraw",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
+      let _0xcbbc3 = {
+          "fn": "automaticSignFetchPackage",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~integralTaskSignPlusService~automaticSignFetchPackage",
+          "headers": {
+            ...this.getSign()
           },
-          form: _0x3bf056
-        },
-        {
-          result: _0x34ea6b
-        } = await this.request(_0x59ed9a),
-        _0x384c09 = _0x4c672b.get(_0x34ea6b, "code", -1);
-      if (_0x384c09 == "0000" && _0x34ea6b?.["data"]?.["returnCode"] == 0) {
-        const _0x3b6f17 = {
-          notify: true
-        };
-        this.log("联通支付日抽奖: " + (_0x34ea6b?.["data"]?.["prizeName"] || ""), _0x3b6f17);
-      } else {
-        let _0x22895a = _0x34ea6b?.["data"]?.["returnMsg"] || _0x34ea6b?.["msg"] || "";
-        this.log("联通支付日抽奖失败[" + (_0x34ea6b?.["data"]?.["returnCode"] || _0x384c09) + "]: " + _0x22895a);
-      }
-    } catch (_0x4e021a) {
-      console.log(_0x4e021a);
-    }
-  }
-  async appMonth_28_bind(_0x2ae53c, _0x28e539 = {}) {
-    try {
-      const _0x5e8346 = {
-        shareCode: _0x2ae53c,
-        cl: "WeChat"
-      };
-      const _0x5807b0 = {
-        fn: "appMonth_28_bind",
-        method: "post",
-        url: "https://activity.10010.com/AppMonthly/appMonth/bind",
-        form: _0x5e8346,
-        valid_code: [401]
-      };
-      let {
-        result: _0x147b99
-      } = await this.request(_0x5807b0);
-    } catch (_0x24f7a3) {
-      console.log(_0x24f7a3);
-    }
-  }
-  async appMonth_28_queryChance(_0x29ac74 = {}) {
-    try {
-      const _0x2624c6 = {
-        fn: "appMonth_28_queryChance",
-        method: "post",
-        url: "https://activity.10010.com/AppMonthly/appMonth/queryChance"
-      };
-      let {
-          result: _0x5916d9
-        } = await this.request(_0x2624c6),
-        _0x54ad44 = _0x4c672b.get(_0x5916d9, "status", -1);
-      if (_0x54ad44 == "0000") {
-        let {
-          allRemainTimes: _0x2c03ad,
-          isUnicom: _0xb9f5d3
-        } = _0x5916d9?.["data"];
-        if (_0xb9f5d3) {
-          let _0x4254ed = Math.min(_0x52ff20, _0x2c03ad);
-          this.log("联通支付日可以开宝箱" + _0x2c03ad + "次, 去抽" + _0x4254ed + "次");
-          while (_0x4254ed-- > 0) {
-            await this.appMonth_28_lottery();
-          }
-        }
-      } else {
-        let _0x5ac723 = _0x5916d9?.["msg"] || "";
-        this.log("联通支付日查询开宝箱次数失败[" + _0x54ad44 + "]: " + _0x5ac723);
-      }
-    } catch (_0x38708c) {
-      console.log(_0x38708c);
-    }
-  }
-  async appMonth_28_lottery(_0x32fff2 = {}) {
-    try {
-      const _0x13d3ae = {
-        fn: "appMonth_28_lottery",
-        method: "post",
-        url: "https://activity.10010.com/AppMonthly/appMonth/lottery"
-      };
-      let {
-          result: _0x360c8d
-        } = await this.request(_0x13d3ae),
-        _0x1faa78 = _0x4c672b.get(_0x360c8d, "status", -1);
-      if (_0x1faa78 == "0000") {
-        let {
-          code: _0x4506d5,
-          uuid: _0x217783
-        } = _0x360c8d?.["data"];
-        _0x217783 ? await this.appMonth_28_winningRecord(_0x217783) : this.log("联通支付日开宝箱失败[" + _0x4506d5 + "]");
-      } else {
-        let _0x1c765a = _0x360c8d?.["msg"] || "";
-        this.log("联通支付日开宝箱失败[" + _0x1faa78 + "]: " + _0x1c765a);
-      }
-    } catch (_0x1e578f) {
-      console.log(_0x1e578f);
-    }
-  }
-  async appMonth_28_winningRecord(_0x49f5fb, _0x539daf = {}) {
-    try {
-      const _0x4e44da = {
-        requestId: _0x49f5fb
-      };
-      const _0x18e28d = {
-        fn: "appMonth_28_winningRecord",
-        method: "post",
-        url: "https://activity.10010.com/AppMonthly/appMonth/winningRecord",
-        form: _0x4e44da
-      };
-      let {
-          result: _0x3de180
-        } = await this.request(_0x18e28d),
-        _0x51662d = _0x4c672b.get(_0x3de180, "status", -1);
-      if (_0x51662d == "0000") {
-        let {
-          code: _0x20040f,
-          prizeName: _0x428599
-        } = _0x3de180?.["data"];
-        if (_0x20040f == "0000") {
-          const _0x194d8b = {
-            notify: true
-          };
-          this.log("联通支付日开宝箱: " + _0x428599, _0x194d8b);
-        } else {
-          let _0x4a0327 = _0x3de180?.["data"]?.["message"] || "";
-          this.log("联通支付日开宝箱[" + _0x20040f + "]: " + _0x4a0327);
-        }
-      } else {
-        let _0x507948 = _0x3de180?.["msg"] || "";
-        this.log("联通支付日查询中奖奖品错误[" + _0x51662d + "]: " + _0x507948);
-      }
-    } catch (_0x12630e) {
-      console.log(_0x12630e);
-    }
-  }
-  async sign_getContinuous(_0x4a5ad2 = {}) {
-    try {
-      const _0x4c871f = {
-        fn: "sign_getContinuous",
-        method: "post",
-        url: "https://act.10010.com/SigninApp/signin/getContinuous",
-        form: {}
-      };
-      _0x4c871f.form.taskId = "";
-      _0x4c871f.form.channel = "shouye";
-      _0x4c871f.form.imei = "";
-      let {
-          result: _0x375bbc
-        } = await this.request(_0x4c871f),
-        _0x390277 = _0x4c672b.get(_0x375bbc, "status", -1);
-      if (_0x390277 == "0000") {
-        let _0x2ddb99 = _0x375bbc?.["data"]?.["todaySigned"] || 0;
-        const _0x4e43ef = {
-          notify: true
-        };
-        this.log("签到区今天" + (_0x2ddb99 == "1" ? "未" : "已") + "签到", _0x4e43ef);
-        _0x2ddb99 == "1" && (await _0x4c672b.wait(1000), await this.sign_daySign());
-      } else {
-        let _0x2d9f11 = _0x375bbc?.["msg"] || "";
-        this.log("签到区查询签到状态失败[" + _0x390277 + "]: " + _0x2d9f11);
-      }
-    } catch (_0x1e4db0) {
-      console.log(_0x1e4db0);
-    }
-  }
-  async sign_daySign(_0x43121e = {}) {
-    try {
-      const _0x5c6a1c = {
-        shareCl: "",
-        shareCode: ""
-      };
-      const _0x34424b = {
-        fn: "sign_daySign",
-        method: "post",
-        url: "https://act.10010.com/SigninApp/signin/daySign",
-        form: _0x5c6a1c
-      };
-      let {
-          result: _0x45b961
-        } = await this.request(_0x34424b),
-        _0x3dd664 = _0x4c672b.get(_0x45b961, "status", -1);
-      if (_0x3dd664 == "0000") {
-        let {
-          prizeName: _0x3544fb,
-          redSignMessage: _0x5016bf
-        } = _0x45b961?.["data"];
-        const _0x49da7c = {
-          notify: true
-        };
-        this.log("签到区签到成功: [" + _0x3544fb + "]" + _0x5016bf, _0x49da7c);
-      } else {
-        let _0x33d8bc = _0x45b961?.["msg"] || "";
-        this.log("签到区签到失败[" + _0x3dd664 + "]: " + _0x33d8bc);
-      }
-    } catch (_0x31a630) {
-      console.log(_0x31a630);
-    }
-  }
-  async sign_queryBubbleTask(_0x2777e8 = {}) {
-    try {
-      const _0x49d44f = {
-        fn: "sign_queryBubbleTask",
-        method: "post",
-        url: "https://act.10010.com/SigninApp/bubbleTask/queryBubbleTask"
-      };
-      let {
-          result: _0xff3076
-        } = await this.request(_0x49d44f),
-        _0x1e9efb = _0x4c672b.get(_0xff3076, "status", -1);
-      if (_0x1e9efb == "0000") {
-        for (let _0xe8b4f5 of _0xff3076?.["data"]?.["paramsList"]?.["filter"](_0xb17880 => _0xb17880.taskState == 1)) {
-          let _0x411132 = await this.gettaskip();
-          await this.sign_doTask(_0xe8b4f5, _0x411132);
-        }
-      } else {
-        let _0xac9a0b = _0xff3076?.["msg"] || "";
-        this.log("签到区查询气泡任务失败[" + _0x1e9efb + "]: " + _0xac9a0b);
-      }
-    } catch (_0x24c5dc) {
-      console.log(_0x24c5dc);
-    }
-  }
-  async sign_doTask(_0x4cf867, _0x22748d, _0x5bbfdb = {}) {
-    try {
-      const _0x4a9479 = {
-        id: _0x4cf867.id,
-        orderId: _0x22748d,
-        imei: "BB97982E-3F03-46D3-B904-819D626DF478",
-        prizeType: _0x4cf867.rewardType,
-        positionFlag: 0
-      };
-      const _0x31aade = {
-        fn: "sign_doTask",
-        method: "post",
-        url: "https://act.10010.com/SigninApp/task/doTask",
-        form: _0x4a9479
-      };
-      let {
-          result: _0x329766
-        } = await this.request(_0x31aade),
-        _0x1d5e4d = _0x4c672b.get(_0x329766, "status", -1);
-      if (_0x1d5e4d == "0000") {
-        this.log("完成任务[" + _0x4cf867.actName + "]获得: " + _0x329766?.["data"]?.["prizeCount"] + _0x329766?.["data"]?.["prizeName"]);
-      } else {
-        let _0x5cf326 = _0x329766?.["msg"] || "";
-        this.log("完成任务[" + _0x4cf867.actName + "]失败[" + _0x1d5e4d + "]: " + _0x5cf326);
-      }
-    } catch (_0x4ad671) {
-      console.log(_0x4ad671);
-    }
-  }
-  async game_login(_0x5f500f, _0x639e7 = {}) {
-    try {
-      const _0x2730f4 = {
-        identityType: "esToken",
-        code: this.ecs_token,
-        ticket: _0x5f500f,
-        uuid: _0x27f1a2
-      };
-      const _0x204877 = {
-        fn: "game_login",
-        method: "post",
-        url: "https://game.wostore.cn/api/app//user/v2/login",
-        headers: {},
-        json: _0x2730f4
-      };
-      _0x204877.headers.channelid = "GAMELTAPP_90005";
-      let {
-          result: _0x206034
-        } = await this.request(_0x204877),
-        _0xe387fd = _0x4c672b.get(_0x206034, "code", -1);
-      if (_0xe387fd == 200) {
-        this.game_token = _0x206034?.["data"]?.["access_token"];
-        this.got = this.got.extend({
-          headers: {
-            Authorization: this.game_token
-          }
-        });
-        await this.game_getMemberInfo();
-        await this.game_signRecord();
-        await this.game_lottery();
-        await this.game_playSave();
-        await this.game_taskList();
-        await this.game_getMemberInfo();
-        const _0x563fcb = {
-          notify: true
-        };
-        this.log("联通畅游币: " + this.point, _0x563fcb);
-      } else {
-        let _0x1d6aa5 = _0x206034?.["msg"] || "";
-        this.log("联通畅游登录失败[" + _0xe387fd + "]: " + _0x1d6aa5);
-      }
-    } catch (_0x22daa6) {
-      console.log(_0x22daa6);
-    }
-  }
-  async game_getMemberInfo(_0x1119ca = {}) {
-    try {
-      const _0x2d61ed = {
-        fn: "game_getMemberInfo",
-        method: "get",
-        url: "https://game.wostore.cn/api/app/user/v2/getMemberInfo"
-      };
-      let {
-          result: _0x25b820
-        } = await this.request(_0x2d61ed),
-        _0x4c45ab = _0x4c672b.get(_0x25b820, "code", -1);
-      if (_0x4c45ab == 200) {
-        this.point = _0x25b820?.["data"]?.["userIntegral"];
-      } else {
-        let _0x31251d = _0x25b820?.["msg"] || "";
-        this.log("联通畅游查询积分失败[" + _0x4c45ab + "]: " + _0x31251d);
-      }
-    } catch (_0x3a8d0c) {
-      console.log(_0x3a8d0c);
-    }
-  }
-  async game_signRecord(_0x47d803 = {}) {
-    try {
-      const _0xed6a1c = {
-        fn: "game_signRecord",
-        method: "get",
-        url: "https://game.wostore.cn/api/app/user/v2/signRecord"
-      };
-      let {
-          result: _0x3d9d1c
-        } = await this.request(_0xed6a1c),
-        _0x56bc7f = _0x4c672b.get(_0x3d9d1c, "code", -1);
-      if (_0x56bc7f == 200) {
-        for (let _0x48dbac of _0x3d9d1c?.["data"]) {
-          if (_0x48dbac.now == 0) {
-            continue;
-          }
-          this.log("联通畅游今天" + (_0x48dbac.signStatus == 2 ? "未" : "已") + "签到");
-          if (_0x48dbac.signStatus == 2) {
-            await this.game_signIn();
-          }
-        }
-      } else {
-        let _0x4c5073 = _0x3d9d1c?.["msg"] || "";
-        this.log("联通畅游查询签到失败[" + _0x56bc7f + "]: " + _0x4c5073);
-      }
-    } catch (_0x8f9b0b) {
-      console.log(_0x8f9b0b);
-    }
-  }
-  async game_signIn(_0x170c89 = {}) {
-    try {
-      const _0x3d53ee = {
-        fn: "game_signIn",
-        method: "get",
-        url: "https://game.wostore.cn/api/app/user/v2/signIn"
-      };
-      let {
-          result: _0x1f4677
-        } = await this.request(_0x3d53ee),
-        _0x478093 = _0x4c672b.get(_0x1f4677, "code", -1);
-      if (_0x478093 == 200) {
-        this.log("联通畅游签到成功");
-      } else {
-        let _0x2b40f2 = _0x1f4677?.["msg"] || "";
-        this.log("联通畅游签到失败[" + _0x478093 + "]: " + _0x2b40f2);
-      }
-    } catch (_0xfac145) {
-      console.log(_0xfac145);
-    }
-  }
-  async game_checkSlider(_0x5ca38c = {}) {
-    let _0x3c3f88 = false;
-    try {
-      const _0x536f3f = {
-        xPos: 234
-      };
-      const _0x54913c = {
-        fn: "game_checkSlider",
-        method: "post",
-        url: "https://game.wostore.cn/api/app/common/slider/checkSlider",
-        searchParams: _0x536f3f
-      };
-      let {
-          result: _0x31be4b
-        } = await this.request(_0x54913c),
-        _0x29af87 = _0x4c672b.get(_0x31be4b, "code", -1);
-      if (_0x29af87 == 200) {
-        this.log("联通畅游滑块验证成功");
-      } else {
-        let _0x661bc2 = _0x31be4b?.["msg"] || "";
-        this.log("联通畅游滑块验证失败[" + _0x29af87 + "]: " + _0x661bc2);
-      }
-    } catch (_0x441ee4) {
-      console.log(_0x441ee4);
-    } finally {
-      return _0x3c3f88;
-    }
-  }
-  async game_lottery(_0x12d231 = {}) {
-    try {
-      let _0x597145 = {
-          fn: "game_lottery",
-          method: "get",
-          url: "https://game.wostore.cn/api/app/user/v2/benefit/lottery",
-          searchParams: {
-            id: _0x4c672b.get(_0x12d231, "id", 1)
+          "json": {
+            "comeFrom": _0x1366a8.get(_0x3a324f, "comeFrom", "vioin"),
+            "channelFrom": _0x1366a8.get(_0x3a324f, "channelFrom", "SFAPP")
           }
         },
         {
-          result: _0x375b1d
-        } = await this.request(_0x597145),
-        _0x44ca98 = _0x4c672b.get(_0x375b1d, "code", -1);
-      if (_0x44ca98 == 200) {
-        const _0x46c4cd = {
-          notify: true
+          result: _0x5b404f
+        } = await this.request(_0xcbbc3);
+      if (_0x5b404f?.["success"]) {
+        _0x5b404f?.["obj"]?.["hasFinishSign"] ? this.log("今天已签到") : _0x5b404f?.["obj"]?.["integralTaskSignPackageVOList"]?.["length"] && this.log("签到获得: " + _0x5b404f?.["obj"]?.["integralTaskSignPackageVOList"]?.["map"](_0x5e0831 => _0x5e0831.packetName)?.["join"](", "));
+        await this.queryPointTaskAndSignFromES();
+        const _0x4ebbda = {
+          "channelType": 3
         };
-        this.log("联通畅游抽奖: " + _0x375b1d?.["data"]?.["productName"], _0x46c4cd);
-      } else {
-        let _0x172e69 = _0x375b1d?.["msg"] || "";
-        this.log("联通畅游抽奖失败[" + _0x44ca98 + "]: " + _0x172e69);
-      }
-    } catch (_0x5cc5c9) {
-      console.log(_0x5cc5c9);
+        await this.queryPointTaskAndSignFromES(_0x4ebbda);
+        await this.queryUserInfo();
+      } else this.log("查询签到失败: " + (_0x5b404f?.["errorMessage"] || (_0x5b404f ? JSON.stringify(_0x5b404f) : "无返回")));
+    } catch (_0x2f720a) {
+      console.log(_0x2f720a);
     }
   }
-  async game_taskList(_0x38dc2c = {}) {
+  async ["queryPointTaskAndSignFromES"](_0x49fddd = {}) {
     try {
-      const _0x6b3e09 = {
-        fn: "game_taskList",
-        method: "get",
-        url: "https://game.wostore.cn/api/app/user/v2/task/list"
-      };
-      let {
-          result: _0x24a55d
-        } = await this.request(_0x6b3e09),
-        _0x641976 = _0x4c672b.get(_0x24a55d, "code", -1);
-      if (_0x641976 == 200) {
-        for (let _0x2b6e2e of _0x24a55d?.["data"]) {
-          switch (_0x2b6e2e.receiveStatus) {
-            case 0:
-              break;
-            case 1:
-              await this.game_taskReceive(_0x2b6e2e);
-              break;
-            case 2:
-              break;
-            default:
-              _0x4c672b.log("任务[" + _0x2b6e2e.taskName + "]未知状态[" + _0x2b6e2e.receiveStatus + "]");
-              break;
-          }
-        }
-      } else {
-        let _0x3e9a0f = _0x24a55d?.["msg"] || "";
-        this.log("联通畅游查询任务失败[" + _0x641976 + "]: " + _0x3e9a0f);
-      }
-    } catch (_0x169b29) {
-      console.log(_0x169b29);
-    }
-  }
-  async game_taskReceive(_0xe2b155, _0x5671ea = {}) {
-    try {
-      const _0x591582 = {
-        productId: _0xe2b155.productId,
-        taskId: _0xe2b155.id
-      };
-      const _0x1eca66 = {
-        fn: "game_taskReceive",
-        method: "get",
-        url: "https://game.wostore.cn/api/app/user/v2/task/receive",
-        searchParams: _0x591582
-      };
-      let {
-          result: _0x2f8fb3
-        } = await this.request(_0x1eca66),
-        _0x288264 = _0x4c672b.get(_0x2f8fb3, "code", -1);
-      if (_0x288264 == 200) {
-        this.log("领取任务[" + _0xe2b155.taskName + "]奖励成功");
-      } else {
-        let _0x261128 = _0x2f8fb3?.["msg"] || "";
-        this.log("领取任务[" + _0xe2b155.taskName + "]奖励失败[" + _0x288264 + "]: " + _0x261128);
-      }
-    } catch (_0x33f03b) {
-      console.log(_0x33f03b);
-    }
-  }
-  async game_playSave(_0x2b6d36 = {}) {
-    try {
-      let _0x1b839f = {
-          fn: "game_playSave",
-          method: "post",
-          url: "https://game.wostore.cn/api/app/user/v2/play/save",
-          json: {
-            cpGameId: "15000199" + _0x4c672b.randomString(2, "0123456789")
+      let _0x3f1540 = {
+          "fn": "queryPointTaskAndSignFromES",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~integralTaskStrategyService~queryPointTaskAndSignFromES",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "deviceId": this.deviceId,
+            "channelType": String(_0x1366a8.get(_0x49fddd, "channelType", 1))
           }
         },
         {
-          result: _0x435b34
-        } = await this.request(_0x1b839f),
-        _0x405dad = _0x4c672b.get(_0x435b34, "code", -1);
-      if (!(_0x405dad == 200)) {
-        let _0x407e03 = _0x435b34?.["msg"] || "";
-        this.log("联通畅游玩游戏失败[" + _0x405dad + "]: " + _0x407e03);
-      }
-    } catch (_0x10eb8a) {
-      console.log(_0x10eb8a);
-    }
-  }
-  async flmf_login(_0x3a709c, _0x3e346c = {}) {
-    try {
-      const _0x4d2274 = {
-        fn: "flmf_login",
-        method: "get",
-        url: _0x3a709c
-      };
-      let {
-        headers: _0x44fb4d,
-        statusCode: _0x2923d9
-      } = await this.request(_0x4d2274);
-      if (_0x44fb4d?.["location"]) {
-        let _0x366f8a = new URL(_0x44fb4d.location);
-        this.flmf_sid = _0x366f8a.searchParams.get("sid");
-        this.flmf_sid ? (await this.flmf_signInInit(), await this.flmf_taskList(), await this.flmf_scanTask()) : this.log("福利魔方获取sid失败");
-      } else {
-        this.log("福利魔方获取sid失败[" + _0x2923d9 + "]");
-      }
-    } catch (_0x27766a) {
-      console.log(_0x27766a);
-    }
-  }
-  async flmf_signInInit(_0x5dabbc = {}) {
-    try {
-      let _0x2014b6 = {
-          fn: "flmf_signInInit",
-          method: "post",
-          url: "https://weixin.linktech.hk/lv-apiaccess/welfareCenter/signInInit",
-          form: this.get_flmf_data()
-        },
-        {
-          result: _0x41327b
-        } = await this.request(_0x2014b6),
-        _0x2732b9 = _0x4c672b.get(_0x41327b, "resultCode", -1);
-      if (_0x2732b9 == "0000") {
-        this.log("福利魔方今天" + (_0x41327b?.["data"]?.["isSigned"] ? "已" : "未") + "签到, 已连续签到" + _0x41327b?.["data"]?.["consecutiveDays"] + "天");
-        if (!_0x41327b?.["data"]?.["isSigned"]) {
-          await this.flmf_signIn();
-        }
-      } else {
-        let _0x1a8187 = _0x41327b?.["resultMsg"] || "";
-        this.log("福利魔方查询签到失败[" + _0x2732b9 + "]: " + _0x1a8187);
-      }
-    } catch (_0x517caa) {
-      console.log(_0x517caa);
-    }
-  }
-  async flmf_signIn(_0x51ae1e = {}) {
-    try {
-      let _0x3128b3 = {
-          fn: "flmf_signIn",
-          method: "post",
-          url: "https://weixin.linktech.hk/lv-apiaccess/welfareCenter/signIn",
-          form: this.get_flmf_data()
-        },
-        {
-          result: _0x4485f1
-        } = await this.request(_0x3128b3),
-        _0x1564ca = _0x4c672b.get(_0x4485f1, "resultCode", -1);
-      if (_0x1564ca == "0000") {
-        this.log("福利魔方签到成功");
-      } else {
-        let _0xfa6532 = _0x4485f1?.["resultMsg"] || "";
-        this.log("福利魔方签到失败[" + _0x1564ca + "]: " + _0xfa6532);
-      }
-    } catch (_0x22c453) {
-      console.log(_0x22c453);
-    }
-  }
-  async flmf_taskList(_0x47a943 = {}) {
-    try {
-      let _0x3b119a = {
-          fn: "flmf_taskList",
-          method: "post",
-          url: "https://weixin.linktech.hk/lv-apiaccess/welfareCenter/taskList",
-          form: this.get_flmf_data()
-        },
-        {
-          result: _0x1be38d
-        } = await this.request(_0x3b119a),
-        _0x56b419 = _0x4c672b.get(_0x1be38d, "resultCode", -1);
-      if (_0x56b419 == "0000") {
-        for (let _0x21c855 of _0x1be38d?.["data"]?.["taskInfoList"]) {
-          for (let _0x3ddbd8 of _0x21c855.taskInfoList.filter(_0x539de9 => !_0x539de9.done)) {
-            for (let _0xcf0709 = _0x3ddbd8.hascount; _0xcf0709 < _0x3ddbd8.count; _0xcf0709++) {
-              await this.flmf_gogLance(_0x3ddbd8.id);
-            }
-          }
-        }
-      } else {
-        let _0x3affb1 = _0x1be38d?.["resultMsg"] || "";
-        this.log("福利魔方查询任务失败[" + _0x56b419 + "]: " + _0x3affb1);
-      }
-    } catch (_0x172024) {
-      console.log(_0x172024);
-    }
-  }
-  async flmf_scanTask() {
-    for (let _0xa11d9d of _0x26ccd8) {
-      await this.flmf_gogLance(_0xa11d9d);
-    }
-  }
-  async flmf_gogLance(_0x3534eb, _0x4a0142 = {}) {
-    try {
-      let _0x1d2f2 = {
-          fn: "flmf_gogLance",
-          method: "post",
-          url: "https://weixin.linktech.hk/lv-apiaccess/welfareCenter/gogLance",
-          form: {
-            taskId: _0x3534eb,
-            ...this.get_flmf_data()
-          }
-        },
-        {
-          result: _0x422380
-        } = await this.request(_0x1d2f2);
-      await _0x4c672b.wait_gap_interval(this.t_flmf_task, _0x123877);
-      let _0x213f2c = _0x4c672b.get(_0x422380, "resultCode", -1);
-      this.t_flmf_task = Date.now();
-      if (_0x213f2c == "0000") {
-        this.log("完成任务[" + _0x3534eb + "]成功");
-      } else {
-        let _0x2aacea = _0x422380?.["resultMsg"] || "";
-        this.log("完成任务[" + _0x3534eb + "]失败[" + _0x213f2c + "]: " + _0x2aacea);
-      }
-    } catch (_0x229114) {
-      console.log(_0x229114);
-    }
-  }
-  async woread_api(_0x34880c) {
-    let _0x1db761 = await this.request(_0x4c672b.copy(_0x34880c)),
-      _0x3e48ad = _0x1db761?.["result"]?.["message"] || "";
-    _0x3e48ad?.["includes"]("登录已过期") && (await this.woread_auth()) && (await this.woread_login()) && (_0x1db761 = await this.request(_0x4c672b.copy(_0x34880c)));
-    return _0x1db761;
-  }
-  switch_woread_token(_0x56b38b) {
-    const _0x2c6986 = {
-      accesstoken: _0x56b38b
-    };
-    const _0x14d38a = {
-      headers: _0x2c6986
-    };
-    this.got = this.got.extend(_0x14d38a);
-  }
-  async woread_auth(_0x7b7459 = {}) {
-    let _0x547982 = false;
-    try {
-      let _0x43ac40 = _0x4c672b.time("yyyyMMddhhmmss");
-      const _0x371d90 = {
-        timestamp: _0x43ac40
-      };
-      let _0x2b69e1 = this.encode_woread(_0x371d90),
-        _0x281e8f = Date.now().toString(),
-        _0x2c469e = _0x368aa5.MD5(_0x3d9810 + _0xa01453 + _0x281e8f).toString();
-      const _0x40e0b0 = {
-        sign: _0x2b69e1
-      };
-      const _0x51135a = {
-        fn: "woread_auth",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/app/auth/" + _0x3d9810 + "/" + _0x281e8f + "/" + _0x2c469e,
-        json: _0x40e0b0
-      };
-      let {
-          result: _0x10c758
-        } = await this.request(_0x51135a),
-        _0x1540b2 = _0x4c672b.get(_0x10c758, "code", -1);
-      if (_0x1540b2 == "0000") {
-        _0x547982 = true;
-        this.woread_accesstoken = _0x10c758?.["data"]?.["accesstoken"];
-        this.switch_woread_token(this.woread_accesstoken);
-      } else {
-        let _0x2c8b85 = _0x10c758?.["message"] || "";
-        this.log("阅读专区获取accesstoken失败[" + _0x1540b2 + "]: " + _0x2c8b85);
-      }
-    } catch (_0x3f8fdd) {
-      console.log(_0x3f8fdd);
-    } finally {
-      return _0x547982;
-    }
-  }
-  async woread_login(_0x26d717 = {}) {
-    let _0x5c0c95 = false;
-    try {
-      let _0x10a4cc = {
-          phone: this.mobile,
-          timestamp: _0x4c672b.time("yyyyMMddhhmmss")
-        },
-        _0x544576 = this.encode_woread(_0x10a4cc);
-      const _0x148f49 = {
-        sign: _0x544576
-      };
-      const _0x35c631 = {
-        fn: "woread_login",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/account/login",
-        json: _0x148f49
-      };
-      let {
-          result: _0x28bf76
-        } = await this.request(_0x35c631),
-        _0x5e778d = _0x4c672b.get(_0x28bf76, "code", -1);
-      if (_0x5e778d == "0000") {
-        _0x5c0c95 = true;
-        let {
-          userid: _0x58fe9a,
-          userindex: _0x42fa05,
-          token: _0x346b8f,
-          verifycode: _0xdef795
-        } = _0x28bf76?.["data"];
-        this.woread_token = _0x346b8f;
-        this.woread_verifycode = _0xdef795;
-        const _0x3bda74 = {
-          woread_userid: _0x58fe9a,
-          woread_userindex: _0x42fa05,
-          woread_token: _0x346b8f,
-          woread_verifycode: _0xdef795
-        };
-        Object.assign(this, _0x3bda74);
-      } else {
-        let _0x32f4f4 = _0x28bf76?.["message"] || "";
-        this.log("阅读专区获取token失败[" + _0x5e778d + "]: " + _0x32f4f4);
-      }
-    } catch (_0x315b1a) {
-      console.log(_0x315b1a);
-    } finally {
-      return _0x5c0c95;
-    }
-  }
-  async woread_m_auth(_0x50ab9e = {}) {
-    let _0x1d0afe = false;
-    try {
-      let _0x45205b = Date.now().toString(),
-        _0x2cc763 = _0x368aa5.MD5(_0x4872bf + _0x457ac0 + _0x45205b).toString();
-      const _0x131d89 = {
-        fn: "woread_auth",
-        method: "get",
-        url: "https:///m.woread.com.cn/api/union/app/auth/" + _0x4872bf + "/" + _0x45205b + "/" + _0x2cc763
-      };
-      let {
-          result: _0x531e72
-        } = await this.request(_0x131d89),
-        _0x1f1163 = _0x4c672b.get(_0x531e72, "code", -1);
-      if (_0x1f1163 == "0000") {
-        _0x1d0afe = true;
-        this.woread_m_accesstoken = _0x531e72?.["data"]?.["accesstoken"];
-        this.switch_woread_token(this.woread_m_accesstoken);
-      } else {
-        let _0x2ce2e6 = _0x531e72?.["message"] || "";
-        this.log("阅读专区获取accesstoken失败[" + _0x1f1163 + "]: " + _0x2ce2e6);
-      }
-    } catch (_0x53fed2) {
-      console.log(_0x53fed2);
-    } finally {
-      return _0x1d0afe;
-    }
-  }
-  async woread_m_login(_0x1f5f78 = {}) {
-    let _0x1dc636 = false;
-    try {
-      let _0x55a5ea = {
-          userid: this.woread_userid,
-          token: this.woread_token,
-          timestamp: Date.now()
-        },
-        _0x2debbf = {
-          userData: Buffer.from(JSON.stringify(_0x55a5ea), "utf-8").toString("base64"),
-          ...this.get_woread_m_param()
-        };
-      delete _0x2debbf.token;
-      let _0x25c9d8 = this.encode_woread(_0x2debbf, _0x20c0ff);
-      const _0x87c20b = {
-        sign: _0x25c9d8
-      };
-      const _0x662e4e = {
-        fn: "woread_login",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/user/thirdPartyFreeLogin",
-        json: _0x87c20b
-      };
-      let {
-          result: _0x253805
-        } = await this.request(_0x662e4e),
-        _0x2410c4 = _0x4c672b.get(_0x253805, "code", -1);
-      if (_0x2410c4 == "0000") {
-        _0x1dc636 = true;
-      } else {
-        let _0xab03b2 = _0x253805?.["message"] || "";
-        this.log("阅读专区获取token失败[" + _0x2410c4 + "]: " + _0xab03b2);
-      }
-    } catch (_0x5b576c) {
-      console.log(_0x5b576c);
-    } finally {
-      return _0x1dc636;
-    }
-  }
-  async woread_getSeeVideoAddNumber(_0x12ab92, _0x486335 = {}) {
-    try {
-      let _0x3140d3 = {
-          activityIndex: _0x12ab92,
-          ...this.get_woread_param()
-        },
-        _0x8e1656 = this.encode_woread(_0x3140d3);
-      const _0xce314c = {
-        sign: _0x8e1656
-      };
-      const _0x3b19e5 = {
-        fn: "woread_getSeeVideoAddNumber",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity/getSeeVideoAddNumber",
-        json: _0xce314c
-      };
-      let {
-          result: _0x5028e4
-        } = await this.woread_api(_0x3b19e5),
-        _0x3c20dc = _0x4c672b.get(_0x5028e4, "code", -1);
-      if (_0x3c20dc == "0000") {
-        _0x5028e4?.["data"] == -1 && (await this.woread_addUserSeeVideo(_0x12ab92));
-      } else {
-        let _0x366c05 = _0x5028e4?.["message"] || "";
-        this.log("阅读活动[" + _0x12ab92 + "]查询抽奖视频失败[" + _0x3c20dc + "]: " + _0x366c05);
-      }
-    } catch (_0x3cd6e0) {
-      console.log(_0x3cd6e0);
-    }
-  }
-  async woread_addUserSeeVideo(_0x27e075, _0x5be693 = {}) {
-    try {
-      let _0x1b56c7 = _0x5be693.num || 5,
-        _0x211340 = {
-          activityIndex: _0x27e075,
-          num: _0x1b56c7,
-          ...this.get_woread_param()
-        },
-        _0x530fc3 = this.encode_woread(_0x211340);
-      const _0x29270d = {
-        sign: _0x530fc3
-      };
-      const _0x39d9cb = {
-        fn: "woread_addUserSeeVideo",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity/addUserSeeVideo",
-        json: _0x29270d
-      };
-      let {
-          result: _0x4521b8
-        } = await this.woread_api(_0x39d9cb),
-        _0x2480f3 = _0x4c672b.get(_0x4521b8, "code", -1);
-      if (_0x2480f3 == "0000") {
-        this.log("阅读活动[" + _0x27e075 + "]看视频增加抽奖次数成功");
-      } else {
-        let _0x4a4ae0 = _0x4521b8?.["message"] || "";
-        this.log("阅读活动[" + _0x27e075 + "]看视频增加抽奖次数失败[" + _0x2480f3 + "]: " + _0x4a4ae0);
-      }
-    } catch (_0x4b1856) {
-      console.log(_0x4b1856);
-    }
-  }
-  async woread_getActivityNumber(_0x5ba90a, _0x3cdf38 = {}) {
-    try {
-      let _0xb90653 = {
-          activeIndex: _0x5ba90a,
-          ...this.get_woread_param()
-        },
-        _0x437404 = this.encode_woread(_0xb90653);
-      const _0x4b9c36 = {
-        sign: _0x437404
-      };
-      const _0x3446a2 = {
-        fn: "woread_getActivityNumber",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity/getActivityNumber",
-        json: _0x4b9c36
-      };
-      let {
-          result: _0x4f72f1
-        } = await this.woread_api(_0x3446a2),
-        _0x1a6ca5 = _0x4c672b.get(_0x4f72f1, "code", -1);
-      if (_0x1a6ca5 == "0000") {
-        let _0x8a22f5 = _0x4f72f1?.["data"] || 0;
-        this.log("阅读活动[" + _0x5ba90a + "]可以抽奖" + _0x8a22f5 + "次");
-        while (_0x8a22f5-- > 0) {
-          await _0x4c672b.wait(5000);
-          await this.woread_doDraw(_0x5ba90a);
-        }
-      } else {
-        let _0x3842fa = _0x4f72f1?.["message"] || "";
-        this.log("阅读活动[" + _0x5ba90a + "]查询抽奖次数失败[" + _0x1a6ca5 + "]: " + _0x3842fa);
-      }
-    } catch (_0x5a0a0a) {
-      console.log(_0x5a0a0a);
-    }
-  }
-  async woread_addDrawTimes(_0x2ff3ba, _0x15efe7 = {}) {
-    try {
-      let _0x311995 = {
-          activetyindex: _0x2ff3ba,
-          ...this.get_woread_param()
-        },
-        _0x248190 = this.encode_woread(_0x311995);
-      const _0x486c6d = {
-        sign: _0x248190
-      };
-      const _0x31e48c = {
-        fn: "woread_addDrawTimes",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/basics/addDrawTimes",
-        json: _0x486c6d
-      };
-      await _0x4c672b.wait_gap_interval(this.t_woread_draw, _0x5d9e11);
-      let {
-        result: _0x9db755
-      } = await this.woread_api(_0x31e48c);
-      this.t_woread_draw = Date.now();
-      let _0x358f34 = _0x4c672b.get(_0x9db755, "code", -1);
-      if (_0x358f34 == "0000") {
-        this.log("阅读活动[" + _0x2ff3ba + "]打卡增加抽奖次数成功");
-      } else {
-        if (_0x358f34 != "9999") {
-          let _0x494cdf = _0x9db755?.["message"] || "";
-          this.log("阅读活动[" + _0x2ff3ba + "]打卡增加抽奖次数失败[" + _0x358f34 + "]: " + _0x494cdf);
-        }
-      }
-    } catch (_0x3bd142) {
-      console.log(_0x3bd142);
-    }
-  }
-  async woread_doDraw(_0x397f0b, _0x3c1c53 = {}) {
-    try {
-      let _0x2027d0 = {
-          activeindex: _0x397f0b,
-          ...this.get_woread_param()
-        },
-        _0x36bfe3 = this.encode_woread(_0x2027d0);
-      const _0xba593a = {
-        sign: _0x36bfe3
-      };
-      const _0x3af86a = {
-        fn: "woread_doDraw",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/basics/doDraw",
-        json: _0xba593a
-      };
-      await _0x4c672b.wait_gap_interval(this.t_woread_draw, _0x5d9e11);
-      let {
-        result: _0x33f591
-      } = await this.woread_api(_0x3af86a);
-      this.t_woread_draw = Date.now();
-      let _0x81a5cb = _0x4c672b.get(_0x33f591, "code", -1);
-      if (_0x81a5cb == "0000") {
-        const _0x2e804e = {
-          notify: true
-        };
-        this.log("阅读活动[" + _0x397f0b + "]抽奖: " + (_0x33f591?.["data"]?.["prizedesc"] || "空气"), _0x2e804e);
-      } else {
-        let _0x4d9a5c = _0x33f591?.["message"] || "";
-        this.log("阅读活动[" + _0x397f0b + "]抽奖失败[" + _0x81a5cb + "]: " + _0x4d9a5c);
-      }
-    } catch (_0x4cbb04) {
-      console.log(_0x4cbb04);
-    }
-  }
-  async woread_queryTicketAccount(_0x23aff5 = {}) {
-    try {
-      let _0x4a62c4 = this.get_woread_param(),
-        _0x1a7869 = this.encode_woread(_0x4a62c4);
-      const _0x13787c = {
-        sign: _0x1a7869
-      };
-      const _0x1cbb0c = {
-        fn: "woread_queryTicketAccount",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/phone/vouchers/queryTicketAccount",
-        json: _0x13787c
-      };
-      let {
-          result: _0x3fd342
-        } = await this.woread_api(_0x1cbb0c),
-        _0x6ce29d = _0x4c672b.get(_0x3fd342, "code", -1);
-      if (_0x6ce29d == "0000") {
-        let _0x2284a4 = (_0x3fd342?.["data"]?.["usableNum"] / 100).toFixed(2);
-        const _0x45bce9 = {
-          notify: true
-        };
-        this.log("阅读区话费红包余额: " + _0x2284a4, _0x45bce9);
-      } else {
-        let _0xd876d5 = _0x3fd342?.["message"] || "";
-        this.log("查询阅读区话费红包余额失败[" + _0x6ce29d + "]: " + _0xd876d5);
-      }
-    } catch (_0x46f510) {
-      console.log(_0x46f510);
-    }
-  }
-  async woread_m_queryTicketAccount(_0x5f56cc = {}) {
-    try {
-      let _0x1f1089 = this.get_woread_m_param(),
-        _0x599be3 = this.encode_woread(_0x1f1089, _0x20c0ff);
-      const _0x5e2907 = {
-        sign: _0x599be3
-      };
-      const _0x27cd3f = {
-        fn: "woread_m_queryTicketAccount",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/phone/vouchers/queryTicketAccount",
-        json: _0x5e2907
-      };
-      let {
-          result: _0x5c632b
-        } = await this.woread_api(_0x27cd3f),
-        _0x5ec93b = _0x4c672b.get(_0x5c632b, "code", -1);
-      if (_0x5ec93b == "0000") {
-        let _0x29f71b = (_0x5c632b?.["data"]?.["usableNum"] / 100).toFixed(2);
-        const _0x45667c = {
-          notify: true
-        };
-        this.log("阅读区话费红包余额: " + _0x29f71b, _0x45667c);
-      } else {
-        let _0x51a7d0 = _0x5c632b?.["message"] || "";
-        this.log("查询阅读区话费红包余额失败[" + _0x5ec93b + "]: " + _0x51a7d0);
-      }
-    } catch (_0x1fbab2) {
-      console.log(_0x1fbab2);
-    }
-  }
-  async woread_addReadTime(_0x1f2346 = {}) {
-    try {
-      let {
-          readTime = 2,
-          cntindex = "409672",
-          cntIndex = "409672",
-          cnttype = "1",
-          cntType = 1,
-          cardid = "11891",
-          catid = "118411",
-          pageIndex = "10683",
-          chapterseno = 1,
-          channelid = "",
-          chapterid = "-1",
-          readtype = 1,
-          isend = "0"
-        } = _0x1f2346,
-        _0x3f4dd2 = {
-          readTime: readTime,
-          cntindex: cntindex,
-          cntIndex: cntIndex,
-          cnttype: cnttype,
-          cntType: cntType,
-          catid: catid,
-          cardid: cardid,
-          pageIndex: pageIndex,
-          chapterseno: chapterseno,
-          channelid: channelid,
-          chapterid: chapterid,
-          readtype: readtype,
-          isend: isend,
-          ...this.get_woread_param()
-        },
-        _0x223104 = this.encode_woread(_0x3f4dd2);
-      const _0x4e8958 = {
-        sign: _0x223104
-      };
-      const _0x5e4f85 = {
-        fn: "woread_addReadTime",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/history/addReadTime",
-        json: _0x4e8958
-      };
-      let {
-          result: _0x1f9eec
-        } = await this.request(_0x5e4f85),
-        _0x4851e5 = _0x4c672b.get(_0x1f9eec, "code", -1);
-      if (_0x4851e5 == "0000") {
-        this.log("刷新读小说时间: " + _0x1f9eec?.["data"]?.["readtime"] / 60 / 1000 + "分钟");
-        _0x1f9eec?.["data"]?.["readtime"] >= 3600000 && (this.read_stop = true);
-      } else {
-        let _0x797aad = _0x1f9eec?.["message"] || "";
-        this.log("刷新读小说时间失败[" + _0x4851e5 + "]: " + _0x797aad);
-      }
-    } catch (_0x5e3330) {
-      console.log(_0x5e3330);
-    }
-  }
-  async woread_m_addReadTime(_0x513b98 = {}) {
-    try {
-      let {
-          readTime = 2,
-          cntindex = "409672",
-          cntIndex = "409672",
-          cnttype = "1",
-          cntType = 1,
-          cardid = "11891",
-          catid = "118411",
-          pageIndex = "10683",
-          chapterseno = 1,
-          channelid = "",
-          chapterid = "-1",
-          readtype = 1,
-          isend = "0"
-        } = _0x513b98,
-        _0x335ecd = {
-          readTime: readTime,
-          cntindex: cntindex,
-          cntIndex: cntIndex,
-          cnttype: cnttype,
-          cntType: cntType,
-          catid: catid,
-          cardid: cardid,
-          pageIndex: pageIndex,
-          chapterseno: chapterseno,
-          channelid: channelid,
-          chapterid: chapterid,
-          readtype: readtype,
-          isend: isend,
-          ...this.get_woread_m_param()
-        },
-        _0x1eb6f5 = this.encode_woread(_0x335ecd, _0x20c0ff);
-      const _0x3f838f = {
-        sign: _0x1eb6f5
-      };
-      const _0x1eab5b = {
-        fn: "woread_m_addReadTime",
-        method: "post",
-        url: "https:///m.woread.com.cn/api/union/history/addReadTime",
-        json: _0x3f838f
-      };
-      let {
-          result: _0xc66009
-        } = await this.request(_0x1eab5b),
-        _0x22bdf8 = _0x4c672b.get(_0xc66009, "code", -1);
-      if (_0x22bdf8 == "0000") {
-        this.log("刷新读小说时间: " + _0xc66009?.["data"]?.["readtime"] / 60 / 1000 + "分钟");
-        _0xc66009?.["data"]?.["readtime"] >= 3600000 && (this.read_stop = true);
-      } else {
-        let _0x179f91 = _0xc66009?.["message"] || "";
-        this.log("刷新读小说时间失败[" + _0x22bdf8 + "]: " + _0x179f91);
-      }
-    } catch (_0x9c51e0) {
-      console.log(_0x9c51e0);
-    }
-  }
-  async rabblit_queryActivityData(_0x166566 = {}) {
-    try {
-      let _0x2faf53 = {
-          activeIndex: 26,
-          ...this.get_woread_param()
-        },
-        _0x2725ec = this.encode_woread(_0x2faf53);
-      const _0x35f6cf = {
-        sign: _0x2725ec
-      };
-      const _0x296324 = {
-        fn: "rabblit_queryActivityData",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/rabbitActivity/queryActivityData",
-        json: _0x35f6cf
-      };
-      let {
-          result: _0x22129d
-        } = await this.woread_api(_0x296324),
-        _0x2490e0 = _0x4c672b.get(_0x22129d, "code", -1);
-      if (_0x2490e0 == "0000") {
-        let {
-          totalcharpternums: _0x22d281,
-          totalreadnums: _0x3ba6a6,
-          status: _0x2b7eba,
-          activitystatus: _0x34b882
-        } = _0x22129d?.["data"];
-        if (_0x34b882 == 1) {
-          this.need_read_rabbit = false;
-          const _0x4e6bbb = {
-            notify: true
-          };
-          this.log("龟兔赛跑今天已完成", _0x4e6bbb);
-          return;
-        }
-        this.need_read_rabbit = true;
-        this.log("龟兔赛跑进度: " + _0x3ba6a6 + "/" + _0x22d281 + "分钟");
-        if (_0x2b7eba == 1) {
-          await this.rabblit_wakeRabbit();
-        }
-        if (_0x3ba6a6 >= _0x22d281) {
-          await this.rabblit_finishActivity();
-        }
-      } else {
-        let _0x3bbb94 = _0x22129d?.["message"] || "";
-        _0x3bbb94?.["includes"]("未参加") && !_0x166566.join_retry && (await this.rabblit_joinRuning()) ? (_0x166566.join_retry = true, await this.rabblit_queryActivityData(_0x166566)) : this.log("龟兔赛跑查询状态失败[" + _0x2490e0 + "]: " + _0x3bbb94);
-      }
-    } catch (_0x5a5d83) {
-      console.log(_0x5a5d83);
-    }
-  }
-  async rabblit_joinRuning(_0x22f9b4 = {}) {
-    let _0x2a36d7 = false;
-    try {
-      let _0x5cd0b6 = {
-          activeIndex: 26,
-          ...this.get_woread_param()
-        },
-        _0x25fe34 = this.encode_woread(_0x5cd0b6);
-      const _0x6d40e3 = {
-        sign: _0x25fe34
-      };
-      const _0x18b2b1 = {
-        fn: "rabblit_joinRuning",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/rabbitActivity/joinRuning",
-        json: _0x6d40e3
-      };
-      let {
-          result: _0x19cc43
-        } = await this.woread_api(_0x18b2b1),
-        _0x1dfb20 = _0x4c672b.get(_0x19cc43, "code", -1);
-      if (_0x1dfb20 == "0000") {
-        _0x2a36d7 = true;
-        this.log("龟兔赛跑报名成功");
-      } else {
-        let _0x5d645 = _0x19cc43?.["message"] || "";
-        this.log("龟兔赛跑报名失败[" + _0x1dfb20 + "]: " + _0x5d645);
-      }
-    } catch (_0x2c4557) {
-      console.log(_0x2c4557);
-    } finally {
-      return _0x2a36d7;
-    }
-  }
-  async rabblit_wakeRabbit(_0x36c542 = {}) {
-    try {
-      let _0x1237f5 = {
-          activeIndex: 26,
-          sactivitIndex: 7246,
-          ...this.get_woread_param()
-        },
-        _0xaf381f = this.encode_woread(_0x1237f5);
-      const _0x162f7e = {
-        sign: _0xaf381f
-      };
-      const _0x33fcf5 = {
-        fn: "rabblit_wakeRabbit",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/rabbitActivity/wakeRabbit",
-        json: _0x162f7e
-      };
-      await _0x4c672b.wait_gap_interval(this.t_woread_draw, _0x5d9e11);
-      let {
-        result: _0x5f4ee4
-      } = await this.woread_api(_0x33fcf5);
-      this.t_woread_draw = Date.now();
-      let _0x531c58 = _0x4c672b.get(_0x5f4ee4, "code", -1);
-      if (_0x531c58 == "0000") {
-        const _0x19370a = {
-          notify: true
-        };
-        this.log("龟兔赛跑唤醒兔子抽奖: " + (_0x5f4ee4?.["data"]?.["prizedesc"] || "空气"), _0x19370a);
-      } else {
-        let _0x59d84e = _0x5f4ee4?.["message"] || "";
-        this.log("龟兔赛跑唤醒兔子失败[" + _0x531c58 + "]: " + _0x59d84e);
-      }
-    } catch (_0x4b75db) {
-      console.log(_0x4b75db);
-    }
-  }
-  async rabblit_finishActivity(_0x451bd0 = {}) {
-    try {
-      let _0x9cdff4 = {
-          activeIndex: 26,
-          ...this.get_woread_param()
-        },
-        _0x517547 = this.encode_woread(_0x9cdff4);
-      const _0x5c2de6 = {
-        sign: _0x517547
-      };
-      const _0x4a355a = {
-        fn: "rabblit_finishActivity",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/rabbitActivity/finishActivity",
-        json: _0x5c2de6
-      };
-      await _0x4c672b.wait_gap_interval(this.t_woread_draw, _0x5d9e11);
-      let {
-        result: _0x254943
-      } = await this.woread_api(_0x4a355a);
-      this.t_woread_draw = Date.now();
-      let _0x6bb8e = _0x4c672b.get(_0x254943, "code", -1);
-      if (_0x6bb8e == "0000") {
-        this.need_read_rabbit = false;
-        const _0x2f0d17 = {
-          notify: true
-        };
-        this.log("龟兔赛跑终点抽奖: " + (_0x254943?.["data"]?.["prizedesc"] || "空气"), _0x2f0d17);
-      } else {
-        let _0x3e4556 = _0x254943?.["message"] || "";
-        this.log("龟兔赛跑终点抽奖失败[" + _0x6bb8e + "]: " + _0x3e4556);
-      }
-    } catch (_0x4f0c17) {
-      console.log(_0x4f0c17);
-    }
-  }
-  async moonbox_queryActiveInfo(_0x1aa999 = {}) {
-    try {
-      let _0x25bfae = this.get_woread_param(),
-        _0x30779b = this.encode_woread(_0x25bfae);
-      const _0x3df8df = {
-        sign: _0x30779b
-      };
-      const _0x1fafe7 = {
-        fn: "moonbox_queryActiveInfo",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/queryActiveInfo",
-        json: _0x3df8df
-      };
-      let {
-          result: _0x3fef2a
-        } = await this.woread_api(_0x1fafe7),
-        _0x1f3aaf = _0x4c672b.get(_0x3fef2a, "code", -1);
-      if (_0x1f3aaf == "0000") {
-        let {
-          activeId: _0x250122,
-          activeName: _0x2bfd4e
-        } = _0x3fef2a?.["data"];
-        _0x55391c = _0x250122;
-      } else {
-        let _0xa936bf = _0x3fef2a?.["message"] || "";
-        this.log("阅光宝盒查询活动失败[" + _0x1f3aaf + "]: " + _0xa936bf);
-      }
-    } catch (_0x1b94a6) {
-      console.log(_0x1b94a6);
-    }
-  }
-  async moonbox_queryCurTaskStatus(_0x149c93 = {}) {
-    try {
-      let _0x5de828 = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_param()
-        },
-        _0x3b7ea4 = this.encode_woread(_0x5de828);
-      const _0xfd95db = {
-        sign: _0x3b7ea4
-      };
-      const _0x247389 = {
-        fn: "moonbox_queryCurTaskStatus",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/queryCurTaskStatus",
-        json: _0xfd95db
-      };
-      let {
-          result: _0x1d541c
-        } = await this.woread_api(_0x247389),
-        _0x1054fb = _0x4c672b.get(_0x1d541c, "code", -1);
-      if (_0x1054fb == "0000") {
-        for (let _0x252927 of _0x1d541c?.["data"] || []) {
-          let {
-            taskName: _0x313ae9,
-            currentValue: _0x3fdd11,
-            taskValue: _0x53dd8d
-          } = _0x252927?.["taskDetail"];
-          switch (_0x252927.taskStatus) {
-            case 0:
-              {
-                this.moonbox_task_record[_0x313ae9] = true;
-                this.log("阅光宝盒[" + _0x313ae9 + "]进度: " + parseInt(_0x3fdd11) + "/" + _0x53dd8d + "分钟");
-                break;
-              }
-            case 2:
-              {
-                await this.moonbox_completeActiveTask(_0x252927);
-              }
-            case 1:
-              {
-                this.moonbox_task_record[_0x313ae9] = false;
-                if (!this.moonbox_notified.includes(_0x313ae9)) {
-                  this.moonbox_notified.push(_0x313ae9);
-                  const _0x52e7f2 = {
-                    notify: true
-                  };
-                  this.log("阅光宝盒任务[" + _0x313ae9 + "]已完成", _0x52e7f2);
-                }
-                break;
-              }
-          }
-        }
-      } else {
-        let _0x325aa9 = _0x1d541c?.["message"] || "";
-        _0x325aa9?.["includes"]("未领取") && !_0x149c93.activate_retry && (await this.moonbox_queryActiveTaskList()) ? (_0x149c93.activate_retry = true, await this.moonbox_queryCurTaskStatus(_0x149c93)) : this.log("阅光宝盒查询任务状态失败[" + _0x1054fb + "]: " + _0x325aa9);
-      }
-    } catch (_0x4df7a0) {
-      console.log(_0x4df7a0);
-    }
-  }
-  async moonbox_completeActiveTask(_0x4af677, _0x3aeda0 = {}) {
-    try {
-      let _0x4c63e8 = {
-          taskId: _0x4af677.id,
-          ...this.get_woread_param()
-        },
-        _0xa3034 = this.encode_woread(_0x4c63e8);
-      const _0x378954 = {
-        sign: _0xa3034
-      };
-      const _0x4513b4 = {
-        fn: "moonbox_completeActiveTask",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/completeActiveTask",
-        json: _0x378954
-      };
-      let {
-          result: _0x40efdd
-        } = await this.woread_api(_0x4513b4),
-        _0x37bf24 = _0x4c672b.get(_0x40efdd, "code", -1);
-      if (_0x37bf24 == "0000") {
-        const _0x432c2b = {
-          notify: true
-        };
-        this.log("阅光宝盒[" + _0x40efdd?.["data"]?.["taskDetail"]?.["taskName"] + "]领取奖励成功: " + _0x40efdd?.["data"]?.["exchangeResult"]?.["materialGroupInfo"]?.["groupName"], _0x432c2b);
-      } else {
-        let _0x355fe8 = _0x40efdd?.["message"] || "";
-        this.log("阅光宝盒[" + _0x4af677?.["taskDetail"]?.["taskName"] + "]领取奖励失败[" + _0x37bf24 + "]: " + _0x355fe8);
-      }
-    } catch (_0x5d1580) {
-      console.log(_0x5d1580);
-    }
-  }
-  async moonbox_queryActiveTaskList(_0x5b4f5d = {}) {
-    try {
-      let _0x29dc0b = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_param()
-        },
-        _0x416ead = this.encode_woread(_0x29dc0b);
-      const _0x3d0c02 = {
-        sign: _0x416ead
-      };
-      const _0x5e2bbb = {
-        fn: "moonbox_queryActiveTaskList",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/queryActiveTaskList",
-        json: _0x3d0c02
-      };
-      let {
-          result: _0x391626
-        } = await this.woread_api(_0x5e2bbb),
-        _0x42ede6 = _0x4c672b.get(_0x391626, "code", -1);
-      if (_0x42ede6 == "0000") {
-        let _0x1cff30 = _0x391626?.["data"]?.["sort"](function (_0x1792cf, _0xe10a9b) {
-            let _0x3ecb2c = parseInt(_0xe10a9b.taskDetail.taskValue),
-              _0x243b54 = parseInt(_0x1792cf.taskDetail.taskValue);
-            return _0x3ecb2c - _0x243b54;
-          }),
-          _0xe49ce3 = _0x1cff30.filter(_0x5ed25d => _0x5ed25d.maxNum - _0x5ed25d.receiveNum > 0 && _0x5ed25d.taskDetail.materialGroup.groupName.includes("红包"));
-        _0xe49ce3?.["length"] ? await this.moonbox_receiveActiveTask(_0xe49ce3) : this.log("没有可领取的阅光宝盒红包任务了");
-      } else {
-        let _0x37141c = _0x391626?.["message"] || "";
-        this.log("阅光宝盒查询可领取任务失败[" + _0x42ede6 + "]: " + _0x37141c);
-      }
-    } catch (_0x3346d3) {
-      console.log(_0x3346d3);
-    }
-  }
-  async moonbox_receiveActiveTask(_0x17d7d6, _0x642063 = {}) {
-    try {
-      if (!_0x17d7d6.length) {
-        return;
-      }
-      let _0x471744 = _0x17d7d6.shift(),
-        _0x3180c7 = _0x471744?.["taskDetail"]?.["taskName"] || "",
-        _0x35c4b9 = {
-          activeId: _0x55391c,
-          taskId: _0x471744.secondTaskId,
-          ...this.get_woread_param()
-        },
-        _0x9d13eb = this.encode_woread(_0x35c4b9);
-      const _0x1abd0a = {
-        sign: _0x9d13eb
-      };
-      const _0x3e1696 = {
-        fn: "moonbox_queryActiveTaskList",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/receiveActiveTask",
-        json: _0x1abd0a
-      };
-      let {
-          result: _0x4cc772
-        } = await this.woread_api(_0x3e1696),
-        _0x45290e = _0x4c672b.get(_0x4cc772, "code", -1);
-      if (_0x45290e == "0000") {
-        this.moonbox_task_record[_0x3180c7] = true;
-        this.log("领取阅光宝盒任务[" + _0x3180c7 + "]成功");
-      } else {
-        let _0x4cc9d9 = _0x4cc772?.["message"] || "";
-        this.log("领取阅光宝盒任务[" + _0x3180c7 + "]失败[" + _0x45290e + "]: " + _0x4cc9d9);
-        (_0x4cc9d9?.["includes"]("今天无法完成") || _0x4cc9d9?.["includes"]("领光了")) && _0x17d7d6.length > 0 && (await _0x4c672b.wait(500), await this.moonbox_receiveActiveTask(_0x17d7d6, _0x642063));
-      }
-    } catch (_0x2fbd0d) {
-      console.log(_0x2fbd0d);
-    }
-  }
-  async moonbox_queryReadStatus(_0x27c1b2 = {}) {
-    try {
-      let _0x4dd0d9 = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_param()
-        },
-        _0x3f59e7 = this.encode_woread(_0x4dd0d9);
-      const _0x2456fd = {
-        sign: _0x3f59e7
-      };
-      const _0x4596d4 = {
-        fn: "moonbox_queryReadStatus",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/queryReadStatus",
-        json: _0x2456fd
-      };
-      let {
-          result: _0x3fc97e
-        } = await this.woread_api(_0x4596d4),
-        _0x479ae3 = _0x4c672b.get(_0x3fc97e, "code", -1);
-      if (_0x479ae3 == "0000") {
-        switch (_0x3fc97e?.["data"]) {
-          case "2":
-            {
-              this.log("阅光宝盒去阅读两分钟抽奖");
-              this.switch_woread_token(this.woread_m_accesstoken);
-              const _0x4dd67c = {
-                readTime: 2
-              };
-              await this.woread_m_addReadTime(_0x4dd67c);
-              this.switch_woread_token(this.woread_accesstoken);
-              await this.moonbox_drawReadActivePrize();
-              break;
-            }
-          case "3":
-            {
-              this.log("阅光宝盒今天已抽奖");
-              break;
-            }
-          case "4":
-            {
-              this.log("阅光宝盒今天可以抽奖");
-              await this.moonbox_drawReadActivePrize();
-              break;
-            }
-          default:
-            {
-              this.log("阅光宝盒抽奖状态[" + _0x3fc97e?.["data"] + "]");
-              break;
-            }
-        }
-      } else {
-        let _0x9b31af = _0x3fc97e?.["message"] || "";
-        this.log("查询阅光宝盒抽奖次数失败[" + _0x479ae3 + "]: " + _0x9b31af);
-      }
-    } catch (_0x71eb7f) {
-      console.log(_0x71eb7f);
-    }
-  }
-  async moonbox_drawReadActivePrize(_0x56938e = {}) {
-    try {
-      let _0x3eabf6 = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_param()
-        },
-        _0x3ad9f4 = this.encode_woread(_0x3eabf6);
-      const _0xe79885 = {
-        sign: _0x3ad9f4
-      };
-      const _0x2ff4df = {
-        fn: "moonbox_drawReadActivePrize",
-        method: "post",
-        url: "https://10010.woread.com.cn/ng_woread_service/rest/activity423/drawReadActivePrize",
-        json: _0xe79885
-      };
-      let {
-          result: _0x1633e7
-        } = await this.woread_api(_0x2ff4df),
-        _0x27c470 = _0x4c672b.get(_0x1633e7, "code", -1);
-      if (_0x27c470 == "0000") {
-        const _0x4d8266 = {
-          notify: true
-        };
-        this.log("阅光宝盒抽奖: " + (_0x1633e7?.["data"]?.["prizedesc"] || JSON.stringify(_0x1633e7)), _0x4d8266);
-      } else {
-        let _0x55fb06 = _0x1633e7?.["message"] || "";
-        this.log("阅光宝盒抽奖失败[" + _0x27c470 + "]: " + _0x55fb06);
-      }
-    } catch (_0xf0a009) {
-      console.log(_0xf0a009);
-    }
-  }
-  async moonbox_m_queryActiveInfo(_0x2f8e7f = {}) {
-    try {
-      let _0x14f205 = this.get_woread_m_param(),
-        _0x121f46 = this.encode_woread(_0x14f205, _0x20c0ff);
-      const _0x45f3ae = {
-        sign: _0x121f46
-      };
-      const _0x59055e = {
-        fn: "moonbox_m_queryActiveInfo",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/queryActiveInfo",
-        json: _0x45f3ae
-      };
-      let {
-          result: _0x425b85
-        } = await this.woread_api(_0x59055e),
-        _0x40ba28 = _0x4c672b.get(_0x425b85, "code", -1);
-      if (_0x40ba28 == "0000") {
-        let {
-          activeId: _0x3f90b8,
-          activeName: _0x2a7af0
-        } = _0x425b85?.["data"];
-        _0x55391c = _0x3f90b8;
-      } else {
-        let _0x2087f5 = _0x425b85?.["message"] || "";
-        this.log("阅光宝盒查询活动失败[" + _0x40ba28 + "]: " + _0x2087f5);
-      }
-    } catch (_0xfd1d67) {
-      console.log(_0xfd1d67);
-    }
-  }
-  async moonbox_m_queryCurTaskStatus(_0xcef68f = {}) {
-    try {
-      let _0x5e3f1e = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_m_param()
-        },
-        _0x7bc91f = this.encode_woread(_0x5e3f1e, _0x20c0ff);
-      const _0x509ba5 = {
-        sign: _0x7bc91f
-      };
-      const _0x439dbd = {
-        fn: "moonbox_m_queryCurTaskStatus",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/queryCurTaskStatus",
-        json: _0x509ba5
-      };
-      let {
-          result: _0x51e7c5
-        } = await this.woread_api(_0x439dbd),
-        _0x3e8bcf = _0x4c672b.get(_0x51e7c5, "code", -1);
-      if (_0x3e8bcf == "0000") {
-        for (let _0xe83310 of _0x51e7c5?.["data"] || []) {
-          let {
-            taskName: _0x4d3802,
-            currentValue: _0x58b1af,
-            taskValue: _0x54fad8
-          } = _0xe83310?.["taskDetail"];
-          switch (_0xe83310.taskStatus) {
-            case 0:
-              {
-                this.moonbox_task_record[_0x4d3802] = true;
-                this.log("阅光宝盒[" + _0x4d3802 + "]进度: " + parseInt(_0x58b1af) + "/" + _0x54fad8 + "分钟");
-                break;
-              }
-            case 2:
-              {
-                await this.moonbox_m_completeActiveTask(_0xe83310);
-              }
-            case 1:
-              {
-                this.moonbox_task_record[_0x4d3802] = false;
-                if (!this.moonbox_notified.includes(_0x4d3802)) {
-                  this.moonbox_notified.push(_0x4d3802);
-                  const _0x14eeaa = {
-                    notify: true
-                  };
-                  this.log("阅光宝盒任务[" + _0x4d3802 + "]已完成", _0x14eeaa);
-                }
-                break;
-              }
-          }
-        }
-      } else {
-        let _0x4b5302 = _0x51e7c5?.["message"] || "";
-        _0x4b5302?.["includes"]("未领取") && !_0xcef68f.activate_retry && (await this.moonbox_queryActiveTaskList()) ? (_0xcef68f.activate_retry = true, await this.moonbox_m_queryCurTaskStatus(_0xcef68f)) : this.log("阅光宝盒查询任务状态失败[" + _0x3e8bcf + "]: " + _0x4b5302);
-      }
-    } catch (_0x2b3c91) {
-      console.log(_0x2b3c91);
-    }
-  }
-  async moonbox_m_completeActiveTask(_0x3a9ed6, _0x14d7fc = {}) {
-    try {
-      let _0x4feba7 = {
-          taskId: _0x3a9ed6.id,
-          ...this.get_woread_m_param()
-        },
-        _0x3be902 = this.encode_woread(_0x4feba7, _0x20c0ff);
-      const _0x304a2d = {
-        sign: _0x3be902
-      };
-      const _0x3f6790 = {
-        fn: "moonbox_m_completeActiveTask",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/completeActiveTask",
-        json: _0x304a2d
-      };
-      let {
-          result: _0x27b401
-        } = await this.woread_api(_0x3f6790),
-        _0x1b57e3 = _0x4c672b.get(_0x27b401, "code", -1);
-      if (_0x1b57e3 == "0000") {
-        const _0x1dd73a = {
-          notify: true
-        };
-        this.log("阅光宝盒[" + _0x27b401?.["data"]?.["taskDetail"]?.["taskName"] + "]领取奖励成功: " + _0x27b401?.["data"]?.["exchangeResult"]?.["materialGroupInfo"]?.["groupName"], _0x1dd73a);
-      } else {
-        let _0x3a226a = _0x27b401?.["message"] || "";
-        this.log("阅光宝盒[" + _0x3a9ed6?.["taskDetail"]?.["taskName"] + "]领取奖励失败[" + _0x1b57e3 + "]: " + _0x3a226a);
-      }
-    } catch (_0x5f2f11) {
-      console.log(_0x5f2f11);
-    }
-  }
-  async moonbox_m_queryActiveTaskList(_0x165565 = {}) {
-    try {
-      let _0x3779e6 = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_m_param()
-        },
-        _0x5ec19c = this.encode_woread(_0x3779e6, _0x20c0ff);
-      const _0x34cd3e = {
-        sign: _0x5ec19c
-      };
-      const _0x3025ab = {
-        fn: "moonbox_m_queryActiveTaskList",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/queryActiveTaskList",
-        json: _0x34cd3e
-      };
-      let {
-          result: _0x591b1d
-        } = await this.woread_api(_0x3025ab),
-        _0x112619 = _0x4c672b.get(_0x591b1d, "code", -1);
-      if (_0x112619 == "0000") {
-        let _0x1a7988 = _0x591b1d?.["data"]?.["sort"](function (_0x533bfe, _0x3cbfac) {
-            let _0x1619db = parseInt(_0x3cbfac.taskDetail.taskValue),
-              _0x5d17d1 = parseInt(_0x533bfe.taskDetail.taskValue);
-            return _0x1619db - _0x5d17d1;
-          }),
-          _0x590d73 = _0x1a7988.filter(_0xa65315 => _0xa65315.maxNum - _0xa65315.receiveNum > 0 && _0xa65315.taskDetail.materialGroup.groupName.includes("红包"));
-        _0x590d73?.["length"] ? await this.moonbox_m_receiveActiveTask(_0x590d73) : this.log("没有可领取的阅光宝盒红包任务了");
-      } else {
-        let _0x51d622 = _0x591b1d?.["message"] || "";
-        this.log("阅光宝盒查询可领取任务失败[" + _0x112619 + "]: " + _0x51d622);
-      }
-    } catch (_0x39e415) {
-      console.log(_0x39e415);
-    }
-  }
-  async moonbox_m_receiveActiveTask(_0x222667, _0x20f0f8 = {}) {
-    try {
-      if (!_0x222667.length) {
-        return;
-      }
-      let _0x5013e3 = _0x222667.shift(),
-        _0x5915e5 = _0x5013e3?.["taskDetail"]?.["taskName"] || "",
-        _0x499f8f = {
-          activeId: _0x55391c,
-          taskId: _0x5013e3.secondTaskId,
-          ...this.get_woread_m_param()
-        },
-        _0x5a8196 = this.encode_woread(_0x499f8f, _0x20c0ff);
-      const _0x54248e = {
-        sign: _0x5a8196
-      };
-      const _0x41777c = {
-        fn: "moonbox_m_queryActiveTaskList",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/receiveActiveTask",
-        json: _0x54248e
-      };
-      let {
-          result: _0x5b661a
-        } = await this.woread_api(_0x41777c),
-        _0x12d65d = _0x4c672b.get(_0x5b661a, "code", -1);
-      if (_0x12d65d == "0000") {
-        this.moonbox_task_record[_0x5915e5] = true;
-        this.log("领取阅光宝盒任务[" + _0x5915e5 + "]成功");
-      } else {
-        let _0x1347e6 = _0x5b661a?.["message"] || "";
-        this.log("领取阅光宝盒任务[" + _0x5915e5 + "]失败[" + _0x12d65d + "]: " + _0x1347e6);
-        (_0x1347e6?.["includes"]("今天无法完成") || _0x1347e6?.["includes"]("领光了")) && _0x222667.length > 0 && (await _0x4c672b.wait(500), await this.moonbox_m_receiveActiveTask(_0x222667, _0x20f0f8));
-      }
-    } catch (_0x26b16f) {
-      console.log(_0x26b16f);
-    }
-  }
-  async moonbox_m_queryReadStatus(_0x2089b8 = {}) {
-    try {
-      let _0x5361cf = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_m_param()
-        },
-        _0x36b85a = this.encode_woread(_0x5361cf, _0x20c0ff);
-      const _0x1c1d08 = {
-        sign: _0x36b85a
-      };
-      const _0x30f8ca = {
-        fn: "moonbox_m_queryReadStatus",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/queryReadStatus",
-        json: _0x1c1d08
-      };
-      let {
-          result: _0x3ac100
-        } = await this.woread_api(_0x30f8ca),
-        _0x446cf9 = _0x4c672b.get(_0x3ac100, "code", -1);
-      if (_0x446cf9 == "0000") {
-        switch (_0x3ac100?.["message"]) {
-          case "2":
-            {
-              this.log("阅光宝盒去阅读两分钟抽奖");
-              const _0x177649 = {
-                readTime: 2
-              };
-              await this.woread_m_addReadTime(_0x177649);
-              await this.moonbox_m_drawReadActivePrize();
-              break;
-            }
-          case "3":
-            {
-              this.log("阅光宝盒今天已抽奖");
-              break;
-            }
-          case "4":
-            {
-              this.log("阅光宝盒今天可以抽奖");
-              await this.moonbox_m_drawReadActivePrize();
-              break;
-            }
-          default:
-            {
-              this.log("阅光宝盒抽奖状态[" + _0x3ac100?.["data"] + "]");
-              break;
-            }
-        }
-      } else {
-        let _0x3e13a2 = _0x3ac100?.["message"] || "";
-        this.log("查询阅光宝盒抽奖次数失败[" + _0x446cf9 + "]: " + _0x3e13a2);
-      }
-    } catch (_0x370229) {
-      console.log(_0x370229);
-    }
-  }
-  async moonbox_m_drawReadActivePrize(_0x577cf6 = {}) {
-    try {
-      let _0x48a5f2 = {
-          activeIndex: _0x55391c,
-          ...this.get_woread_m_param()
-        },
-        _0x52e161 = this.encode_woread(_0x48a5f2, _0x20c0ff);
-      const _0x815396 = {
-        sign: _0x52e161
-      };
-      const _0x14a91e = {
-        fn: "moonbox_m_drawReadActivePrize",
-        method: "post",
-        url: "https://m.woread.com.cn/api/union/activity423/drawReadActivePrize",
-        json: _0x815396
-      };
-      let {
-          result: _0x13c8d4
-        } = await this.woread_api(_0x14a91e),
-        _0x3b1c56 = _0x4c672b.get(_0x13c8d4, "code", -1);
-      if (_0x3b1c56 == "0000") {
-        const _0x75d6a5 = {
-          notify: true
-        };
-        this.log("阅光宝盒抽奖: " + (_0x13c8d4?.["data"]?.["prizedesc"] || JSON.stringify(_0x13c8d4)), _0x75d6a5);
-      } else {
-        let _0x1d2f3b = _0x13c8d4?.["message"] || "";
-        this.log("阅光宝盒抽奖失败[" + _0x3b1c56 + "]: " + _0x1d2f3b);
-      }
-    } catch (_0x2e18c9) {
-      console.log(_0x2e18c9);
-    }
-  }
-  async ltyp_login(_0x1ce474, _0x483381 = {}) {
-    try {
-      const _0x2b5783 = {
-        "client-Id": _0x392042,
-        accessToken: ""
-      };
-      const _0x146bcb = {
-        clientId: _0x392042,
-        ticket: _0x1ce474
-      };
-      let _0x4efd51 = {
-          fn: "ltyp_login",
-          method: "post",
-          url: "https://panservice.mail.wo.cn/wohome/dispatcher",
-          headers: _0x2b5783,
-          json: {
-            header: this.get_ltyp_sign_header("HandheldHallAutoLogin"),
-            body: _0x146bcb
-          }
-        },
-        {
-          result: _0x30e605
-        } = await this.request(_0x4efd51),
-        _0x4d6db0 = _0x4c672b.get(_0x30e605, "STATUS", -1);
-      if (_0x4d6db0 == 200) {
-        this.ltyp_token = _0x30e605?.["RSP"]?.["DATA"]?.["token"];
-        for (let _0x27bfeb of _0x333e1b) {
-          await this.ltyp_incentiveTimes(_0x27bfeb);
-          await this.ltyp_lottery(_0x27bfeb);
-        }
-      } else {
-        let _0x13a7ba = _0x30e605?.["msg"] || "";
-        this.log("联通云盘登录失败[" + _0x4d6db0 + "]: " + _0x13a7ba);
-      }
-    } catch (_0x505ae6) {
-      console.log(_0x505ae6);
-    }
-  }
-  async ltyp_incentiveTimes(_0x4b3a88, _0x26cec8 = {}) {
-    try {
-      const _0x1029d2 = {
-        "client-Id": _0x392042,
-        "Access-Token": this.ltyp_token
-      };
-      const _0xc10a38 = {
-        fn: "ltyp_incentiveTimes",
-        method: "get",
-        url: "https://panservice.mail.wo.cn/activity/v1/incentiveTimes",
-        headers: _0x1029d2,
-        searchParams: {}
-      };
-      _0xc10a38.searchParams.bizKey = "incentiveTimesPipeline";
-      _0xc10a38.searchParams.activityId = _0x4b3a88;
-      let {
-          result: _0x117383
-        } = await this.request(_0xc10a38),
-        _0x334590 = _0x4c672b.get(_0x117383?.["meta"], "code", -1);
-      if (_0x334590 == 0) {
-        let {
-          isIncentiveTask = 0,
-          taskType = 0,
-          incentiveTimeTotal = 0,
-          incentiveTimeDone = 0
-        } = _0x117383?.["result"];
-        if (isIncentiveTask) {
-          for (let _0x1e30b1 = incentiveTimeDone; _0x1e30b1 < incentiveTimeTotal; _0x1e30b1++) {
-            await this.ltyp_incentiveTask(_0x4b3a88);
-          }
-        }
-      } else {
-        let _0x17b321 = _0x117383?.["meta"]?.["message"] || "";
-        this.log("联通云盘查询任务失败[" + _0x334590 + "]: " + _0x17b321);
-      }
-    } catch (_0x54a602) {
-      console.log(_0x54a602);
-    }
-  }
-  async ltyp_incentiveTask(_0x3ffa2a, _0x291739 = {}) {
-    try {
-      const _0x4423a2 = {
-        "client-Id": _0x392042,
-        "Access-Token": this.ltyp_token
-      };
-      const _0x5d1e51 = {
-        activityId: _0x3ffa2a
-      };
-      const _0x58fc09 = {
-        bizKey: "incentiveTaskPipeline",
-        bizObject: _0x5d1e51
-      };
-      const _0x959e18 = {
-        fn: "ltyp_incentiveTask",
-        method: "post",
-        url: "https://panservice.mail.wo.cn/activity/v1/incentiveTask",
-        headers: _0x4423a2,
-        json: _0x58fc09
-      };
-      let {
-          result: _0x4e3742
-        } = await this.request(_0x959e18),
-        _0x331ab9 = _0x4c672b.get(_0x4e3742?.["meta"], "code", -1);
-      if (_0x331ab9 == 0) {
-        let {
-          incentiveStatus = 0,
-          incentiveMessage = ""
-        } = _0x4e3742?.["result"];
-        incentiveStatus == 1 ? this.log("联通云盘完成任务成功") : this.log("联通云盘完成任务失败[" + incentiveStatus + "]: " + incentiveMessage);
-      } else {
-        let _0x172131 = _0x4e3742?.["meta"]?.["message"] || "";
-        this.log("联通云盘完成任务错误[" + _0x331ab9 + "]: " + _0x172131);
-      }
-    } catch (_0x47d039) {
-      console.log(_0x47d039);
-    }
-  }
-  async ltyp_lottery_times(_0x5644fa, _0x42508f = {}) {
-    try {
-      const _0xe7632d = {
-        "client-Id": _0x392042,
-        token: this.ltyp_token
-      };
-      const _0x314980 = {
-        activityId: _0x5644fa
-      };
-      const _0x8e464d = {
-        fn: "ltyp_lottery_times",
-        method: "get",
-        url: "https://panservice.mail.wo.cn/activity/v1/times",
-        headers: _0xe7632d,
-        searchParams: _0x314980
-      };
-      let {
-          result: _0x2138c5
-        } = await this.request(_0x8e464d),
-        _0x5ede21 = _0x4c672b.get(_0x2138c5, "RSP_CODE", -1);
-      if (_0x5ede21 == 0) {
-        let {
-          times = 0
-        } = _0x2138c5?.["DATA"];
-        this.log("联通云盘可以抽奖" + times + "次");
-        while (times-- > 0) {
-          await _0x4c672b.wait(1000);
-          await this.ltyp_lottery(_0x5644fa);
-        }
-      } else {
-        let _0x54bc65 = _0x2138c5?.["RSP_DESC"] || "";
-        this.log("联通云盘查询抽奖次数失败[" + _0x5ede21 + "]: " + _0x54bc65);
-      }
-    } catch (_0xdeafa3) {
-      console.log(_0xdeafa3);
-    }
-  }
-  async ltyp_lottery(_0x3f86e4, _0x2e2814 = {}) {
-    try {
-      const _0x46983d = {
-        "client-Id": _0x392042,
-        "Access-Token": this.ltyp_token
-      };
-      const _0x373c74 = {
-        activityId: _0x3f86e4,
-        type: 3
-      };
-      const _0x474c24 = {
-        lottery: _0x373c74
-      };
-      const _0x4a1127 = {
-        bizKey: "newLottery",
-        bizObject: _0x474c24
-      };
-      const _0x3a5637 = {
-        fn: "ltyp_lottery",
-        method: "post",
-        url: "https://panservice.mail.wo.cn/wohome/v1/lottery",
-        headers: _0x46983d,
-        json: _0x4a1127
-      };
-      let {
-          result: _0x3f8809
-        } = await this.request(_0x3a5637),
-        _0x29e0e0 = _0x4c672b.get(_0x3f8809?.["meta"], "code", -1);
-      if (_0x29e0e0 == 0) {
-        let {
-          prizeName = ""
-        } = _0x3f8809?.["result"];
-        if (prizeName) {
-          const _0x59a8ae = {
-            notify: true
-          };
-          this.log("联通云盘抽奖: " + prizeName, _0x59a8ae);
-          await this.ltyp_lottery(_0x3f86e4, _0x2e2814);
-        }
-      } else {
-        let _0x2fe581 = _0x3f8809?.["meta"]?.["message"] || "";
-        this.log("联通云盘抽奖错误[" + _0x29e0e0 + "]: " + _0x2fe581);
-      }
-    } catch (_0x6e247d) {
-      console.log(_0x6e247d);
-    }
-  }
-  async act_517_userAccount(_0x5d111b = {}) {
-    try {
-      const _0x52d1fe = {
-        fn: "act_517_userAccount",
-        method: "get",
-        url: "https://activity.10010.com/2024517charges/lottery/userAccount"
-      };
-      {
-        let {
-            result: _0x12e6e7,
-            statusCode: _0x24ba47
-          } = await this.request(_0x4c672b.copy(_0x52d1fe)),
-          _0x3f7586 = _0x4c672b.get(_0x12e6e7, "code", _0x24ba47);
-        if (_0x3f7586 == "0000") {
-          await this.act_517_taskList();
-        } else {
-          let _0xa39ecd = _0x12e6e7?.["message"] || _0x12e6e7?.["msg"] || "";
-          this.log("517活动进入主页失败[" + _0x3f7586 + "]: " + _0xa39ecd);
-          return;
-        }
-      }
-      {
-        let {
-            result: _0x2d9fa8,
-            statusCode: _0x40643e
-          } = await this.request(_0x4c672b.copy(_0x52d1fe)),
-          _0x5caf5e = _0x4c672b.get(_0x2d9fa8, "code", _0x40643e);
-        if (_0x5caf5e == "0000") {
-          let {
-            chances: _0xb8ead9
-          } = _0x2d9fa8?.["data"];
-          this.log("517活动可以抽奖" + _0xb8ead9 + "次");
-          let _0x4a90fa = false;
-          while (_0xb8ead9-- > 0) {
-            if (_0x4a90fa) {
-              await _0x4c672b.wait(3000);
-            }
-            _0x4a90fa = true;
-            await this.act_517_lottery();
-          }
-        } else {
-          let _0x401062 = _0x2d9fa8?.["message"] || _0x2d9fa8?.["msg"] || "";
-          this.log("517活动查询抽奖次数失败[" + _0x5caf5e + "]: " + _0x401062);
-        }
-      }
-      {
-        let {
-            result: _0x112b84,
-            statusCode: _0x3d9692
-          } = await this.request(_0x4c672b.copy(_0x52d1fe)),
-          _0x164969 = _0x4c672b.get(_0x112b84, "code", _0x3d9692);
-        if (_0x164969 == "0000") {
-          let {
-            amount: _0x1053c0,
-            targetAmount: _0x248ecd
-          } = _0x112b84?.["data"];
-          const _0x3dbd45 = {
-            notify: true
-          };
-          this.log("517活动现金进度: " + _0x1053c0 + "/" + _0x248ecd, _0x3dbd45);
-        } else {
-          let _0x53c12d = _0x112b84?.["message"] || _0x112b84?.["msg"] || "";
-          this.log("517活动查询进度失败[" + _0x164969 + "]: " + _0x53c12d);
-        }
-      }
-    } catch (_0x55b6a1) {
-      console.log(_0x55b6a1);
-    }
-  }
-  async act_517_bind(_0x3ec228, _0x281097 = {}) {
-    try {
-      const _0x54d111 = {
-        fn: "act_517_bind",
-        method: "post",
-        url: "https://activity.10010.com/2024517charges/openWindows/bind",
-        json: {},
-        valid_code: [401]
-      };
-      _0x54d111.json.shareCode = _0x3ec228;
-      _0x54d111.json.channel = "countersign";
-      let {
-        result: _0x5b7fc4
-      } = await this.request(_0x54d111);
-    } catch (_0x500ea5) {
-      console.log(_0x500ea5);
-    }
-  }
-  async act_517_lottery(_0x108752 = {}) {
-    try {
-      const _0x3b78e1 = {
-        fn: "act_517_lottery",
-        method: "get",
-        url: "https://activity.10010.com/2024517charges/lottery/lottery"
-      };
-      let {
-          result: _0x4124a9,
-          statusCode: _0x2962e5
-        } = await this.request(_0x3b78e1),
-        _0x3d0976 = _0x4c672b.get(_0x4124a9, "code", _0x2962e5);
-      if (_0x3d0976 == "0000") {
-        _0x4124a9?.["data"]?.["uuid"] ? (await _0x4c672b.wait(2000), await this.act_517_winningRecord(_0x4124a9.data.uuid)) : this.log("517活动抽奖失败, 没有返回uuid");
-      } else {
-        let _0x52341d = _0x4124a9?.["message"] || _0x4124a9?.["msg"] || "";
-        this.log("517活动抽奖失败[" + _0x3d0976 + "]: " + _0x52341d);
-      }
-    } catch (_0x162e6a) {
-      console.log(_0x162e6a);
-    }
-  }
-  async act_517_winningRecord(_0x30fba9, _0x228991 = {}) {
-    try {
-      const _0x55e850 = {
-        requestId: _0x30fba9
-      };
-      const _0x4c9db5 = {
-        fn: "act_517_winningRecord",
-        method: "get",
-        url: "https://activity.10010.com/2024517charges/lottery/winningRecord",
-        searchParams: _0x55e850
-      };
-      let {
-          result: _0x171769,
-          statusCode: _0x4aedd2
-        } = await this.request(_0x4c9db5),
-        _0x57336e = _0x4c672b.get(_0x171769, "code", _0x4aedd2);
-      if (_0x57336e == "0000") {
-        if (_0x171769?.["data"]?.["isWin"] === "1") {
-          let {
-              prizeAmount: _0x11e55c,
-              prizeList: _0x175f28,
-              afterAmount: _0x493574,
-              targetAmount: _0x2e20be,
-              showAmount = "0"
-            } = _0x171769?.["data"],
-            _0x48f549 = (_0x175f28 || []).filter(_0x5a6286 => _0x5a6286.prizeName).map(_0x2807d7 => _0x2807d7.prizeName).join(", ") || "";
-          const _0x208a94 = {
-            notify: true
-          };
-          if (_0x48f549) {
-            this.log("517活动抽奖: " + _0x48f549, _0x208a94);
-          }
-          if (showAmount === "1") {
-            this.log("517活动抽奖现金进度: +" + _0x11e55c + " (" + _0x493574 + "/" + _0x2e20be + ")");
-          }
-        } else {
-          this.log("517活动抽奖: 空气");
-        }
-      } else {
-        let _0xb510ea = _0x171769?.["message"] || _0x171769?.["msg"] || "";
-        this.log("查询517活动抽奖结果失败[" + _0x57336e + "]: " + _0xb510ea);
-      }
-    } catch (_0x128879) {
-      console.log(_0x128879);
-    }
-  }
-  async act_517_taskList(_0x4fe859 = {}) {
-    try {
-      const _0x1297f2 = {
-        fn: "act_517_taskList",
-        method: "get",
-        url: "https://activity.10010.com/2024517charges/dotask/taskList"
-      };
-      let {
-          result: _0x4ea832,
-          statusCode: _0x3a5db6
-        } = await this.request(_0x1297f2),
-        _0x120b88 = _0x4c672b.get(_0x4ea832, "code", _0x3a5db6);
-      if (_0x120b88 == "0000") {
-        let _0x442045 = _0x4ea832?.["data"]?.["taskList"] || [];
-        for (let _0x10da9b of _0x442045) {
-          let {
-            completeNum = 0,
-            maxNum: _0x411a82,
-            isComplete: _0x3bded4,
-            taskType: _0x11ea96
-          } = _0x10da9b;
-          if (_0x3bded4) {
-            continue;
-          }
-          if (_0x11ea96 == "5") {
-            continue;
-          }
-          completeNum = parseInt(completeNum);
-          _0x411a82 = parseInt(_0x411a82);
-          for (let _0x3fa506 = completeNum; _0x3fa506 < _0x411a82; _0x3fa506++) {
-            await this.act_517_completeTask(_0x10da9b);
-          }
-        }
-      } else {
-        let _0x215aee = _0x4ea832?.["message"] || _0x4ea832?.["msg"] || "";
-        this.log("查询517活动抽奖结果失败[" + _0x120b88 + "]: " + _0x215aee);
-      }
-    } catch (_0x45301a) {
-      console.log(_0x45301a);
-    }
-  }
-  async act_517_completeTask(_0x5c02d6, _0x33c90f = {}) {
-    try {
-      let _0x50635b = _0x5c02d6.title;
-      const _0x20a5f8 = {
-        taskId: _0x5c02d6.taskId
-      };
-      const _0x3c3d1a = {
-        fn: "act_517_completeTask",
-        method: "get",
-        url: "https://activity.10010.com/2024517charges/dotask/completeTask",
-        searchParams: _0x20a5f8
-      };
-      let {
-          result: _0x2c1631,
-          statusCode: _0x269980
-        } = await this.request(_0x3c3d1a),
-        _0x3c92b5 = _0x4c672b.get(_0x2c1631, "code", _0x269980);
-      if (_0x3c92b5 == "0000") {
-        if (_0x2c1631?.["data"]) {
-          let {
-            num: _0x22c1df,
-            title: _0x342214
-          } = _0x2c1631.data;
-          this.log("完成任务[" + _0x342214 + "]成功: " + _0x22c1df + "次抽奖机会");
-        } else {
-          this.log("完成任务[" + _0x50635b + "]失败没有获得抽奖机会");
-        }
-      } else {
-        let _0x140a16 = _0x2c1631?.["message"] || _0x2c1631?.["msg"] || "";
-        this.log("完成任务[" + _0x50635b + "]失败[" + _0x3c92b5 + "]: " + _0x140a16);
-      }
-    } catch (_0x316430) {
-      console.log(_0x316430);
-    }
-  }
-  get_wocare_body(_0x4d6de5, _0x2dbc6d = {}) {
-    const _0x1771be = _0x4c672b.time("yyyyMMddhhmmssS"),
-      _0x1604c8 = Buffer.from(JSON.stringify(_0x2dbc6d)).toString("base64");
-    let _0x40e43b = {
-        version: _0x3db78e,
-        apiCode: _0x4d6de5,
-        channelId: _0x12fe67,
-        transactionId: _0x1771be + _0x4c672b.randomString(6, _0x4e5ad9),
-        timeStamp: _0x1771be,
-        messageContent: _0x1604c8
-      },
-      _0x38d082 = [];
-    Object.keys(_0x40e43b).sort().forEach(_0x430b5e => {
-      _0x38d082.push(_0x430b5e + "=" + _0x40e43b[_0x430b5e]);
-    });
-    _0x38d082.push("sign=" + _0x5f2a5c);
-    _0x40e43b.sign = _0x368aa5.MD5(_0x38d082.join("&")).toString();
-    return _0x40e43b;
-  }
-  async wocare_api(_0x5c2ce0, _0x20488d = {}) {
-    let _0x4c8f7b = this.get_wocare_body(_0x5c2ce0, _0x20488d);
-    const _0x334f84 = {
-      fn: "wocare_" + _0x5c2ce0,
-      method: "post",
-      url: "https://wocare.unisk.cn/api/v1/" + _0x5c2ce0,
-      form: _0x4c8f7b
-    };
-    let _0x1c081d = await this.request(_0x334f84);
-    if (_0x1c081d?.["result"]?.["messageContent"]) {
-      try {
-        let _0x16bed8 = JSON.parse(Buffer.from(_0x1c081d.result.messageContent, "base64").toString());
-        _0x1c081d.result.data = _0x16bed8?.["data"] || _0x16bed8;
-        if (_0x16bed8?.["resultMsg"]) {
-          _0x1c081d.result.resultMsg = _0x16bed8.resultMsg;
-        }
-      } catch (_0x33899f) {
-        this.log("解析联通祝福返回失败:");
-        console.log(_0x33899f);
-      }
-    }
-    return _0x1c081d;
-  }
-  async wocare_getToken(_0x5d6595, _0x338375 = {}) {
-    let _0xe03d23 = false;
-    try {
-      let _0x5a4ebd = {
-          fn: "wocare_getToken",
-          method: "get",
-          url: "https://wocare.unisk.cn/mbh/getToken",
-          searchParams: {
-            channelType: _0x2f3d25,
-            type: "02",
-            ticket: _0x5d6595,
-            version: _0x469423,
-            timestamp: _0x4c672b.time("yyyyMMddhhmmssS"),
-            desmobile: this.mobile,
-            num: 0,
-            postage: _0x4c672b.randomString(32),
-            homePage: "home",
-            duanlianjieabc: "qAz2m",
-            userNumber: this.mobile
-          }
-        },
-        {
-          headers: _0x4a51b5,
-          statusCode: _0x571bc4
-        } = await this.request(_0x5a4ebd);
-      if (_0x571bc4 == 302) {
-        if (_0x4a51b5?.["location"]) {
-          let _0x32c3c4 = new URL(_0x4a51b5.location),
-            _0x4aa2d9 = _0x32c3c4.searchParams.get("sid");
-          _0x4aa2d9 ? (this.wocare_sid = _0x4aa2d9, _0xe03d23 = await this.wocare_loginmbh()) : this.log("联通祝福没有获取到sid");
-        } else {
-          this.log("联通祝福没有获取到location");
-        }
-      } else {
-        this.log("联通祝福获取sid失败[" + _0x571bc4 + "]");
-      }
-    } catch (_0x4a16ba) {
-      console.log(_0x4a16ba);
-    } finally {
-      return _0xe03d23;
-    }
-  }
-  async wocare_loginmbh(_0x11ffd4 = {}) {
-    let _0x4f6412 = false;
-    try {
-      let _0x24493a = "loginmbh";
-      const _0x1aac9d = {
-        sid: this.wocare_sid,
-        channelType: _0x2f3d25,
-        apiCode: _0x24493a
-      };
-      let {
-          result: _0xca14a,
-          statusCode: _0x40c778
-        } = await this.wocare_api(_0x24493a, _0x1aac9d),
-        _0x43410e = _0x4c672b.get(_0xca14a, "resultCode", _0x40c778);
-      if (_0x43410e == "0000") {
-        _0x4f6412 = true;
-        let {
-          token: _0x56ac18
-        } = _0xca14a?.["data"];
-        this.wocare_token = _0x56ac18;
-      } else {
-        let _0xffa41d = _0xca14a?.["resultMsg"] || _0xca14a?.["resultDesc"] || "";
-        this.log("联通祝福登录失败[" + _0x43410e + "]: " + _0xffa41d);
-      }
-    } catch (_0x1eb84b) {
-      console.log(_0x1eb84b);
-    } finally {
-      return _0x4f6412;
-    }
-  }
-  async wocare_getSpecificityBanner(_0x596f9b = {}) {
-    try {
-      let _0x4a6368 = "getSpecificityBanner";
-      const _0x26cd42 = {
-        token: this.wocare_token,
-        apiCode: _0x4a6368
-      };
-      let {
-          result: _0x2a4fc0,
-          statusCode: _0x29d087
-        } = await this.wocare_api(_0x4a6368, _0x26cd42),
-        _0x2c004b = _0x4c672b.get(_0x2a4fc0, "resultCode", _0x29d087);
-      if (_0x2c004b == "0000") {
-        let _0x160328 = _0x2a4fc0?.["data"] || [];
-        for (let _0x4d923c of _0x160328.filter(_0x3704ef => _0x3704ef.activityStatus === "0" && _0x3704ef.isDeleted === "0")) {
-          await this.wocare_getDrawTask(_0x4d923c);
-          await this.wocare_loadInit(_0x4d923c);
-        }
-      } else {
-        let _0x5452d4 = _0x2a4fc0?.["resultMsg"] || _0x2a4fc0?.["resultDesc"] || "";
-        this.log("联通祝福进入活动失败[" + _0x2c004b + "]: " + _0x5452d4);
-      }
-    } catch (_0x597b13) {
-      console.log(_0x597b13);
-    }
-  }
-  async wocare_loadInit(_0xa9b8ad, _0x455970 = {}) {
-    try {
-      let _0x43cea8 = "loadInit";
-      const _0x4c47b0 = {
-        token: this.wocare_token,
-        channelType: _0x2f3d25,
-        type: _0xa9b8ad.id,
-        apiCode: _0x43cea8
-      };
-      let {
-          result: _0x32f59b,
-          statusCode: _0x3c4540
-        } = await this.wocare_api(_0x43cea8, _0x4c47b0),
-        _0x5b2835 = _0x4c672b.get(_0x32f59b, "resultCode", _0x3c4540);
-      if (_0x5b2835 == "0000") {
-        let _0x3d1fd0 = _0x32f59b?.["data"],
-          _0x2870a7 = _0x3d1fd0?.["zActiveModuleGroupId"],
-          _0x4acf9b = 0;
-        switch (_0xa9b8ad.id) {
+          result: _0x449ebf
+        } = await this.request(_0x3f1540);
+      if (_0x449ebf?.["success"]) for (let _0x3d28cf of _0x449ebf.obj.taskTitleLevels) {
+        switch (_0x3d28cf.status) {
           case 2:
-            {
-              let _0x143f96 = _0x3d1fd0?.["data"]?.["isPartake"] || 0;
-              !_0x143f96 && (_0x4acf9b = 1);
-              break;
-            }
+            if (_0x144bb1.includes(_0x3d28cf.title)) break;
+            await this.finishTask(_0x3d28cf);
+          case 1:
+            await this.fetchIntegral(_0x3d28cf);
+            break;
           case 3:
-            {
-              _0x4acf9b = parseInt(_0x3d1fd0?.["raffleCountValue"] || 0);
-              break;
-            }
-          case 4:
-            {
-              _0x4acf9b = parseInt(_0x3d1fd0?.["mhRaffleCountValue"] || 0);
-              break;
-            }
+            break;
+          default:
+            this.log("任务[" + _0x3d28cf.title + "] -- 未知状态[" + _0x3d28cf.status + "]");
+            break;
         }
-        while (_0x4acf9b-- > 0) {
-          await _0x4c672b.wait(5000);
-          await this.wocare_luckDraw(_0xa9b8ad, _0x2870a7);
-        }
-      } else {
-        let _0x10d6ec = _0x32f59b?.["resultMsg"] || _0x32f59b?.["resultDesc"] || "";
-        this.log("联通祝福[" + _0xa9b8ad.name + "]查询活动失败[" + _0x5b2835 + "]: " + _0x10d6ec);
-      }
-    } catch (_0x52030a) {
-      console.log(_0x52030a);
+      } else this.log("查询任务失败: " + (_0x449ebf?.["errorMessage"] || (_0x449ebf ? JSON.stringify(_0x449ebf) : "无返回")));
+    } catch (_0x5808cc) {
+      console.log(_0x5808cc);
     }
   }
-  async wocare_getDrawTask(_0x1fef95, _0xeaa7bc = {}) {
+  async ["finishTask"](_0x469e39, _0x3b20a7 = {}) {
     try {
-      let _0x4e8c52 = "getDrawTask";
-      const _0x2c3b69 = {
-        token: this.wocare_token,
-        channelType: _0x2f3d25,
-        type: _0x1fef95.id,
-        apiCode: _0x4e8c52
+      const _0x19102f = {
+        "taskCode": _0x469e39.taskCode
       };
-      let {
-          result: _0x38de2a,
-          statusCode: _0x628a3b
-        } = await this.wocare_api(_0x4e8c52, _0x2c3b69),
-        _0x425051 = _0x4c672b.get(_0x38de2a, "resultCode", _0x628a3b);
-      if (_0x425051 == "0000") {
-        let _0x1335c7 = _0x38de2a?.["data"]?.["taskList"] || [];
-        for (let _0x5019b6 of _0x1335c7.filter(_0x529e83 => _0x529e83.taskStatus == 0)) {
-          await this.wocare_completeTask(_0x1fef95, _0x5019b6);
-        }
-      } else {
-        let _0x355044 = _0x38de2a?.["resultMsg"] || _0x38de2a?.["resultDesc"] || "";
-        this.log("联通祝福[" + _0x1fef95.name + "]查询任务失败[" + _0x425051 + "]: " + _0x355044);
-      }
-    } catch (_0x14c042) {
-      console.log(_0x14c042);
+      let _0x448b1b = {
+          "fn": "finishTask",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonRoutePost/memberEs/taskRecord/finishTask",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x19102f
+        },
+        {
+          result: _0x3cefae
+        } = await this.request(_0x448b1b);
+      _0x3cefae?.["success"] ? this.log("完成任务[" + _0x469e39.title + "]成功") : this.log("完成任务[" + _0x469e39.title + "]失败: " + (_0x3cefae?.["errorMessage"] || (_0x3cefae ? JSON.stringify(_0x3cefae) : "无返回")));
+    } catch (_0x186662) {
+      console.log(_0x186662);
     }
   }
-  async wocare_completeTask(_0x3f5d92, _0x50e428, _0x360522 = "1", _0x2c48eb = {}) {
+  async ["fetchIntegral"](_0x5e392f, _0x5c683b = {}) {
     try {
-      let _0x50f9e4 = _0x50e428.title,
-        _0x4facfd = _0x360522 == "1" ? "领取任务" : "完成任务",
-        _0x377c39 = "completeTask";
-      const _0x303bcd = {
-        token: this.wocare_token,
-        channelType: _0x2f3d25,
-        task: _0x50e428.id,
-        taskStep: _0x360522,
-        type: _0x3f5d92.id,
-        apiCode: _0x377c39
-      };
-      let {
-          result: _0x2cc63e,
-          statusCode: _0x184c09
-        } = await this.wocare_api(_0x377c39, _0x303bcd),
-        _0xa787a0 = _0x4c672b.get(_0x2cc63e, "resultCode", _0x184c09);
-      if (_0xa787a0 == "0000") {
-        this.log(_0x4facfd + "[" + _0x50f9e4 + "]成功");
-        _0x360522 == "1" && (await this.wocare_completeTask(_0x3f5d92, _0x50e428, "4"));
-      } else {
-        let _0x2e4c1b = _0x2cc63e?.["resultMsg"] || _0x2cc63e?.["resultDesc"] || "";
-        this.log("联通祝福[" + _0x3f5d92.name + "]" + _0x4facfd + "[" + _0x50f9e4 + "]失败[" + _0xa787a0 + "]: " + _0x2e4c1b);
-      }
-    } catch (_0x29872e) {
-      console.log(_0x29872e);
+      let _0x44d840 = {
+          "fn": "fetchIntegral",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~integralTaskStrategyService~fetchIntegral",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "strategyId": _0x5e392f.strategyId,
+            "taskId": _0x5e392f.taskId,
+            "taskCode": _0x5e392f.taskCode,
+            "deviceId": this.deviceId
+          }
+        },
+        {
+          result: _0x874831
+        } = await this.request(_0x44d840);
+      _0x874831?.["success"] ? this.log("领取任务[" + _0x5e392f.title + "]奖励: " + _0x874831.obj.point + "积分") : this.log("领取任务[" + _0x5e392f.title + "]奖励失败: " + (_0x874831?.["errorMessage"] || (_0x874831 ? JSON.stringify(_0x874831) : "无返回")));
+    } catch (_0x59b4ad) {
+      console.log(_0x59b4ad);
     }
   }
-  async wocare_luckDraw(_0x103614, _0x53be22, _0x51513d = {}) {
+  async ["queryPointTaskAndSign"](_0x4995c6 = {}) {
     try {
-      let _0x62ee5f = "luckDraw";
-      const _0x5621f1 = {
-        token: this.wocare_token,
-        channelType: _0x2f3d25,
-        zActiveModuleGroupId: _0x53be22,
-        type: _0x103614.id,
-        apiCode: _0x62ee5f
+      let _0x52dc49 = {
+          "fn": "queryPointTaskAndSign",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/appTask/queryPointTaskAndSign",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "channel": _0x1366a8.get(_0x4995c6, "channel", "SFAPP"),
+            "pageType": _0x1366a8.get(_0x4995c6, "pageType", "APP_MINE_TASK")
+          }
+        },
+        {
+          result: _0x23bf2f
+        } = await this.request(_0x52dc49);
+      if (_0x23bf2f?.["success"]) for (let _0x118cf2 of _0x23bf2f?.["obj"]?.["taskTitleLevels"] || []) {
+        if (_0x144bb1.includes(_0x118cf2.title)) continue;
+        await this.scanPageToRecord(_0x118cf2);
+        await this.fetchPoint(_0x118cf2);
+      } else this.log("查询旧版任务失败: " + (_0x23bf2f?.["errorMessage"] || (_0x23bf2f ? JSON.stringify(_0x23bf2f) : "无返回")));
+    } catch (_0x5b20dd) {
+      console.log(_0x5b20dd);
+    }
+  }
+  async ["scanPageToRecord"](_0x3964c6, _0x525b06 = {}) {
+    try {
+      let _0x1462cd = {
+          "fn": "scanPageToRecord",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/appTask/scanPageToRecord",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "channel": _0x1366a8.get(_0x525b06, "channel", "SFAPP"),
+            "pageType": _0x3964c6.pageType
+          }
+        },
+        {
+          result: _0x72ec3a
+        } = await this.request(_0x1462cd);
+      _0x72ec3a?.["success"] ? this.log("完成任务[" + _0x3964c6.title + "]成功") : this.log("完成任务[" + _0x3964c6.title + "]失败: " + (_0x72ec3a?.["errorMessage"] || (_0x72ec3a ? JSON.stringify(_0x72ec3a) : "无返回")));
+    } catch (_0x438b94) {
+      console.log(_0x438b94);
+    }
+  }
+  async ["fetchPoint"](_0x37cfcd, _0x19ee8c = {}) {
+    try {
+      let _0x591adf = {
+          "fn": "fetchPoint",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/appTask/fetchPoint",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "channel": _0x1366a8.get(_0x19ee8c, "channel", "SFAPP"),
+            "pageType": _0x37cfcd.pageType,
+            "deviceId": this.deviceId
+          }
+        },
+        {
+          result: _0x5cf645
+        } = await this.request(_0x591adf);
+      _0x5cf645?.["success"] ? this.log("领取任务[" + _0x37cfcd.title + "]奖励成功") : this.log("领取任务[" + _0x37cfcd.title + "]奖励失败: " + (_0x5cf645?.["errorMessage"] || (_0x5cf645 ? JSON.stringify(_0x5cf645) : "无返回")));
+    } catch (_0x76b732) {
+      console.log(_0x76b732);
+    }
+  }
+  async ["coupon_list"](_0x4b0116 = 1, _0x46bf5f = 100, _0x18bf4b = {}) {
+    try {
+      const _0x5376cf = {
+        "couponType": "",
+        "pageNo": _0x4b0116,
+        "pageSize": _0x46bf5f
       };
-      let {
-          result: _0x427eea,
-          statusCode: _0x26e062
-        } = await this.wocare_api(_0x62ee5f, _0x5621f1),
-        _0x1d084a = _0x4c672b.get(_0x427eea, "resultCode", _0x26e062);
-      if (_0x1d084a == "0000") {
-        let _0x1a2341 = _0x4c672b.get(_0x427eea?.["data"], "resultCode", -1);
-        if (_0x1a2341 == "0000") {
+      let _0x341173 = {
+          "fn": "coupon_list",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/coupon/available/list",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x5376cf
+        },
+        {
+          result: _0x163aa0
+        } = await this.request(_0x341173);
+      if (_0x163aa0?.["success"]) {
+        let _0x166a61 = [],
+          _0x59ca62 = _0x163aa0?.["obj"] || [];
+        for (let _0x2a2ac4 of _0x59ca62) {
           let {
-            prizeName: _0x50e0e5,
-            prizeDesc: _0x4e8140
-          } = _0x427eea?.["data"]?.["data"]?.["prize"];
-          this.log("联通祝福[" + _0x103614.name + "]抽奖: " + _0x50e0e5 + "[" + _0x4e8140 + "]");
-        } else {
-          let _0x2529ec = _0x427eea?.["resultMsg"] || _0x427eea?.["resultDesc"] || "";
-          this.log("联通祝福[" + _0x103614.name + "]抽奖失败[" + _0x1a2341 + "]: " + _0x2529ec);
+            couponType: _0x5cae81,
+            invalidTm: _0x590650,
+            pledgeAmt: _0xdc23eb,
+            couponName: _0x1d1aee
+          } = _0x2a2ac4;
+          _0x5cae81 === "1" && _0xdc23eb >= 8 && _0x166a61.push(_0x1d1aee + ", 过期时间: " + _0x590650);
         }
-      } else {
-        let _0x575c51 = _0x427eea?.["resultMsg"] || _0x427eea?.["resultDesc"] || "";
-        this.log("联通祝福[" + _0x103614.name + "]抽奖错误[" + _0x1d084a + "]: " + _0x575c51);
-      }
-    } catch (_0x43e414) {
-      console.log(_0x43e414);
+        if (_0x166a61.length) {
+          const _0x446e45 = {
+            "notify": true
+          };
+          this.log("大额优惠券:", _0x446e45);
+          const _0x4695f5 = {
+            "notify": true
+          };
+          _0x1366a8.log(_0x166a61.join("\n"), _0x4695f5);
+        }
+      } else this.log("查询账号券失败: " + (_0x163aa0?.["errorMessage"] || (_0x163aa0 ? JSON.stringify(_0x163aa0) : "无返回")));
+    } catch (_0x457f74) {
+      console.log(_0x457f74);
     }
   }
-  async card_618_authCheck(_0xeeb2f2 = {}) {
+  async ["personalInfoNew"](_0x1907d7 = {}) {
     try {
-      let _0x4aff88 = {
-          fn: "card_618_authCheck",
-          method: "post",
-          url: "https://epay.10010.com/ps-pafs-auth-front/v1/auth/check",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo()
-          }
+      let _0x4949eb = {
+          "fn": "personalInfoNew",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberIntegral~userInfoService~personalInfoNew",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
         },
         {
-          result: _0x3f5ce1
-        } = await this.request(_0x4aff88),
-        _0x52a304 = _0x4c672b.get(_0x3f5ce1, "code", -1);
-      if (_0x52a304 == "0000") {
-        let {
-          mobile: _0x5ece0b,
-          sessionId: _0x15409b,
-          tokenId: _0x5d8026,
-          userId: _0x195001
-        } = _0x3f5ce1?.["data"]?.["authInfo"];
-        const _0x551929 = {
-          sessionId: _0x15409b,
-          tokenId: _0x5d8026,
-          userId: _0x195001
+          result: _0x1dbf2f
+        } = await this.request(_0x4949eb);
+      if (_0x1dbf2f?.["success"]) {
+        this.userId = _0x1dbf2f.obj.userId;
+        const _0x23d2c0 = {
+          "notify": true
         };
-        Object.assign(this, _0x551929);
-        await this.card_618_queryUserCardInfo();
-      } else {
-        if (_0x52a304 == "2101000100") {
-          let _0x5345ac = _0x3f5ce1?.["data"]?.["woauth_login_url"];
-          await this.card_618_login(_0x5345ac);
-        } else {
-          let _0x3f8426 = _0x3f5ce1?.["msgInside"] || _0x3f5ce1?.["msg"] || "";
-          this.log("618集卡获取tokenId失败[" + _0x52a304 + "]: " + _0x3f8426);
-        }
-      }
-    } catch (_0x120bbb) {
-      console.log(_0x120bbb);
+        this.log("积分: " + _0x1dbf2f.obj.availablePoints, _0x23d2c0);
+      } else this.log("查询账号积分失败: " + (_0x1dbf2f?.["errorMessage"] || (_0x1dbf2f ? JSON.stringify(_0x1dbf2f) : "无返回")));
+    } catch (_0x146095) {
+      console.log(_0x146095);
     }
   }
-  async card_618_login(_0x4b5e1f, _0x52f369 = {}) {
+  async ["bee_indexData"](_0x14f824 = {}) {
     try {
-      let _0x324c93 = _0x4c672b.time("yyyyMM") + "28ZFR";
-      _0x4b5e1f += "https://epay.10010.com/ci-mcss-party-web/rainbow/?templateName=" + _0x324c93 + "&bizFrom=225&bizChannelCode=225&channelType=WDQB";
-      const _0x4370f0 = {
-        fn: "card_618_login",
-        method: "get",
-        url: "https://epay.10010.com/woauth2/login",
-        searchParams: {}
+      let _0x3a17ea = _0x1366a8.randomList(_0x11aa2a.filter(_0x11bee1 => _0x11bee1 != this.userId));
+      const _0x10b692 = {
+        "inviteUserId": _0x3a17ea
       };
-      _0x4370f0.searchParams.response_type = "web_token";
-      _0x4370f0.searchParams.source = "app_sjyyt";
-      _0x4370f0.searchParams.union_session_id = "";
-      _0x4370f0.searchParams.device_digest_token_id = this.tokenId_cookie;
-      _0x4370f0.searchParams.target_client_id = _0x558192;
-      _0x4370f0.searchParams.position = null;
-      _0x4370f0.searchParams.redirect_url = "https://epay.10010.com/ci-mcss-party-web/cardSelection/?activityId=NZJK618CJHD";
-      _0x4370f0.searchParams.bizFrom = _0x3e622c;
-      _0x4370f0.searchParams.bizChannelCode = _0x46b3a9;
-      _0x4370f0.searchParams.channelType = "WDQB";
+      let _0x16c139 = {
+        "fn": "bee_indexData",
+        "method": "post",
+        "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~receiveExchangeIndexService~indexData",
+        "headers": {
+          ...this.getSign()
+        },
+        "json": _0x10b692
+      };
+      {
+        let {
+          result: _0x2b36f3
+        } = await this.request(_0x1366a8.copy(_0x16c139));
+        if (_0x2b36f3?.["success"]) {
+          let {
+            friendAwards = [],
+            gameNum = 0,
+            usableHoney: _0x183e5f,
+            capacity: _0x3ecd89
+          } = _0x2b36f3?.["obj"];
+          friendAwards?.["length"] && this.log("获得奖励: " + _0x2b36f3.obj.friendAwards.map(_0x18b7e8 => _0x18b7e8.name).join(","));
+          _0x183e5f >= _0x3ecd89;
+          this.log("可以采蜜冒险" + gameNum + "次");
+          while (gameNum-- > 0) {
+            await this.bee_gameReport();
+          }
+          await this.bee_taskDetail();
+        } else {
+          const _0x373b62 = {
+            "notify": true
+          };
+          this.log("进入采蜜游戏主页失败: " + (_0x2b36f3?.["errorMessage"] || (_0x2b36f3 ? JSON.stringify(_0x2b36f3) : "无返回")), _0x373b62);
+          return;
+        }
+      }
+      {
+        let {
+          result: _0x3e0581
+        } = await this.request(_0x1366a8.copy(_0x16c139));
+        if (_0x3e0581?.["success"]) {
+          for (let _0x3269d3 of _0x3e0581?.["obj"]?.["taskDetail"] || []) {
+            await this.bee_receiveHoney(_0x3269d3);
+          }
+        } else {
+          const _0x2190ea = {
+            "notify": true
+          };
+          this.log("进入采蜜游戏主页失败: " + (_0x3e0581?.["errorMessage"] || (_0x3e0581 ? JSON.stringify(_0x3e0581) : "无返回")), _0x2190ea);
+          return;
+        }
+      }
+      {
+        let {
+          result: _0x542a08
+        } = await this.request(_0x1366a8.copy(_0x16c139));
+        if (_0x542a08?.["success"]) {
+          const _0x591b3e = {
+            "notify": true
+          };
+          this.log("采蜜游戏丰蜜: " + (_0x542a08?.["obj"]?.["usableHoney"] || 0), _0x591b3e);
+        } else {
+          const _0x792c0c = {
+            "notify": true
+          };
+          this.log("进入采蜜游戏主页失败: " + (_0x542a08?.["errorMessage"] || (_0x542a08 ? JSON.stringify(_0x542a08) : "无返回")), _0x792c0c);
+          return;
+        }
+      }
+    } catch (_0x384ba9) {
+      console.log(_0x384ba9);
+    }
+  }
+  async ["bee_expand"](_0xa7c222 = {}) {
+    let _0x5eaedd = false;
+    try {
+      let _0x39ec13 = {
+          "fn": "bee_expand",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~receiveExchangeApiService~expand",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x23ba0a
+        } = await this.request(_0x39ec13);
+      console.log(JSON.stringify(_0x23ba0a));
+      _0x23ba0a?.["success"] ? (_0x5eaedd = true, this.log("采蜜游戏扩容成功")) : this.log("采蜜游戏扩容失败: " + (_0x23ba0a?.["errorMessage"] || (_0x23ba0a ? JSON.stringify(_0x23ba0a) : "无返回")));
+    } catch (_0x187889) {
+      console.log(_0x187889);
+    } finally {
+      return _0x5eaedd;
+    }
+  }
+  async ["bee_receiveHoney"](_0x4aa747, _0x276f47 = {}) {
+    try {
+      const _0x4e903b = {
+        "taskType": _0x4aa747.type
+      };
+      let _0x8df867 = {
+          "fn": "bee_receiveHoney",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~receiveExchangeIndexService~receiveHoney",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x4e903b
+        },
+        {
+          result: _0x1c4760
+        } = await this.request(_0x8df867);
+      _0x1c4760?.["success"] ? this.log("领取[" + _0x4aa747.type + "]奖励获得: " + _0x4aa747.value + "丰蜜") : this.log("领取[" + _0x4aa747.type + "]奖励失败: " + (_0x1c4760?.["errorMessage"] || (_0x1c4760 ? JSON.stringify(_0x1c4760) : "无返回")));
+    } catch (_0x22ba3a) {
+      console.log(_0x22ba3a);
+    }
+  }
+  async ["bee_gameReport"](_0x1c8416 = {}) {
+    try {
+      let _0x1d87fb = 20;
+      const _0x32c0bc = {
+        "gatherHoney": _0x1d87fb
+      };
+      let _0x3fb1a4 = {
+          "fn": "bee_gameReport",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~receiveExchangeGameService~gameReport",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x32c0bc
+        },
+        {
+          result: _0x11e8a4
+        } = await this.request(_0x3fb1a4);
+      if (_0x11e8a4?.["success"]) this.log("采蜜冒险获得" + _0x1d87fb + "丰蜜");else {
+        let _0x1a1e7a = _0x11e8a4?.["errorMessage"] || (_0x11e8a4 ? JSON.stringify(_0x11e8a4) : "无返回");
+        this.log("采蜜冒险失败: " + _0x1a1e7a);
+      }
+    } catch (_0x3e56d9) {
+      console.log(_0x3e56d9);
+    }
+  }
+  async ["bee_taskDetail"](_0x3b38d9 = {}) {
+    try {
+      let _0x52b972 = {
+          "fn": "bee_taskDetail",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~receiveExchangeIndexService~taskDetail",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x3bb307
+        } = await this.request(_0x52b972);
+      if (_0x3bb307?.["success"]) for (let _0x5878d7 of _0x3bb307.obj.list) {
+        if (!_0x5878d7.taskCode) continue;
+        switch (_0x5878d7.status) {
+          case 2:
+            if (_0x144bb1.includes(_0x5878d7.taskType)) break;
+            await this.bee_finishTask(_0x5878d7);
+          case 1:
+          case 3:
+            break;
+          default:
+            this.log("任务[" + _0x5878d7.title + "] -- 未知状态[" + _0x5878d7.status + "]");
+            break;
+        }
+      } else this.log("查询任务失败: " + (_0x3bb307?.["errorMessage"] || (_0x3bb307 ? JSON.stringify(_0x3bb307) : "无返回")));
+    } catch (_0x177172) {
+      console.log(_0x177172);
+    }
+  }
+  async ["bee_finishTask"](_0x565c0c, _0x2fbb49 = {}) {
+    try {
+      const _0xc89de2 = {
+        "taskCode": _0x565c0c.taskCode
+      };
+      let _0x12c541 = {
+          "fn": "bee_finishTask",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberEs~taskRecord~finishTask",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0xc89de2
+        },
+        {
+          result: _0x636430
+        } = await this.request(_0x12c541);
+      _0x636430?.["success"] ? this.log("完成采蜜任务[" + _0x565c0c.taskType + "]成功") : this.log("完成采蜜任务[" + _0x565c0c.taskType + "]失败: " + (_0x636430?.["errorMessage"] || (_0x636430 ? JSON.stringify(_0x636430) : "无返回")));
+    } catch (_0x420ba0) {
+      console.log(_0x420ba0);
+    }
+  }
+  async ["superWelfare_receiveRedPacket"](_0x1c555f = {}) {
+    try {
+      const _0x1876d8 = {
+        "channel": _0x1f992f
+      };
+      let _0x27b957 = {
+          "fn": "superWelfare_receiveRedPacket",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberActLengthy~redPacketActivityService~superWelfare~receiveRedPacket",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x1876d8
+        },
+        {
+          result: _0x5d32e9
+        } = await this.request(_0x27b957);
+      if (_0x5d32e9?.["success"]) {
+        let _0x43fdf1 = _0x5d32e9?.["obj"]?.["giftList"];
+        _0x5d32e9?.["obj"]?.["extraGiftList"]?.["length"] && (_0x43fdf1 = _0x43fdf1.concat(_0x5d32e9.obj.extraGiftList));
+        let _0x52b6e1 = _0x43fdf1?.["map"](_0x4b1e50 => _0x4b1e50.giftName)?.["join"](", ") || "",
+          _0x2b5bba = _0x5d32e9?.["obj"]?.["receiveStatus"] == 1 ? "领取成功" : "已领取过";
+        const _0x2cd0dc = {
+          "notify": true
+        };
+        this.log("超值福利签到[" + _0x2b5bba + "]: " + _0x52b6e1, _0x2cd0dc);
+      } else this.log("超值福利签到失败: " + (_0x5d32e9?.["errorMessage"] || (_0x5d32e9 ? JSON.stringify(_0x5d32e9) : "无返回")));
+    } catch (_0x368f04) {
+      console.log(_0x368f04);
+    }
+  }
+  async ["memberDay_invite"](_0x27c68f = {}) {
+    try {
+      let _0x3318cd = _0x1366a8.randomList(_0x11aa2a.filter(_0x278df0 => _0x278df0 != this.userId));
+      const _0x765e3 = {
+        "inviteUserId": _0x3318cd
+      };
+      let _0x27b580 = {
+        "fn": "memberDay_invite",
+        "method": "post",
+        "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayIndexService~index",
+        "headers": {
+          ...this.getSign()
+        },
+        "json": _0x765e3
+      };
+      await this.request(_0x27b580);
       let {
-        headers: _0x3466a2,
-        statusCode: _0xb0793d
-      } = await this.request(_0x4370f0);
-      if (_0x3466a2?.["location"]) {
-        let _0x13496c = new URL(_0x3466a2.location);
-        this.rptId = _0x13496c.searchParams.get("rptid");
-        this.rptId ? await this.card_618_authCheck() : this.log("618集卡获取rptid失败");
+        result: _0x29bfbe
+      } = await this.request(_0x27b580);
+      if (_0x29bfbe?.["success"]) {
+        let {
+          canReceiveInviteAward: _0xa63a32,
+          risk: _0x3da0f3
+        } = _0x29bfbe?.["obj"];
+        _0xa63a32 && (await this.memberDay_receiveInviteAward(_0x3318cd));
+        if (this.memberDay_black) return;
+        await this.memberDay_index();
       } else {
-        this.log("618集卡获取rptid失败[" + _0xb0793d + "]");
+        let _0x26a6ee = _0x29bfbe?.["errorMessage"] || (_0x29bfbe ? JSON.stringify(_0x29bfbe) : "无返回");
+        this.log("查询会员日失败: " + _0x26a6ee);
+        if (_0x26a6ee?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x23d775 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x23d775);
+        }
       }
-    } catch (_0x624f72) {
-      console.log(_0x624f72);
+    } catch (_0x2d526f) {
+      console.log(_0x2d526f);
     }
   }
-  async card_618_queryUserCardInfo(_0x518cd6 = {}) {
+  async ["memberDay_index"](_0x3fe6fe = {}) {
     try {
-      const _0x37da94 = {
-        activityId: "NZJK618CJHD"
-      };
-      let _0x3e2ef2 = {
-          fn: "card_618_queryUserCardInfo",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/mouldCard/queryUserCardInfo",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
+      let _0x2e0488 = {
+          "fn": "memberDay_index",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayIndexService~index",
+          "headers": {
+            ...this.getSign()
           },
-          form: _0x37da94
+          "json": {}
         },
         {
-          result: _0x358e5a
-        } = await this.request(_0x3e2ef2),
-        _0x4802a6 = _0x4c672b.get(_0x358e5a, "code", -1);
-      if (_0x4802a6 == "0000" && _0x358e5a?.["data"]?.["returnCode"] == 0) {
+          result: _0x5ecdba
+        } = await this.request(_0x2e0488);
+      if (_0x5ecdba?.["success"]) {
         let {
-          userRemain = 0,
-          isFirst = true
-        } = _0x358e5a?.["data"];
-        if (isFirst) {
-          await this.card_618_unifyDraw("首次进入");
+          lotteryNum: _0x32d8c0,
+          risk: _0x3550b6
+        } = _0x5ecdba?.["obj"];
+        await this.memberDay_redPacketReceivedStatus();
+        _0x32d8c0 = _0x32d8c0 || 0;
+        this.log("会员日可以抽奖" + _0x32d8c0 + "次");
+        while (_0x32d8c0-- > 0) {
+          await this.memberDay_lottery();
         }
-        this.log("618集卡可以抽奖" + userRemain + "次");
-        while (userRemain-- > 0) {
-          await this.card_618_unifyDraw("抽奖");
-        }
+        if (this.memberDay_black) return;
+        await this.memberDay_taskList();
+        if (this.memberDay_black) return;
+        await this.memberDay_redPacketStatus();
       } else {
-        let _0x4ff8ee = _0x358e5a?.["message"] || _0x358e5a?.["msg"] || "";
-        this.log("618集卡进入主页失败[" + _0x4802a6 + "]: " + _0x4ff8ee);
+        let _0x4a3244 = _0x5ecdba?.["errorMessage"] || (_0x5ecdba ? JSON.stringify(_0x5ecdba) : "无返回");
+        this.log("查询会员日失败: " + _0x4a3244);
+        if (_0x4a3244?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x2d4f50 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x2d4f50);
+        }
       }
-    } catch (_0x6371bb) {
-      console.log(_0x6371bb);
+    } catch (_0x9b1021) {
+      console.log(_0x9b1021);
     }
   }
-  async card_618_unifyDraw(_0x431f14, _0x15179c = {}) {
+  async ["memberDay_receiveInviteAward"](_0x2a9b28, _0x25c021 = {}) {
     try {
-      let _0x630a5d = {
-          fn: "card_618_unifyDraw",
-          method: "post",
-          url: "https://epay.10010.com/ci-mcss-party-front/v1/mouldCard/unifyDraw",
-          headers: {
-            bizchannelinfo: this.get_bizchannelinfo(),
-            authinfo: this.get_epay_authinfo()
+      const _0x2cb7bc = {
+        "inviteUserId": _0x2a9b28
+      };
+      let _0x4b5aa2 = {
+          "fn": "memberDay_receiveInviteAward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayIndexService~receiveInviteAward",
+          "headers": {
+            ...this.getSign()
           },
-          form: {
-            bigActivityId: _0x3484cf.card_618,
-            activityId: _0x3484cf.card_618 + _0x10ec87[_0x431f14],
-            bizFrom: _0x3e622c
+          "json": _0x2cb7bc
+        },
+        {
+          result: _0x289777
+        } = await this.request(_0x4b5aa2);
+      if (_0x289777?.["success"]) {
+        let {
+          productName = "空气"
+        } = _0x289777?.["obj"] || {};
+        const _0x582cd9 = {
+          "notify": true
+        };
+        this.log("会员日奖励: " + productName, _0x582cd9);
+      } else {
+        let _0x681720 = _0x289777?.["errorMessage"] || (_0x289777 ? JSON.stringify(_0x289777) : "无返回");
+        this.log("领取会员日奖励失败: " + _0x681720);
+        if (_0x681720?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x4f6fc = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x4f6fc);
+        }
+      }
+    } catch (_0x128443) {
+      console.log(_0x128443);
+    }
+  }
+  async ["memberDay_lottery"](_0x2045bb = {}) {
+    try {
+      let _0x2f51b3 = {
+          "fn": "memberDay_lottery",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayLotteryService~lottery",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x52e4f8
+        } = await this.request(_0x2f51b3);
+      if (_0x52e4f8?.["success"]) {
+        let {
+          productName = "空气"
+        } = _0x52e4f8?.["obj"] || {};
+        const _0x262a31 = {
+          "notify": true
+        };
+        this.log("会员日抽奖: " + productName, _0x262a31);
+      } else {
+        let _0x3e1a3e = _0x52e4f8?.["errorMessage"] || (_0x52e4f8 ? JSON.stringify(_0x52e4f8) : "无返回");
+        this.log("会员日抽奖失败: " + _0x3e1a3e);
+        if (_0x3e1a3e?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x2cbe6f = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x2cbe6f);
+        }
+      }
+    } catch (_0x941b7e) {
+      console.log(_0x941b7e);
+    }
+  }
+  async ["memberDay_taskList"](_0x563d05 = {}) {
+    try {
+      const _0xf1d92 = {
+        "activityCode": _0x1c616b,
+        "channelType": "MINI_PROGRAM"
+      };
+      let _0x50fa52 = {
+          "fn": "memberDay_taskList",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~activityTaskService~taskList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0xf1d92
+        },
+        {
+          result: _0x1f82ff
+        } = await this.request(_0x50fa52);
+      if (_0x1f82ff?.["success"]) {
+        let _0x2a456d = _0x1f82ff?.["obj"] || [];
+        for (let _0x40be7f of _0x2a456d.filter(_0xc7e72d => _0xc7e72d.status == 1)) {
+          if (this.memberDay_black) return;
+          await this.memberDay_fetchMixTaskReward(_0x40be7f);
+        }
+        for (let _0x382186 of _0x2a456d.filter(_0x187b4b => _0x187b4b.status == 2)) {
+          if (this.memberDay_black) return;
+          switch (_0x382186.taskType) {
+            case "SEND_SUCCESS":
+            case "INVITEFRIENDS_PARTAKE_ACTIVITY":
+            case "OPEN_SVIP":
+            case "OPEN_NEW_EXPRESS_CARD":
+            case "OPEN_FAMILY_CARD":
+            case "CHARGE_NEW_EXPRESS_CARD":
+            case "INTEGRAL_EXCHANGE":
+              {
+                break;
+              }
+            default:
+              {
+                for (let _0x431802 = 0; _0x431802 < _0x382186.restFinishTime && !this.memberDay_black; _0x431802++) {
+                  await this.memberDay_finishTask(_0x382186);
+                }
+                break;
+              }
+          }
+        }
+      } else {
+        let _0x3fe7e7 = _0x1f82ff?.["errorMessage"] || (_0x1f82ff ? JSON.stringify(_0x1f82ff) : "无返回");
+        this.log("查询会员日任务失败: " + _0x3fe7e7);
+        if (_0x3fe7e7?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0xa82fb6 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0xa82fb6);
+        }
+      }
+    } catch (_0x3bf073) {
+      console.log(_0x3bf073);
+    }
+  }
+  async ["memberDay_finishTask"](_0x459fd7, _0x30a481 = {}) {
+    try {
+      const _0x1b0276 = {
+        "taskCode": _0x459fd7.taskCode
+      };
+      let _0xde15bb = {
+          "fn": "memberDay_finishTask",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberEs~taskRecord~finishTask",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x1b0276
+        },
+        {
+          result: _0x1e1e2b
+        } = await this.request(_0xde15bb);
+      if (_0x1e1e2b?.["success"]) this.log("完成会员日任务[" + _0x459fd7.taskName + "]成功"), await this.memberDay_fetchMixTaskReward(_0x459fd7);else {
+        let _0x416b95 = _0x1e1e2b?.["errorMessage"] || (_0x1e1e2b ? JSON.stringify(_0x1e1e2b) : "无返回");
+        this.log("完成会员日任务[" + _0x459fd7.taskName + "]失败: " + _0x416b95);
+        if (_0x416b95?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0xe08964 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0xe08964);
+        }
+      }
+    } catch (_0x2b9856) {
+      console.log(_0x2b9856);
+    }
+  }
+  async ["memberDay_fetchMixTaskReward"](_0x579b54, _0x346137 = {}) {
+    try {
+      const _0x181b41 = {
+        "taskType": _0x579b54.taskType,
+        "activityCode": _0x1c616b,
+        "channelType": "MINI_PROGRAM"
+      };
+      let _0x3d1069 = {
+          "fn": "memberDay_fetchMixTaskReward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~activityTaskService~fetchMixTaskReward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x181b41
+        },
+        {
+          result: _0xf0ebfe
+        } = await this.request(_0x3d1069);
+      if (_0xf0ebfe?.["success"]) this.log("领取会员日任务[" + _0x579b54.taskName + "]奖励成功");else {
+        let _0x4be737 = _0xf0ebfe?.["errorMessage"] || (_0xf0ebfe ? JSON.stringify(_0xf0ebfe) : "无返回");
+        this.log("领取会员日任务[" + _0x579b54.taskName + "]奖励失败: " + _0x4be737);
+        if (_0x4be737?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x153561 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x153561);
+        }
+      }
+    } catch (_0x590743) {
+      console.log(_0x590743);
+    }
+  }
+  async ["memberDay_redPacketReceivedStatus"](_0x498495 = {}) {
+    try {
+      let _0x142cec = {
+          "fn": "memberDay_redPacketReceivedStatus",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayTaskService~redPacketReceivedStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x2ceacf
+        } = await this.request(_0x142cec);
+      if (_0x2ceacf?.["success"]) for (let _0x405325 of _0x2ceacf?.["obj"] || []) {
+        if (_0x405325.received) continue;
+        let _0x2f39bb = new Date().getHours();
+        _0x405325.receiveHour == _0x2f39bb && (await this.memberDay_receiveRedPacket(_0x405325.receiveHour));
+      } else {
+        let _0x3fad84 = _0x2ceacf?.["errorMessage"] || (_0x2ceacf ? JSON.stringify(_0x2ceacf) : "无返回");
+        this.log("会员日查询整点领红包失败: " + _0x3fad84);
+        if (_0x3fad84?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x387769 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x387769);
+        }
+      }
+    } catch (_0x3cef6a) {
+      console.log(_0x3cef6a);
+    }
+  }
+  async ["memberDay_receiveRedPacket"](_0x220f9b, _0x235616 = {}) {
+    try {
+      const _0x1b1670 = {
+        "receiveHour": _0x220f9b
+      };
+      let _0x46e6c3 = {
+          "fn": "memberDay_receiveRedPacket",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayTaskService~receiveRedPacket",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x1b1670
+        },
+        {
+          result: _0x444bcb
+        } = await this.request(_0x46e6c3);
+      if (_0x444bcb?.["success"]) this.log("会员日领取" + _0x220f9b + "点红包成功");else {
+        let _0x280fc3 = _0x444bcb?.["errorMessage"] || (_0x444bcb ? JSON.stringify(_0x444bcb) : "无返回");
+        this.log("会员日领取" + _0x220f9b + "点红包失败: " + _0x280fc3);
+        if (_0x280fc3?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x1e753a = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x1e753a);
+        }
+      }
+    } catch (_0x1636d6) {
+      console.log(_0x1636d6);
+    }
+  }
+  async ["memberDay_redPacketStatus"](_0x4a3e29 = {}) {
+    try {
+      let _0x2b1c88 = {
+          "fn": "memberDay_redPacketStatus",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayPacketService~redPacketStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x12dc11
+        } = await this.request(_0x2b1c88);
+      if (_0x12dc11?.["success"]) {
+        let {
+          drewToday: _0x5d8541,
+          packetList: _0x417ecb
+        } = _0x12dc11?.["obj"];
+        this.memberDay_redPacket_drewToday = _0x5d8541;
+        for (let _0x2a57a6 of _0x417ecb) {
+          this.memberDay_redPacket_map[_0x2a57a6.level] = _0x2a57a6.count;
+        }
+        let _0x38f04d = _0x48074c;
+        for (let _0x8118a8 = 1; _0x8118a8 < _0x38f04d; _0x8118a8++) {
+          let _0xcf9536 = this.memberDay_redPacket_map[_0x8118a8];
+          while (_0xcf9536 >= 2) {
+            await this.memberDay_redPacketMerge(_0x8118a8);
+            _0xcf9536 -= 2;
+          }
+        }
+        let _0x6be5a3 = [],
+          _0x23a64e = 0;
+        for (let _0x3ec1fd in this.memberDay_redPacket_map) {
+          if (!this.memberDay_redPacket_map[_0x3ec1fd]) {
+            continue;
+          }
+          _0x6be5a3.push("[" + _0x3ec1fd + "级]X" + this.memberDay_redPacket_map[_0x3ec1fd]);
+          let _0x3f6335 = parseInt(_0x3ec1fd);
+          _0x3f6335 < _0x38f04d && (_0x23a64e += 1 << _0x3f6335 - 1);
+        }
+        const _0x2d5953 = {
+          "notify": true
+        };
+        this.log("会员日合成列表: " + _0x6be5a3.join(", "), _0x2d5953);
+        if (this.memberDay_redPacket_map[_0x38f04d]) {
+          const _0x8c70ab = {
+            "notify": true
+          };
+          this.log("会员日已拥有[" + _0x38f04d + "级]红包X" + this.memberDay_redPacket_map[_0x38f04d], _0x8c70ab);
+          await this.memberDay_redPacketDraw(_0x38f04d);
+        } else {
+          let _0x176d64 = _0x596697 - _0x23a64e;
+          const _0x20ccf1 = {
+            "notify": true
+          };
+          this.log("会员日距离[" + _0x38f04d + "级]红包还差: [1级]红包X" + _0x176d64, _0x20ccf1);
+        }
+      } else {
+        let _0x275d72 = _0x12dc11?.["errorMessage"] || (_0x12dc11 ? JSON.stringify(_0x12dc11) : "无返回");
+        this.log("查询会员日合成失败: " + _0x275d72);
+        if (_0x275d72?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x5a3de3 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x5a3de3);
+        }
+      }
+    } catch (_0x585f14) {
+      console.log(_0x585f14);
+    }
+  }
+  async ["memberDay_redPacketMerge"](_0x1c96ed, _0x231785 = {}) {
+    try {
+      const _0x13031b = {
+        "level": _0x1c96ed,
+        "num": 2
+      };
+      let _0x203c30 = {
+          "fn": "memberDay_redPacketMerge",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayPacketService~redPacketMerge",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x13031b
+        },
+        {
+          result: _0x3b498e
+        } = await this.request(_0x203c30);
+      if (_0x3b498e?.["success"]) this.log("会员日合成: [" + _0x1c96ed + "级]红包X2 -> [" + (_0x1c96ed + 1) + "级]红包"), this.memberDay_redPacket_map[_0x1c96ed] -= 2, !this.memberDay_redPacket_map[_0x1c96ed + 1] && (this.memberDay_redPacket_map[_0x1c96ed + 1] = 0), this.memberDay_redPacket_map[_0x1c96ed + 1]++;else {
+        let _0x187793 = _0x3b498e?.["errorMessage"] || (_0x3b498e ? JSON.stringify(_0x3b498e) : "无返回");
+        this.log("会员日合成两个[" + _0x1c96ed + "级]红包失败: " + _0x187793);
+        if (_0x187793?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x31d737 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x31d737);
+        }
+      }
+    } catch (_0x2697ee) {
+      console.log(_0x2697ee);
+    }
+  }
+  async ["memberDay_redPacketDraw"](_0x2c3459, _0x11874d = {}) {
+    try {
+      let _0x54181c = {
+          "fn": "memberDay_redPacketDraw",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~memberDayPacketService~redPacketDraw",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "level": _0x2c3459.toString()
           }
         },
         {
-          result: _0xbbc5a6
-        } = await this.request(_0x630a5d),
-        _0x2f8420 = _0x4c672b.get(_0xbbc5a6, "code", -1);
-      if (_0x2f8420 == "0000" && _0xbbc5a6?.["data"]?.["returnCode"] == 0) {
-        let _0x46e05e = _0xbbc5a6?.["data"]?.["prizeId"] || "空气",
-          _0x583237 = _0x1c214d[_0x46e05e] || _0x46e05e;
-        const _0x22f8e4 = {
-          notify: true
+          result: _0x574d2f
+        } = await this.request(_0x54181c);
+      if (_0x574d2f?.["success"]) {
+        let _0x5b2a59 = _0x574d2f?.["obj"]?.["map"](_0x48ee02 => _0x48ee02.couponName) || [];
+        const _0x3a2b48 = {
+          "notify": true
         };
-        this.log("618集卡[" + _0x431f14 + "]: " + _0x583237, _0x22f8e4);
+        this.log("会员日提取[" + _0x2c3459 + "级]红包: " + (_0x5b2a59.join(", ") || "空气"), _0x3a2b48);
       } else {
-        let _0xda184 = _0xbbc5a6?.["data"]?.["returnMsg"] || _0xbbc5a6?.["msg"] || "";
-        this.log("618集卡[" + _0x431f14 + "]失败[" + (_0xbbc5a6?.["data"]?.["returnCode"] || _0x2f8420) + "]: " + _0xda184);
+        let _0x5ce833 = _0x574d2f?.["errorMessage"] || (_0x574d2f ? JSON.stringify(_0x574d2f) : "无返回");
+        this.log("会员日提取[" + _0x2c3459 + "级]红包失败: " + _0x5ce833);
+        if (_0x5ce833?.["includes"]("没有资格参与活动")) {
+          this.memberDay_black = true;
+          const _0x49f060 = {
+            "notify": true
+          };
+          this.log("会员日任务风控", _0x49f060);
+        }
       }
-    } catch (_0x59f330) {
-      console.log(_0x59f330);
+    } catch (_0x1547b9) {
+      console.log(_0x1547b9);
     }
   }
-  async sign_task() {
-    await this.sign_getContinuous();
-  }
-  async ltcy_task() {
-    let _0xe84731 = "https://web.wostore.cn/web/flowGame/index.html?channelId=GAMELTAPP_90006&pushid=99",
-      {
-        ticket: _0x73ef67
-      } = await this.openPlatLineNew(_0xe84731);
-    if (!_0x73ef67) {
-      return;
-    }
-    await this.game_login(_0x73ef67);
-  }
-  async ttlxj_task() {
-    this.rptId = "";
-    let _0x4b2989 = "https://epay.10010.com/ci-mps-st-web/?webViewNavIsHidden=webViewNavIsHidden",
-      {
-        ticket: _0xfccd3c,
-        type: _0x5be8ca,
-        loc: _0x33b6a9
-      } = await this.openPlatLineNew(_0x4b2989);
-    if (!_0xfccd3c) {
-      return;
-    }
-    await this.ttlxj_authorize(_0xfccd3c, _0x5be8ca, _0x33b6a9);
-  }
-  async epay_28_task() {
-    this.rptId = "";
-    let _0x3904ee = new Date().getDate();
-    if (_0x3904ee >= 26 && _0x3904ee <= 28) {
-      await this.epay_28_authCheck();
-      if (_0x1051da.length) {
-        let _0x3c73d8 = _0x4c672b.randomList(_0x1051da);
-        await this.appMonth_28_bind(_0x3c73d8);
+  async ["jika2024_taskList"](_0x37c753 = {}) {
+    try {
+      let _0x2f7b78 = {
+          "fn": "jika2024_taskList",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~activityTaskService~taskList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "activityCode": _0xb8d615,
+            "channelType": "MINI_PROGRAM"
+          }
+        },
+        {
+          result: _0x5a6992
+        } = await this.request(_0x2f7b78);
+      if (_0x5a6992?.["success"]) {
+        let _0x184bf5 = _0x5a6992?.["obj"] || [];
+        for (let _0x40826f of _0x184bf5.filter(_0x3b8515 => _0x3b8515.status == 1)) {
+          if (this.jika_black) {
+            return;
+          }
+          for (let _0x4c5b70 = 0; _0x4c5b70 < _0x40826f.canReceiveTokenNum; _0x4c5b70++) {
+            await this.jika2024_fetchMixTaskReward(_0x40826f);
+          }
+        }
+        for (let _0x5d3f15 of _0x184bf5.filter(_0x467a1a => _0x467a1a.status == 2)) {
+          if (this.jika_black) return;
+          switch (_0x5d3f15.taskType) {
+            case "PLAY_ACTIVITY_GAME":
+              {
+                this.log("开始玩新年集卡猜成语");
+                for (let _0x36a2f2 = 1; _0x36a2f2 <= 10; _0x36a2f2++) {
+                  let _0x184daf = Math.floor(Math.random() * 3000) + 1000;
+                  await _0x1366a8.wait(_0x184daf);
+                  await this.jika2024_chengyu_win(_0x36a2f2);
+                }
+                break;
+              }
+            case "FOLLOW_SFZHUNONG_VEDIO_ID":
+              {
+                break;
+              }
+            case "CLICK_MY_SETTING":
+            case "CLICK_TEMPLATE":
+            case "REAL_NAME":
+            case "SEND_SUCCESS_RECALL":
+            case "OPEN_SVIP":
+            case "OPEN_FAST_CARD":
+            case "FIRST_CHARGE_NEW_EXPRESS_CARD":
+            case "CHARGE_NEW_EXPRESS_CARD":
+            case "INTEGRAL_EXCHANGE":
+              {
+                break;
+              }
+            default:
+              {
+                for (let _0x3c1496 = 0; _0x3c1496 < _0x5d3f15.restFinishTime && !this.jika_black; _0x3c1496++) {
+                  await this.jika2024_finishTask(_0x5d3f15);
+                }
+                break;
+              }
+          }
+        }
+      } else {
+        this.log("查询新年集卡任务失败: " + (_0x5a6992?.["errorMessage"] || (_0x5a6992 ? JSON.stringify(_0x5a6992) : "无返回")));
       }
-      await this.appMonth_28_queryChance();
+    } catch (_0x1cb427) {
+      console.log(_0x1cb427);
     }
   }
-  async draw_28_task() {
-    let _0x3fc66f = new Date().getDate();
-    _0x3fc66f == 28 && (await this.draw_28_queryChance());
-  }
-  async act_517_task() {
-    let _0x19e840 = new Date("2024-05-10 00:00:00"),
-      _0x41d2ad = new Date("2024-06-09 00:00:00"),
-      _0x2f7f5c = Date.now();
-    if (_0x2f7f5c > _0x19e840.getTime() && _0x2f7f5c < _0x41d2ad.getTime()) {
-      if (_0x188394.length) {
-        let _0x53384d = _0x4c672b.randomList(_0x188394);
-        await this.act_517_bind(_0x53384d);
-      }
-      await this.act_517_userAccount();
-    }
-  }
-  async card_618_task() {
-    let _0x2ad5cb = new Date("2024-05-31 00:00:00"),
-      _0x4ce692 = new Date("2024-06-21 00:00:00"),
-      _0x1a0657 = Date.now();
-    _0x1a0657 > _0x2ad5cb.getTime() && _0x1a0657 < _0x4ce692.getTime() && (this.rptId = "", await this.card_618_authCheck());
-  }
-  async flmf_task() {
-    if (this.city.filter(_0x5d152b => _0x5d152b.proCode == "091").length == 0) {
-      return;
-    }
-    let _0x552e7c = "https://weixin.linktech.hk/lv-web/handHall/autoLogin?actcode=welfareCenter",
-      {
-        loc: _0x55dcf1
-      } = await this.openPlatLineNew(_0x552e7c);
-    if (!_0x55dcf1) {
-      return;
-    }
-    await this.flmf_login(_0x55dcf1);
-  }
-  async ltyp_task() {
-    let _0x1cee90 = "https://panservice.mail.wo.cn/h5/activitymobile/lottery?activityId=WzaR7KkUJSpR+gDh7Fy6mA==&clientid=1001000003&appName=shouting",
-      {
-        ticket: _0x318b1b
-      } = await this.openPlatLineNew(_0x1cee90);
-    if (!_0x318b1b) {
-      return;
-    }
-    await this.ltyp_login(_0x318b1b);
-  }
-  async ltzf_task() {
-    let _0x2db4d6 = new URL("https://wocare.unisk.cn/mbh/getToken");
-    _0x2db4d6.searchParams.append("channelType", _0x2f3d25);
-    _0x2db4d6.searchParams.append("homePage", "home");
-    _0x2db4d6.searchParams.append("duanlianjieabc", "qAz2m");
-    let _0x4acf51 = _0x2db4d6.toString(),
-      {
-        ticket: _0x588ef9
-      } = await this.openPlatLineNew(_0x4acf51);
-    if (!_0x588ef9) {
-      return;
-    }
-    if (!(await this.wocare_getToken(_0x588ef9))) {
-      return;
-    }
-    for (let _0x305ba1 of _0x4376d8) {
-      await this.wocare_getDrawTask(_0x305ba1);
-      await this.wocare_loadInit(_0x305ba1);
-    }
-  }
-  async woread_draw_task(_0x10af6a) {
-    await this.woread_getSeeVideoAddNumber(_0x10af6a);
-    await this.woread_addDrawTimes(_0x10af6a);
-    await this.woread_getActivityNumber(_0x10af6a);
-  }
-  async woread_task() {
-    for (let _0x524680 of _0x5724ea) {
-      await this.woread_draw_task(_0x524680);
-    }
-    await this.moonbox_queryReadStatus();
-    await this.woread_queryTicketAccount();
-  }
-  async woread_reading_task() {
-    this.switch_woread_token(this.woread_m_accesstoken);
-    let _0x32573f = Object.values(this.moonbox_task_record).filter(_0x1667b7 => _0x1667b7 === true).length;
-    while (this.need_read_rabbit || _0x32573f) {
-      let _0x7e565 = 2;
-      const _0x5ac339 = {
-        readTime: _0x7e565
+  async ["jika2024_finishTask"](_0x1a6723, _0x5031c7 = {}) {
+    try {
+      const _0x5a3dc1 = {
+        "taskCode": _0x1a6723.taskCode
       };
-      await this.woread_m_addReadTime(_0x5ac339);
-      let _0x4cf515 = Date.now();
-      if (_0x32573f) {
-        await this.moonbox_m_queryCurTaskStatus();
+      let _0x15f698 = {
+          "fn": "jika2024_finishTask",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonRoutePost/memberEs/taskRecord/finishTask",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x5a3dc1
+        },
+        {
+          result: _0x4de98b
+        } = await this.request(_0x15f698);
+      _0x4de98b?.["success"] ? (this.log("完成新年集卡任务[" + _0x1a6723.taskName + "]成功"), await this.jika2024_fetchMixTaskReward(_0x1a6723)) : this.log("完成新年集卡任务[" + _0x1a6723.taskName + "]失败: " + (_0x4de98b?.["errorMessage"] || (_0x4de98b ? JSON.stringify(_0x4de98b) : "无返回")));
+    } catch (_0x2e69d5) {
+      console.log(_0x2e69d5);
+    }
+  }
+  async ["jika2024_fetchMixTaskReward"](_0x4e8c49, _0x23fe2e = {}) {
+    try {
+      const _0x3a43a1 = {
+        "taskType": _0x4e8c49.taskType,
+        "activityCode": _0xb8d615,
+        "channelType": "MINI_PROGRAM"
+      };
+      let _0x5d3711 = {
+          "fn": "jika2024_fetchMixTaskReward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonNoLoginPost/~memberNonactivity~yearEnd2023TaskService~fetchMixTaskReward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x3a43a1
+        },
+        {
+          result: _0x24be9e
+        } = await this.request(_0x5d3711);
+      if (_0x24be9e?.["success"]) {
+        let _0x4d4d4b = [],
+          {
+            receivedAccountList = [],
+            turnedAward = {}
+          } = _0x24be9e.obj;
+        for (let _0x286d2a of receivedAccountList) {
+          _0x4d4d4b.push("" + (_0xd3a68c[_0x286d2a.currency] || "[" + _0x286d2a.currency + "]"));
+        }
+        turnedAward?.["couponName"] && _0x4d4d4b.push("[优惠券]" + turnedAward?.["couponName"]);
+        this.log("领取任务[" + _0x4e8c49.taskName + "]奖励: " + _0x4d4d4b.join(", "));
+      } else {
+        let _0x206cb6 = _0x24be9e?.["errorMessage"] || (_0x24be9e ? JSON.stringify(_0x24be9e) : "无返回");
+        this.log("领取任务[" + _0x4e8c49.taskName + "]奖励失败: " + _0x206cb6);
+        _0x206cb6?.["includes"]("用户手机号校验未通过") && (this.jika_black = true);
       }
-      _0x32573f = Object.values(this.moonbox_task_record).filter(_0x195813 => _0x195813 === true).length;
-      if (this.need_read_rabbit) {
-        await this.rabblit_queryActivityData();
+    } catch (_0x42a619) {
+      console.log(_0x42a619);
+    }
+  }
+  async ["jika2024_getAward"](_0x282981, _0x4f76e4 = {}) {
+    try {
+      const _0x3f81a2 = {
+        "cardType": _0x282981
+      };
+      let _0x2bce1 = {
+          "fn": "jika2024_getAward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~yearEnd2023GardenPartyService~getAward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x3f81a2
+        },
+        {
+          result: _0x3218fc
+        } = await this.request(_0x2bce1);
+      if (_0x3218fc?.["success"]) {
+        let _0x249fbf = [],
+          {
+            receivedAccountList = [],
+            turnedAward = {}
+          } = _0x3218fc.obj;
+        for (let _0x5d911f of receivedAccountList) {
+          _0x249fbf.push("" + (_0xd3a68c[_0x5d911f.currency] || "[" + _0x5d911f.currency + "]"));
+        }
+        turnedAward?.["couponName"] && _0x249fbf.push("[优惠券]" + turnedAward?.["couponName"]);
+        this.log("逛集市领卡奖励: " + _0x249fbf.join(", "));
+      } else {
+        let _0x3e7a21 = _0x3218fc?.["errorMessage"] || (_0x3218fc ? JSON.stringify(_0x3218fc) : "无返回");
+        this.log("逛集市领卡失败: " + _0x3e7a21);
+        _0x3e7a21?.["includes"]("用户手机号校验未通过") && (this.jika_black = true);
       }
-      let _0x24da6c = Date.now(),
-        _0x5d5d61 = 125000 + _0x4cf515 - _0x24da6c;
-      (this.need_read_rabbit || _0x32573f) && _0x5d5d61 > 0 && (this.log("等待2分钟..."), await _0x4c672b.wait(_0x5d5d61));
+    } catch (_0x4ab255) {
+      console.log(_0x4ab255);
     }
-    this.switch_woread_token(this.woread_accesstoken);
   }
-  async userLoginTask() {
-    if (!(await this.onLine())) {
-      return;
+  async ["jika2024_chengyu_index"](_0x5a50ac = {}) {
+    try {
+      let _0x3f1482 = {
+          "fn": "jika2024_chengyu_index",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~yearEnd2023GuessIdiomService~index",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x24c0ae
+        } = await this.request(_0x3f1482);
+      if (_0x24c0ae?.["success"]) {
+        if (_0x24c0ae?.["obj"]?.["bigCardFlag"]) this.log("今天已完成新年集卡猜成语");else {
+          this.log("开始玩新年集卡猜成语");
+          for (let _0x52bd90 = 1; _0x52bd90 <= 10; _0x52bd90++) {
+            let _0x253b0e = Math.floor(Math.random() * 3000) + 1000;
+            await _0x1366a8.wait(_0x253b0e);
+            await this.jika2024_chengyu_win(_0x52bd90);
+          }
+        }
+      } else this.log("查询新年集卡猜成语任务失败: " + (_0x24c0ae?.["errorMessage"] || (_0x24c0ae ? JSON.stringify(_0x24c0ae) : "无返回")));
+    } catch (_0x3ebbcb) {
+      console.log(_0x3ebbcb);
     }
-    if (!(await this.woread_auth())) {
-      return;
-    }
-    if (!(await this.woread_login())) {
-      return;
-    }
-    if (!(await this.woread_m_auth())) {
-      return;
-    }
-    if (!(await this.woread_m_login())) {
-      return;
-    }
-    this.switch_woread_token(this.woread_accesstoken);
-    if (!_0x55391c) {
-      await this.moonbox_queryActiveInfo();
-    }
-    await this.moonbox_queryCurTaskStatus();
   }
-  async userTask() {
-    _0x4c672b.log("\n------------------ 账号[" + this.index + "] ------------------");
-    if (!_0x159493) {
-      await this.sign_task();
+  async ["jika2024_chengyu_win"](_0x5eeb59, _0x5e8159 = {}) {
+    try {
+      const _0x10d57b = {
+        "index": _0x5eeb59
+      };
+      let _0x39de4e = {
+          "fn": "jika2024_chengyu_win",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~yearEnd2023GuessIdiomService~win",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x10d57b
+        },
+        {
+          result: _0xcd21e7
+        } = await this.request(_0x39de4e);
+      if (_0xcd21e7?.["success"]) {
+        let {
+          isAward: _0x20da4f,
+          currencyDTOList: _0x33f5c7
+        } = _0xcd21e7?.["obj"];
+        if (_0x20da4f) {
+          let _0x4b3865 = [];
+          for (let _0x2e8719 of _0x33f5c7) {
+            _0x4b3865.push("" + (_0xd3a68c[_0x2e8719.currency] || "[" + _0x2e8719.currency + "]"));
+          }
+          this.log("猜成语第" + _0x5eeb59 + "关通关成功: " + _0x4b3865.join(", "));
+        } else this.log("猜成语第" + _0x5eeb59 + "关通关成功");
+      } else {
+        let _0x1af3bc = _0xcd21e7?.["errorMessage"] || (_0xcd21e7 ? JSON.stringify(_0xcd21e7) : "无返回");
+        this.log("猜成语第" + _0x5eeb59 + "关失败: " + _0x1af3bc);
+        _0x1af3bc?.["includes"]("系统繁忙") && (this.jika_black = true);
+      }
+    } catch (_0x1d3839) {
+      console.log(_0x1d3839);
     }
-    await this.ttlxj_task();
-    await this.ltyp_task();
-    await this.epay_28_task();
-    await this.draw_28_task();
-    await this.card_618_task();
-    if (!_0xedc529) {
-      await this.ltzf_task();
-    }
-    await this.flmf_task();
-    await this.woread_task();
   }
-  async userTestTask() {
-    _0x4c672b.log("\n------------------ 账号[" + this.index + "] ------------------");
-    await this.ltyp_task();
+  async ["jika2024_cardStatus"](_0x5cb14b = {}) {
+    try {
+      let _0x1add44 = {
+          "fn": "jika2024_cardStatus",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~yearEnd2023CardService~cardStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x588754
+        } = await this.request(_0x1add44);
+      if (_0x588754?.["success"]) {
+        let _0x2cddb0 = _0x588754?.["obj"]?.["accountList"] || [];
+        if (_0x2cddb0?.["length"]) {
+          this.cards = _0x2cddb0.filter(_0x5cb0f4 => _0x5cb0f4.balance > 0);
+          this.cards.sort((_0x2c0831, _0x3fe42a) => {
+            return _0x3fe42a.balance - _0x2c0831.balance;
+          });
+          let _0x4ad6bb = [];
+          for (let _0x552ad3 of this.cards) {
+            let _0x5c205b = _0xd3a68c[_0x552ad3.currency] || "[" + _0x552ad3.currency + "]";
+            _0x4ad6bb.push(_0x5c205b + "X" + _0x552ad3.balance);
+          }
+          const _0x10725f = {
+            "notify": true
+          };
+          this.log("年卡: " + _0x4ad6bb.join(", "), _0x10725f);
+          if (this.cards.filter(_0x3bb697 => _0x3bb697.balance > 0).filter(_0x51d85d => _0x51d85d.currency == "COMMON_CARD").length > 0) {
+            const _0x25cf71 = {
+              "notify": true
+            };
+            this.log("拥有万能卡, 请自行合成, 不自动抽奖", _0x25cf71);
+            return;
+          }
+          while (this.cards.filter(_0x2e2ee6 => _0x2e2ee6.balance > 0).length >= 3 && !this.jika_black) {
+            await this.jika2024_collectDrawAward();
+          }
+        } else {
+          const _0x5e7e6c = {
+            "notify": true
+          };
+          this.log("还没有收集到年卡", _0x5e7e6c);
+        }
+      } else this.log("查询已收集年卡失败: " + (_0x588754?.["errorMessage"] || (_0x588754 ? JSON.stringify(_0x588754) : "无返回")));
+    } catch (_0x13eee0) {
+      console.log(_0x13eee0);
+    }
+  }
+  async ["jika2024_collectDrawAward"](_0x2ee726 = {}) {
+    try {
+      let _0x45a1cd = this.cards.filter(_0x447c97 => _0x447c97.balance > 0).map(_0x5dcc12 => _0x5dcc12.currency);
+      _0x45a1cd.length > 6 && (_0x45a1cd = _0x45a1cd.slice(0, 6));
+      const _0x2121c5 = {
+        "accountList": _0x45a1cd
+      };
+      let _0xb46133 = {
+          "fn": "jika2024_collectDrawAward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~yearEnd2023CardService~collectDrawAward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x2121c5
+        },
+        {
+          result: _0x4f8ea7
+        } = await this.request(_0xb46133);
+      if (_0x4f8ea7?.["success"]) {
+        let {
+          productName: _0x4bc439
+        } = _0x4f8ea7?.["obj"];
+        const _0x382363 = {
+          "notify": true
+        };
+        this.log("使用" + _0x45a1cd.length + "种年卡合成: " + _0x4bc439, _0x382363);
+        for (let _0x483a10 of this.cards) {
+          _0x45a1cd.includes(_0x483a10.currency) && (_0x483a10.balance -= 1);
+        }
+      } else {
+        let _0x4c81d3 = _0x4f8ea7?.["errorMessage"] || (_0x4f8ea7 ? JSON.stringify(_0x4f8ea7) : "无返回");
+        this.log("使用" + _0x45a1cd.length + "种年卡合成失败: " + _0x4c81d3);
+        _0x4c81d3?.["includes"]("系统繁忙") && (this.jika_black = true);
+      }
+    } catch (_0x331a01) {
+      console.log(_0x331a01);
+    }
+  }
+  async ["jika2024_task"](_0x738d3 = {}) {
+    await this.jika2024_cardStatus();
+  }
+  async ["anniversary2024_weeklyGiftStatus"](_0x84946f = {}) {
+    try {
+      let _0x11d233 = {
+          "fn": "anniversary2024_weeklyGiftStatus",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024IndexService~weeklyGiftStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x587d9e
+        } = await this.request(_0x11d233);
+      if (_0x587d9e?.["success"]) {
+        let _0xd863aa = _0x587d9e?.["obj"]?.["weeklyGiftList"] || [];
+        for (let _0x54de06 of _0xd863aa) {
+          if (!_0x54de06.received) {
+            let _0x53e74a = new Date(_0x54de06.receiveStartTime),
+              _0x15d7a3 = new Date(_0x54de06.receiveEndTime),
+              _0x1ae71d = Date.now();
+            _0x1ae71d >= _0x53e74a.getTime() && _0x1ae71d <= _0x15d7a3.getTime() && (await this.anniversary2024_receiveWeeklyGift());
+          }
+        }
+      } else {
+        let _0x1190b5 = _0x587d9e?.["errorMessage"] || (_0x587d9e ? JSON.stringify(_0x587d9e) : "无返回");
+        this.log("查询周年庆每周领券失败: " + _0x1190b5);
+        (_0x1190b5?.["includes"]("系统繁忙") || _0x1190b5?.["includes"]("用户手机号校验未通过")) && (this.anniversary_black = true);
+      }
+    } catch (_0x3b53a2) {
+      console.log(_0x3b53a2);
+    }
+  }
+  async ["anniversary2024_receiveWeeklyGift"](_0x2edf08 = {}) {
+    try {
+      let _0x14c4d1 = {
+          "fn": "anniversary2024_receiveWeeklyGift",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024IndexService~receiveWeeklyGift",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0xdc3220
+        } = await this.request(_0x14c4d1);
+      if (_0xdc3220?.["success"]) {
+        let _0x2cbae5 = _0xdc3220?.["obj"]?.["map"](_0x1874a4 => _0x1874a4.productName);
+        this.log("周年庆每周领券: " + _0x2cbae5.join(", "));
+      } else {
+        let _0x525fab = _0xdc3220?.["errorMessage"] || (_0xdc3220 ? JSON.stringify(_0xdc3220) : "无返回");
+        this.log("周年庆每周领券失败: " + _0x525fab);
+        (_0x525fab?.["includes"]("系统繁忙") || _0x525fab?.["includes"]("用户手机号校验未通过")) && (this.anniversary_black = true);
+      }
+    } catch (_0x11e95e) {
+      console.log(_0x11e95e);
+    }
+  }
+  async ["anniversary2024_taskList"](_0x569070 = {}) {
+    try {
+      let _0x5433b6 = {
+          "fn": "anniversary2024_taskList",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~activityTaskService~taskList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "activityCode": _0x4c1524,
+            "channelType": "MINI_PROGRAM"
+          }
+        },
+        {
+          result: _0x499842
+        } = await this.request(_0x5433b6);
+      if (_0x499842?.["success"]) {
+        let _0x592f4b = _0x499842?.["obj"] || [];
+        for (let _0x5f3e51 of _0x592f4b.filter(_0x4015f0 => _0x4015f0.status == 1)) {
+          if (this.anniversary_black) {
+            return;
+          }
+          for (let _0xc5017d = 0; _0xc5017d < _0x5f3e51.canReceiveTokenNum; _0xc5017d++) {
+            await this.anniversary2024_fetchMixTaskReward(_0x5f3e51);
+          }
+        }
+        for (let _0x600edf of _0x592f4b.filter(_0x450f8c => _0x450f8c.status == 2)) {
+          if (this.anniversary_black) return;
+          switch (_0x600edf.taskType) {
+            case "PLAY_ACTIVITY_GAME":
+            case "PLAY_HAPPY_ELIMINATION":
+            case "PARTAKE_SUBJECT_GAME":
+              {
+                break;
+              }
+            case "FOLLOW_SFZHUNONG_VEDIO_ID":
+              {
+                break;
+              }
+            case "BROWSE_VIP_CENTER":
+            case "GUESS_GAME_TIP":
+            case "CREATE_SFID":
+            case "CLICK_MY_SETTING":
+            case "CLICK_TEMPLATE":
+            case "REAL_NAME":
+            case "SEND_SUCCESS_RECALL":
+            case "OPEN_SVIP":
+            case "OPEN_FAST_CARD":
+            case "FIRST_CHARGE_NEW_EXPRESS_CARD":
+            case "CHARGE_NEW_EXPRESS_CARD":
+            case "INTEGRAL_EXCHANGE":
+              {
+                break;
+              }
+            default:
+              {
+                for (let _0xa95ab4 = 0; _0xa95ab4 < _0x600edf.restFinishTime && !this.anniversary_black; _0xa95ab4++) {
+                  await this.anniversary2024_finishTask(_0x600edf);
+                }
+                break;
+              }
+          }
+        }
+      } else {
+        this.log("查询任务失败: " + (_0x499842?.["errorMessage"] || (_0x499842 ? JSON.stringify(_0x499842) : "无返回")));
+      }
+    } catch (_0x30aa77) {
+      console.log(_0x30aa77);
+    }
+  }
+  async ["anniversary2024_finishTask"](_0x362669, _0x5a4f2f = {}) {
+    try {
+      const _0x5172c3 = {
+        "taskCode": _0x362669.taskCode
+      };
+      let _0x27dd5f = {
+          "fn": "anniversary2024_finishTask",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonRoutePost/memberEs/taskRecord/finishTask",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x5172c3
+        },
+        {
+          result: _0x4b04ae
+        } = await this.request(_0x27dd5f);
+      _0x4b04ae?.["success"] ? (this.log("完成任务[" + _0x362669.taskName + "]成功"), await this.anniversary2024_fetchMixTaskReward(_0x362669)) : this.log("完成任务[" + _0x362669.taskName + "]失败: " + (_0x4b04ae?.["errorMessage"] || (_0x4b04ae ? JSON.stringify(_0x4b04ae) : "无返回")));
+    } catch (_0x5e8f38) {
+      console.log(_0x5e8f38);
+    }
+  }
+  async ["anniversary2024_fetchMixTaskReward"](_0x2eed7a, _0x469ad4 = {}) {
+    try {
+      let _0x3618dd = {
+          "fn": "anniversary2024_fetchMixTaskReward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024TaskService~fetchMixTaskReward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "taskType": _0x2eed7a.taskType,
+            "activityCode": _0x4c1524,
+            "channelType": "MINI_PROGRAM"
+          }
+        },
+        {
+          result: _0x9de356
+        } = await this.request(_0x3618dd);
+      if (_0x9de356?.["success"]) {
+        let _0x4bff0c = [],
+          {
+            receivedAccountList = [],
+            turnedAward = {}
+          } = _0x9de356?.["obj"]?.["account"];
+        for (let _0x4bac4c of receivedAccountList) {
+          _0x4bff0c.push("[" + _0x4bac4c.currency + "]X" + _0x4bac4c.amount);
+        }
+        turnedAward?.["productName"] && _0x4bff0c.push("[优惠券]" + turnedAward?.["productName"]);
+        this.log("领取任务[" + _0x2eed7a.taskName + "]奖励: " + _0x4bff0c.join(", "));
+      } else {
+        let _0x3655b8 = _0x9de356?.["errorMessage"] || (_0x9de356 ? JSON.stringify(_0x9de356) : "无返回");
+        this.log("领取任务[" + _0x2eed7a.taskName + "]奖励失败: " + _0x3655b8);
+        _0x3655b8?.["includes"]("用户手机号校验未通过") && (this.anniversary_black = true);
+      }
+    } catch (_0x151ba5) {
+      console.log(_0x151ba5);
+    }
+  }
+  async ["anniversary2024_unbox"](_0x2be753 = {}) {
+    try {
+      let _0x3596e4 = {
+          "fn": "anniversary2024_unbox",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024CardService~unbox",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0xffa3a2
+        } = await this.request(_0x3596e4);
+      if (_0xffa3a2?.["success"]) {
+        let _0x2f7b82 = [],
+          _0x264d44 = _0xffa3a2?.["obj"]?.["account"]?.["receivedAccountList"] || [];
+        for (let _0x3b1e35 of _0x264d44) {
+          _0x2f7b82.push("[" + _0x3b1e35.currency + "]X" + _0x3b1e35.amount);
+        }
+        this.log("拆盒子: " + (_0x2f7b82.join(", ") || "空气"));
+      } else {
+        let _0x429cd5 = _0xffa3a2?.["errorMessage"] || (_0xffa3a2 ? JSON.stringify(_0xffa3a2) : "无返回");
+        this.log("拆盒子失败: " + _0x429cd5);
+        _0x429cd5?.["includes"]("用户手机号校验未通过") && (this.anniversary_black = true);
+      }
+    } catch (_0x1849c5) {
+      console.log(_0x1849c5);
+    }
+  }
+  async ["anniversary2024_game_list"](_0x1e9d2c = {}) {
+    try {
+      let _0x384865 = {
+          "fn": "anniversary2024_game_list",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024GameParkService~list",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x301f11
+        } = await this.request(_0x384865);
+      if (_0x301f11?.["success"]) {
+        let {
+          topicPKInfo: _0x190fb5,
+          searchWordInfo: _0x22cea2,
+          happyEliminationInfo: _0x537757
+        } = _0x301f11?.["obj"];
+        !_0x190fb5?.["isPassFlag"] && (this.log("开始话题PK赛"), await this.anniversary2024_TopicPk_topicList());
+        if (!_0x22cea2?.["isPassFlag"] || !_0x22cea2?.["isFinishDailyFlag"]) {
+          this.log("开始找字游戏");
+          for (let _0x1b642e = 1; _0x1b642e <= 10; _0x1b642e++) {
+            let _0x4727eb = Math.floor(Math.random() * 2000) + 1000;
+            await _0x1366a8.wait(_0x4727eb);
+            if (!(await this.anniversary2024_SearchWord_win(_0x1b642e))) break;
+          }
+        }
+        if (!_0x537757?.["isPassFlag"] || !_0x537757?.["isFinishDailyFlag"]) {
+          this.log("开始消消乐");
+          for (let _0x4f56ae = 1; _0x4f56ae <= 30; _0x4f56ae++) {
+            let _0x4796b6 = Math.floor(Math.random() * 2000) + 1000;
+            await _0x1366a8.wait(_0x4796b6);
+            if (!(await this.anniversary2024_HappyElimination_win(_0x4f56ae))) break;
+          }
+        }
+      } else {
+        let _0x9da766 = _0x301f11?.["errorMessage"] || (_0x301f11 ? JSON.stringify(_0x301f11) : "无返回");
+        this.log("查询游戏状态失败: " + _0x9da766);
+        _0x9da766?.["includes"]("用户手机号校验未通过") && (this.anniversary_black = true);
+      }
+    } catch (_0x3465cd) {
+      console.log(_0x3465cd);
+    }
+  }
+  async ["anniversary2024_SearchWord_win"](_0x2e0732, _0x5c7549 = {}) {
+    let _0x938e83 = true;
+    try {
+      const _0x580a08 = {
+        "index": _0x2e0732
+      };
+      let _0x236209 = {
+          "fn": "anniversary2024_SearchWord_win",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024SearchWordService~win",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x580a08
+        },
+        {
+          result: _0x3dc18b
+        } = await this.request(_0x236209);
+      if (_0x3dc18b?.["success"]) {
+        let {
+          currencyDTOList = []
+        } = _0x3dc18b?.["obj"];
+        if (currencyDTOList?.["length"]) {
+          let _0x388f3b = [];
+          for (let _0x527457 of currencyDTOList) {
+            _0x388f3b.push("[" + _0x527457.currency + "]X" + _0x527457.amount);
+          }
+          this.log("找字游戏第" + _0x2e0732 + "关通关成功: " + _0x388f3b.join(", "));
+        } else this.log("找字游戏第" + _0x2e0732 + "关通关成功");
+      } else {
+        let _0x1cd80d = _0x3dc18b?.["errorMessage"] || (_0x3dc18b ? JSON.stringify(_0x3dc18b) : "无返回");
+        this.log("找字游戏第" + _0x2e0732 + "关失败: " + _0x1cd80d);
+        _0x1cd80d?.["includes"]("系统繁忙") && (_0x938e83 = false);
+      }
+    } catch (_0x1bb8fd) {
+      console.log(_0x1bb8fd);
+    } finally {
+      return _0x938e83;
+    }
+  }
+  async ["anniversary2024_HappyElimination_win"](_0x374724, _0x3118f6 = {}) {
+    let _0x365e8d = true;
+    try {
+      const _0x4ae335 = {
+        "index": _0x374724
+      };
+      let _0x2db5b9 = {
+          "fn": "anniversary2024_HappyElimination_win",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024HappyEliminationService~win",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x4ae335
+        },
+        {
+          result: _0x544d3e
+        } = await this.request(_0x2db5b9);
+      if (_0x544d3e?.["success"]) {
+        let {
+          isAward: _0xec55d9,
+          currencyDTOList: _0x5f3a84
+        } = _0x544d3e?.["obj"];
+        if (_0xec55d9) {
+          let _0x58877b = [];
+          for (let _0x5554c7 of _0x5f3a84) {
+            _0x58877b.push("[" + _0x5554c7.currency + "]X" + _0x5554c7.amount);
+          }
+          this.log("消消乐第" + _0x374724 + "关通关成功: " + _0x58877b.join(", "));
+        } else this.log("消消乐第" + _0x374724 + "关通关成功");
+      } else {
+        let _0x225b8d = _0x544d3e?.["errorMessage"] || (_0x544d3e ? JSON.stringify(_0x544d3e) : "无返回");
+        this.log("消消乐第" + _0x374724 + "关失败: " + _0x225b8d);
+        _0x225b8d?.["includes"]("系统繁忙") && (_0x365e8d = false);
+      }
+    } catch (_0x4ca6e0) {
+      console.log(_0x4ca6e0);
+    } finally {
+      return _0x365e8d;
+    }
+  }
+  async ["anniversary2024_TopicPk_topicList"](_0x5a7b96 = {}) {
+    try {
+      let _0x2a2e2a = {
+          "fn": "anniversary2024_TopicPk_topicList",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024TopicPkService~topicList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x194ca2
+        } = await this.request(_0x2a2e2a);
+      if (_0x194ca2?.["success"]) {
+        let _0x30c0cb = _0x194ca2?.["obj"]?.["topics"] || [],
+          _0x7dea32 = _0x30c0cb?.["filter"](_0x5d8871 => !_0x5d8871?.["choose"])?.[0]?.["index"] || 1;
+        for (let _0xa80c92 = parseInt(_0x7dea32); _0xa80c92 <= 12; _0xa80c92++) {
+          let _0x5ec5b0 = Math.floor(Math.random() * 2000) + 2000;
+          await _0x1366a8.wait(_0x5ec5b0);
+          if (!(await this.anniversary2024_TopicPk_chooseSide(_0xa80c92))) break;
+        }
+      } else {
+        let _0x57e093 = _0x194ca2?.["errorMessage"] || (_0x194ca2 ? JSON.stringify(_0x194ca2) : "无返回");
+        this.log("查询话题PK赛记录失败: " + _0x57e093);
+        _0x57e093?.["includes"]("系统繁忙") && (this.anniversary_black = true);
+      }
+    } catch (_0x1ff92c) {
+      console.log(_0x1ff92c);
+    }
+  }
+  async ["anniversary2024_queryAccountStatus_refresh"](_0x24f35a = {}) {
+    try {
+      let _0xa4a3f5 = {
+        "fn": "anniversary2024_queryAccountStatus_refresh",
+        "method": "post",
+        "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024CardService~queryAccountStatus",
+        "headers": {
+          ...this.getSign()
+        },
+        "json": {}
+      };
+      await this.request(_0xa4a3f5);
+    } catch (_0x2200d5) {
+      console.log(_0x2200d5);
+    }
+  }
+  async ["anniversary2024_TopicPk_chooseSide"](_0x2b7920, _0x5cfe0c = {}) {
+    let _0x26e4e1 = true;
+    try {
+      const _0x269d90 = {
+        "index": _0x2b7920,
+        "choose": 0
+      };
+      let _0x465dcf = {
+          "fn": "anniversary2024_TopicPk_chooseSide",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024TopicPkService~chooseSide",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x269d90
+        },
+        {
+          result: _0x42bf5e
+        } = await this.request(_0x465dcf);
+      if (_0x42bf5e?.["success"]) {
+        let {
+          currencyDTOList = []
+        } = _0x42bf5e?.["obj"];
+        if (currencyDTOList.length) {
+          let _0x57a6d2 = [];
+          for (let _0x55e48a of currencyDTOList) {
+            _0x57a6d2.push("[" + _0x55e48a.currency + "]X" + _0x55e48a.amount);
+          }
+          this.log("话题PK赛第" + _0x2b7920 + "个话题选择成功: " + _0x57a6d2.join(", "));
+        } else this.log("话题PK赛第" + _0x2b7920 + "个话题选择成功");
+      } else {
+        let _0x2206a7 = _0x42bf5e?.["errorMessage"] || (_0x42bf5e ? JSON.stringify(_0x42bf5e) : "无返回");
+        this.log("话题PK赛第" + _0x2b7920 + "个话题失败: " + _0x2206a7);
+        _0x2206a7?.["includes"]("系统繁忙") && (_0x26e4e1 = false);
+      }
+    } catch (_0x1aadbf) {
+      console.log(_0x1aadbf);
+    } finally {
+      return _0x26e4e1;
+    }
+  }
+  async ["anniversary2024_titleList"](_0x102f53 = {}) {
+    try {
+      let _0x510178 = {
+          "fn": "anniversary2024_titleList",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024GuessService~titleList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x1c524b
+        } = await this.request(_0x510178);
+      if (_0x1c524b?.["success"]) {
+        let {
+            guessTitleInfoList = []
+          } = _0x1c524b?.["obj"],
+          _0x377ff2 = _0x1366a8.time("yyyy-MM-dd"),
+          _0x47c241 = guessTitleInfoList.filter(_0x472001 => _0x472001.gameDate == _0x377ff2);
+        if (_0x47c241.length > 0) {
+          let _0x5691b2 = _0x47c241[0];
+          if (_0x5691b2.answerStatus) this.log("今日已回答过竞猜");else {
+            let _0x210772 = _0x479306?.["answer"]?.[_0x377ff2];
+            _0x479306?.["answer"]?.[_0x377ff2] && (await this.anniversary2024_answer(_0x5691b2, _0x210772));
+          }
+        } else this.log("没有查询到今日竞猜题目");
+      } else {
+        let _0x3f6ab3 = _0x1c524b?.["errorMessage"] || (_0x1c524b ? JSON.stringify(_0x1c524b) : "无返回");
+        this.log("查询每日口令竞猜失败: " + _0x3f6ab3);
+      }
+    } catch (_0xf5334a) {
+      console.log(_0xf5334a);
+    }
+  }
+  async ["anniversary2024_titleList_award"](_0x43cf64 = {}) {
+    try {
+      let _0x36d553 = {
+          "fn": "anniversary2024_titleList_award",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024GuessService~titleList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x10eb50
+        } = await this.request(_0x36d553);
+      if (_0x10eb50?.["success"]) {
+        let {
+            guessTitleInfoList = []
+          } = _0x10eb50?.["obj"],
+          _0x769fb3 = _0x1366a8.time("yyyy-MM-dd"),
+          _0x306510 = guessTitleInfoList.filter(_0x2130f8 => _0x2130f8.gameDate == _0x769fb3);
+        if (_0x306510.length > 0) {
+          let _0x47cf27 = _0x306510[0];
+          if (_0x47cf27.answerStatus) {
+            let _0x167d4f = [],
+              {
+                awardList = [],
+                puzzleList = []
+              } = _0x47cf27;
+            _0x167d4f = _0x167d4f.concat(awardList.map(_0x22a633 => _0x22a633.productName));
+            _0x167d4f = _0x167d4f.concat(puzzleList.map(_0x5debe8 => "[" + _0x5debe8.currency + "]X" + _0x5debe8.amount));
+            const _0x14b7e8 = {
+              "notify": true
+            };
+            this.log("口令竞猜奖励: " + (_0x167d4f.join(", ") || "空气"), _0x14b7e8);
+          } else this.log("今日还没回答竞猜");
+        } else this.log("没有查询到今日竞猜奖励");
+      } else {
+        let _0x440a44 = _0x10eb50?.["errorMessage"] || (_0x10eb50 ? JSON.stringify(_0x10eb50) : "无返回");
+        this.log("查询每日口令竞猜奖励失败: " + _0x440a44);
+      }
+    } catch (_0x45583b) {
+      console.log(_0x45583b);
+    }
+  }
+  async ["anniversary2024_answer"](_0x59bf4e, _0x38952b, _0x23fa65 = {}) {
+    try {
+      const _0x96188b = {
+        "period": _0x59bf4e.period,
+        "answerInfo": _0x38952b
+      };
+      let _0x1683b4 = {
+          "fn": "anniversary2024_answer",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024GuessService~answer",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x96188b
+        },
+        {
+          result: _0x3f3abe
+        } = await this.request(_0x1683b4);
+      if (_0x3f3abe?.["success"]) this.log("口令竞猜回答成功"), await this.anniversary2024_titleList_award();else {
+        let _0x52fe6f = _0x3f3abe?.["errorMessage"] || (_0x3f3abe ? JSON.stringify(_0x3f3abe) : "无返回");
+        this.log("口令竞猜回答失败: " + _0x52fe6f);
+      }
+    } catch (_0x2472d4) {
+      console.log(_0x2472d4);
+    }
+  }
+  async ["anniversary2024_queryAccountStatus"](_0x514c40 = {}) {
+    try {
+      let _0x531978 = {
+        "fn": "anniversary2024_queryAccountStatus",
+        "method": "post",
+        "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024CardService~queryAccountStatus",
+        "headers": {
+          ...this.getSign()
+        },
+        "json": {}
+      };
+      {
+        let {
+          result: _0x27d0ad
+        } = await this.request(_0x531978);
+        if (_0x27d0ad?.["success"]) {
+          let _0x4fce32 = _0x27d0ad?.["obj"]?.["accountCurrencyList"] || [],
+            _0x558ba5 = _0x4fce32.filter(_0x182cbc => _0x182cbc.currency == "UNBOX_CHANCE"),
+            _0x1f369d = _0x558ba5?.[0]?.["balance"] || 0;
+          this.log("可以拆" + _0x1f369d + "次盒子");
+          while (_0x1f369d-- > 0) {
+            await this.anniversary2024_unbox();
+          }
+        } else this.log("查询已收集拼图失败: " + (_0x27d0ad?.["errorMessage"] || (_0x27d0ad ? JSON.stringify(_0x27d0ad) : "无返回")));
+      }
+      {
+        let {
+          result: _0x38fb08
+        } = await this.request(_0x531978);
+        if (_0x38fb08?.["success"]) {
+          let _0xd4c4d5 = _0x38fb08?.["obj"]?.["accountCurrencyList"] || [];
+          _0xd4c4d5 = _0xd4c4d5.filter(_0x192f5e => _0x192f5e.currency != "UNBOX_CHANCE");
+          if (_0xd4c4d5?.["length"]) {
+            this.cards = _0xd4c4d5;
+            let _0x533ad8 = [];
+            for (let _0x2d62f7 of this.cards) {
+              _0x533ad8.push("[" + _0x2d62f7.currency + "]X" + _0x2d62f7.balance);
+            }
+            const _0x42439c = {
+              "notify": true
+            };
+            this.log("拼图: " + _0x533ad8.join(", "), _0x42439c);
+            this.cards.sort((_0x404751, _0x5e39d1) => {
+              return _0x5e39d1.balance - _0x404751.balance;
+            });
+          } else {
+            const _0x147936 = {
+              "notify": true
+            };
+            this.log("还没有收集到拼图", _0x147936);
+          }
+        } else this.log("查询已收集拼图失败: " + (_0x38fb08?.["errorMessage"] || (_0x38fb08 ? JSON.stringify(_0x38fb08) : "无返回")));
+      }
+    } catch (_0x370605) {
+      console.log(_0x370605);
+    }
+  }
+  async ["anniversary2024_queryAccountStatus_card"](_0x3276d5 = {}) {
+    try {
+      let _0x80a330 = {
+          "fn": "anniversary2024_queryAccountStatus_card",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024CardService~queryAccountStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x4daf93
+        } = await this.request(_0x80a330);
+      if (_0x4daf93?.["success"]) {
+        let _0x5c7ad1 = _0x4daf93?.["obj"]?.["accountCurrencyList"] || [];
+        _0x5c7ad1 = _0x5c7ad1.filter(_0x1ff4bc => _0x1ff4bc.currency != "UNBOX_CHANCE");
+        if (_0x5c7ad1?.["length"]) {
+          this.cards = _0x5c7ad1.sort((_0x312268, _0x2166cd) => {
+            return _0x2166cd.balance - _0x312268.balance;
+          });
+          let _0x2571ec = [];
+          for (let _0x347f89 of this.cards) {
+            _0x2571ec.push("[" + _0x347f89.currency + "]X" + _0x347f89.balance);
+          }
+          const _0x541717 = {
+            "notify": true
+          };
+          this.log("拼图: " + _0x2571ec.join(", "), _0x541717);
+          while (this.cards.filter(_0x4b454a => _0x4b454a.balance > 0).length >= 3 && !this.anniversary_black) {
+            await this.anniversary2024_collectDrawAward();
+          }
+        } else {
+          const _0x583d70 = {
+            "notify": true
+          };
+          this.log("还没有收集到拼图", _0x583d70);
+        }
+      } else this.log("查询已收集拼图失败: " + (_0x4daf93?.["errorMessage"] || (_0x4daf93 ? JSON.stringify(_0x4daf93) : "无返回")));
+    } catch (_0x29e638) {
+      console.log(_0x29e638);
+    }
+  }
+  async ["anniversary2024_collectDrawAward"](_0x46cf5b = {}) {
+    try {
+      this.cards = this.cards.sort((_0x4cc85b, _0x1604bb) => {
+        return _0x1604bb.balance - _0x4cc85b.balance;
+      });
+      let _0x21002d = this.cards.filter(_0x58c70e => _0x58c70e.balance > 0).map(_0x584637 => _0x584637.currency);
+      if (_0x21002d.length == 9) _0x21002d = _0x21002d.slice(0, 9);else {
+        if (_0x21002d.length >= 7) _0x21002d = _0x21002d.slice(0, 7);else {
+          if (_0x21002d.length >= 5) _0x21002d = _0x21002d.slice(0, 5);else {
+            _0x21002d.length >= 3 && (_0x21002d = _0x21002d.slice(0, 3));
+          }
+        }
+      }
+      const _0x189d5b = {
+        "accountList": _0x21002d
+      };
+      let _0x33c765 = {
+          "fn": "anniversary2024_collectDrawAward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~anniversary2024CardService~collectDrawAward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x189d5b
+        },
+        {
+          result: _0x3eae72
+        } = await this.request(_0x33c765);
+      if (_0x3eae72?.["success"]) {
+        let {
+          productName: _0x59ae3e
+        } = _0x3eae72?.["obj"];
+        const _0xe6d5e2 = {
+          "notify": true
+        };
+        this.log("使用" + _0x21002d.length + "种卡合成: " + _0x59ae3e, _0xe6d5e2);
+        for (let _0x3484c2 of this.cards) {
+          _0x21002d.includes(_0x3484c2.currency) && (_0x3484c2.balance -= 1);
+        }
+      } else {
+        let _0x39bd86 = _0x3eae72?.["errorMessage"] || (_0x3eae72 ? JSON.stringify(_0x3eae72) : "无返回");
+        this.log("使用" + _0x21002d.length + "种年卡合成失败: " + _0x39bd86);
+        _0x39bd86?.["includes"]("系统繁忙") && (this.anniversary_black = true);
+      }
+    } catch (_0x537623) {
+      console.log(_0x537623);
+    }
+  }
+  async ["dragonBoat2024_weeklyGiftStatus"](_0x266305 = {}) {
+    try {
+      let _0x215470 = {
+          "fn": "dragonBoat2024_weeklyGiftStatus",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024IndexService~weeklyGiftStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x30a3f2
+        } = await this.request(_0x215470);
+      if (_0x30a3f2?.["success"]) {
+        let _0x3962c0 = _0x30a3f2?.["obj"] || [];
+        for (let _0x5f5dcc of _0x3962c0) {
+          if (!_0x5f5dcc.received) {
+            let _0x4e97c1 = new Date(_0x5f5dcc.receiveStartTime),
+              _0x278bfc = new Date(_0x5f5dcc.receiveEndTime),
+              _0x3b6b13 = Date.now();
+            _0x3b6b13 >= _0x4e97c1.getTime() && _0x3b6b13 <= _0x278bfc.getTime() && (await this.dragonBoat2024_receiveWeeklyGift());
+          }
+        }
+      } else {
+        let _0x2207c3 = _0x30a3f2?.["errorMessage"] || (_0x30a3f2 ? JSON.stringify(_0x30a3f2) : "无返回");
+        this.log("端午查询每周领券失败: " + _0x2207c3);
+        (_0x2207c3?.["includes"]("系统繁忙") || _0x2207c3?.["includes"]("用户手机号校验未通过")) && (this.dragonBoat_black = true);
+      }
+    } catch (_0x5c907e) {
+      console.log(_0x5c907e);
+    }
+  }
+  async ["dragonBoat2024_receiveWeeklyGift"](_0x3706c7 = {}) {
+    try {
+      let _0x3a2e1e = _0x1366a8.randomList(_0x11aa2a.filter(_0x39b669 => _0x39b669 != this.userId));
+      const _0x390c50 = {
+        "inviteUserId": _0x3a2e1e,
+        "moduleType": "welfare_card"
+      };
+      let _0x770bb6 = {
+          "fn": "dragonBoat2024_receiveWeeklyGift",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024IndexService~receiveWeeklyGift",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x390c50
+        },
+        {
+          result: _0x32539e
+        } = await this.request(_0x770bb6);
+      if (_0x32539e?.["success"]) {
+        let _0x1ab890 = _0x32539e?.["obj"]?.["map"](_0x5341e3 => _0x5341e3.productName);
+        this.log("端午每周领券: " + _0x1ab890.join(", "));
+      } else {
+        let _0x1a3909 = _0x32539e?.["errorMessage"] || (_0x32539e ? JSON.stringify(_0x32539e) : "无返回");
+        this.log("端午每周领券失败: " + _0x1a3909);
+        (_0x1a3909?.["includes"]("系统繁忙") || _0x1a3909?.["includes"]("用户手机号校验未通过")) && (this.dragonBoat_black = true);
+      }
+    } catch (_0x3951de) {
+      console.log(_0x3951de);
+    }
+  }
+  async ["dragonBoat2024_taskList"](_0x2558cf = {}) {
+    try {
+      let _0x59d154 = {
+          "fn": "dragonBoat2024_taskList",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~activityTaskService~taskList",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {
+            "activityCode": _0x49a488,
+            "channelType": "MINI_PROGRAM"
+          }
+        },
+        {
+          result: _0x7ee7f4
+        } = await this.request(_0x59d154);
+      if (_0x7ee7f4?.["success"]) {
+        let _0x5be27c = _0x7ee7f4?.["obj"] || [];
+        for (let _0x425201 of _0x5be27c.filter(_0x2680c9 => _0x2680c9.status == 1)) {
+          if (this.dragonBoat_black) {
+            return;
+          }
+          for (let _0x58d488 = 0; _0x58d488 < _0x425201.canReceiveTokenNum; _0x58d488++) {
+            await this.dragonBoat2024_fetchMixTaskReward(_0x425201);
+          }
+        }
+        for (let _0x88446e of _0x5be27c.filter(_0x227fd2 => _0x227fd2.status == 2)) {
+          if (this.dragonBoat_black) {
+            return;
+          }
+          switch (_0x88446e.taskType) {
+            case "PLAY_ACTIVITY_GAME":
+            case "FIRST_CHARGE_NEW_EXPRESS_CARD":
+            case "SEND_SUCCESS_RECALL":
+            case "OPEN_SVIP":
+            case "CHARGE_NEW_EXPRESS_CARD":
+            case "INTEGRAL_EXCHANGE":
+              {
+                break;
+              }
+            default:
+              {
+                for (let _0x3f69aa = 0; _0x3f69aa < _0x88446e.restFinishTime && !this.dragonBoat_black; _0x3f69aa++) {
+                  await this.dragonBoat2024_finishTask(_0x88446e);
+                }
+                break;
+              }
+          }
+        }
+      } else this.log("端午查询任务失败: " + (_0x7ee7f4?.["errorMessage"] || (_0x7ee7f4 ? JSON.stringify(_0x7ee7f4) : "无返回")));
+    } catch (_0x9f35c4) {
+      console.log(_0x9f35c4);
+    }
+  }
+  async ["dragonBoat2024_finishTask"](_0x3da63c, _0x275caa = {}) {
+    try {
+      const _0x34c4e1 = {
+        "taskCode": _0x3da63c.taskCode
+      };
+      let _0x1ae9e6 = {
+          "fn": "dragonBoat2024_finishTask",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberEs~taskRecord~finishTask",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x34c4e1
+        },
+        {
+          result: _0xc87eca
+        } = await this.request(_0x1ae9e6);
+      _0xc87eca?.["success"] ? (this.log("端午完成任务[" + _0x3da63c.taskName + "]成功"), await this.dragonBoat2024_fetchMixTaskReward(_0x3da63c)) : this.log("端午完成任务[" + _0x3da63c.taskName + "]失败: " + (_0xc87eca?.["errorMessage"] || (_0xc87eca ? JSON.stringify(_0xc87eca) : "无返回")));
+    } catch (_0x7c231a) {
+      console.log(_0x7c231a);
+    }
+  }
+  ["dragonBoat2024_parse_item"](_0x22b4e6) {
+    let _0x48310c = [];
+    for (let _0x487937 of _0x22b4e6) {
+      let _0x298ca2 = _0x487937.currency,
+        _0x1376c5 = _0x2500ab[_0x298ca2] || "[" + _0x298ca2 + "]",
+        _0x2d5bf0 = _0x487937.balance || _0x487937.amount || 0;
+      const _0x187b30 = {
+        "currency": _0x298ca2,
+        "type": _0x1376c5,
+        "amount": _0x2d5bf0
+      };
+      _0x48310c.push(_0x187b30);
+    }
+    return _0x48310c;
+  }
+  async ["dragonBoat2024_fetchMixTaskReward"](_0x3f7d9b, _0x5788a8 = {}) {
+    try {
+      let _0x418039 = {
+          "fn": "dragonBoat2024_fetchMixTaskReward",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024TaskService~fetchTasksReward",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x2eb23e
+        } = await this.request(_0x418039);
+      if (_0x2eb23e?.["success"]) {
+        let _0x50005c = this.dragonBoat2024_parse_item(_0x2eb23e?.["obj"]?.["receivedAccountList"] || []);
+        _0x50005c = _0x50005c.map(_0x3e546b => _0x3e546b.type + "x" + _0x3e546b.amount);
+        this.log("端午领取任务[" + _0x3f7d9b.taskName + "]奖励: " + _0x50005c.join(", "));
+      } else {
+        let _0x2b1954 = _0x2eb23e?.["errorMessage"] || (_0x2eb23e ? JSON.stringify(_0x2eb23e) : "无返回");
+        this.log("端午领取任务[" + _0x3f7d9b.taskName + "]奖励失败: " + _0x2b1954);
+        _0x2b1954?.["includes"]("用户手机号校验未通过") && (this.dragonBoat_black = true);
+      }
+    } catch (_0x242a03) {
+      console.log(_0x242a03);
+    }
+  }
+  async ["dragonBoat2024_game_indexInfo"](_0x2eacf3 = {}) {
+    try {
+      let _0x441207 = {
+          "fn": "dragonBoat2024_game_indexInfo",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024GameService~indexInfo",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0xcdab7f
+        } = await this.request(_0x441207);
+      if (_0xcdab7f?.["success"]) {
+        let _0x183f07 = _0xcdab7f?.["obj"]?.["ifPassAllLevel"];
+        await this.dragonBoat2024_game_init(_0x183f07);
+      } else {
+        let _0x49704b = _0xcdab7f?.["errorMessage"] || (_0xcdab7f ? JSON.stringify(_0xcdab7f) : "无返回");
+        this.log("端午查询游戏状态失败: " + _0x49704b);
+        _0x49704b?.["includes"]("用户手机号校验未通过") && (this.dragonBoat_black = true);
+      }
+    } catch (_0x2cd391) {
+      console.log(_0x2cd391);
+    }
+  }
+  async ["dragonBoat2024_game_init"](_0x11c9a3, _0x10f122 = {}) {
+    try {
+      let _0x49d184 = {
+          "fn": "dragonBoat2024_game_init",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024GameService~init",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x86d9b9
+        } = await this.request(_0x49d184);
+      if (_0x86d9b9?.["success"]) {
+        let {
+            gotPushTimeOfToday: _0xc0ea09,
+            currentIndex: _0x11ba1f
+          } = _0x86d9b9?.["obj"],
+          _0x4d46a1 = 0;
+        if (!_0x11c9a3) _0x4d46a1 = 30;else {
+          _0xc0ea09 < 3 && (_0x4d46a1 = 3 * (3 - _0xc0ea09));
+        }
+        if (_0x4d46a1 > 0) {
+          this.log("端午划龙舟, 目标: " + _0x4d46a1 + "关");
+          let _0x3621f0 = Math.min(_0x4d46a1 + _0x11ba1f, 30);
+          for (let _0x6316c5 = _0x11ba1f; _0x6316c5 <= _0x3621f0; _0x6316c5++) {
+            let _0x4abf88 = Math.floor(Math.random() * 2000) + 2000;
+            await _0x1366a8.wait(_0x4abf88);
+            if (!(await this.dragonBoat2024_boat_win(_0x6316c5))) break;
+          }
+        }
+      } else {
+        let _0x4871f7 = _0x86d9b9?.["errorMessage"] || (_0x86d9b9 ? JSON.stringify(_0x86d9b9) : "无返回");
+        this.log("端午查询游戏状态失败: " + _0x4871f7);
+        _0x4871f7?.["includes"]("用户手机号校验未通过") && (this.dragonBoat_black = true);
+      }
+    } catch (_0x57378e) {
+      console.log(_0x57378e);
+    }
+  }
+  async ["dragonBoat2024_boat_win"](_0x2c53ae = 1, _0x21c35c = {}) {
+    let _0x247ff6 = true;
+    try {
+      const _0x28ab0a = {
+        "levelIndex": _0x2c53ae
+      };
+      let _0xa23f60 = {
+          "fn": "dragonBoat2024_boat_win",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024GameService~win",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x28ab0a
+        },
+        {
+          result: _0x41fc06
+        } = await this.request(_0xa23f60);
+      if (_0x41fc06?.["success"]) {
+        let _0x1b80d6 = this.dragonBoat2024_parse_item(_0x41fc06?.["obj"]?.["currentAwardList"] || []);
+        _0x1b80d6 = _0x1b80d6.map(_0x5ad792 => _0x5ad792.type + "x" + _0x5ad792.amount);
+        _0x1b80d6.length ? this.log("端午划龙舟第" + _0x2c53ae + "关通关成功: " + _0x1b80d6.join(", ")) : this.log("端午划龙舟第" + _0x2c53ae + "关通关成功");
+      } else {
+        let _0x55485d = _0x41fc06?.["errorMessage"] || (_0x41fc06 ? JSON.stringify(_0x41fc06) : "无返回");
+        this.log("端午划龙舟第" + _0x2c53ae + "关失败: " + _0x55485d);
+        _0x55485d?.["includes"]("系统繁忙") && (_0x247ff6 = false);
+      }
+    } catch (_0x3fbd47) {
+      console.log(_0x3fbd47);
+    } finally {
+      return _0x247ff6;
+    }
+  }
+  async ["dragonBoat2024_coinStatus"](_0x344b34 = {}) {
+    try {
+      let _0x7f4e43 = {
+        "fn": "dragonBoat2024_coinStatus",
+        "method": "post",
+        "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024CoinService~coinStatus",
+        "headers": {
+          ...this.getSign()
+        },
+        "json": {}
+      };
+      {
+        let {
+          result: _0x13361c
+        } = await this.request(_0x7f4e43);
+        if (_0x13361c?.["success"]) {
+          let _0xf0124d = _0x13361c?.["obj"]?.["accountCurrencyList"] || [],
+            _0x1894ad = _0xf0124d.filter(_0x125af7 => _0x125af7.currency == "PUSH_TIMES"),
+            _0x40fb5c = _0x1894ad?.[0]?.["balance"] || 0;
+          this.log("端午可以推" + _0x40fb5c + "次金币");
+          while (_0x40fb5c-- > 0) {
+            await this.dragonBoat2024_pushCoin();
+          }
+        } else this.log("端午查询推金币状态失败: " + (_0x13361c?.["errorMessage"] || (_0x13361c ? JSON.stringify(_0x13361c) : "无返回")));
+      }
+      {
+        let {
+          result: _0x154663
+        } = await this.request(_0x7f4e43);
+        if (_0x154663?.["success"]) {
+          let {
+              accountCurrencyList = [],
+              pushedTimesToday: _0x12679d,
+              pushedTimesTotal: _0x31be97
+            } = _0x154663?.["obj"],
+            _0x3fda75 = this.dragonBoat2024_parse_item(accountCurrencyList),
+            _0x41f965 = _0x3fda75.filter(_0xba9170 => _0xba9170.currency == "COIN"),
+            _0x3c6861 = _0x3fda75.filter(_0x175357 => _0x175357.currency == "RICH_CARD_GAME");
+          this.coin = _0x41f965?.[0]?.["amount"] || 0;
+          this.rich_card = _0x3c6861?.[0]?.["amount"] || 0;
+          const _0x54bc17 = {
+            "notify": true
+          };
+          this.log("端午金币: " + this.coin + ", 发财卡: " + this.rich_card, _0x54bc17);
+          let _0x485cbd = Math.floor(this.coin / 230),
+            _0x28c41c = Math.min(_0x485cbd, this.rich_card);
+          this.log("端午可以抽发财卡池" + _0x28c41c + "次");
+          while (_0x28c41c-- > 0) {
+            await this.dragonBoat2024_prizeDraw(4);
+          }
+        } else this.log("端午查询金币失败: " + (_0x154663?.["errorMessage"] || (_0x154663 ? JSON.stringify(_0x154663) : "无返回")));
+      }
+    } catch (_0x3f113c) {
+      console.log(_0x3f113c);
+    }
+  }
+  async ["dragonBoat2024_givePushTimes"](_0x3e19d2 = {}) {
+    let _0x1bfcf3 = true;
+    try {
+      let _0x39a5ea = {
+        "fn": "dragonBoat2024_givePushTimes",
+        "method": "post",
+        "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024CoinService~givePushTimes",
+        "headers": {
+          ...this.getSign()
+        },
+        "json": {}
+      };
+      await this.request(_0x39a5ea);
+    } catch (_0x4d3f24) {
+      console.log(_0x4d3f24);
+    } finally {
+      return _0x1bfcf3;
+    }
+  }
+  async ["dragonBoat2024_pushCoin"](_0x896c74 = {}) {
+    try {
+      const _0x1f4960 = {
+        "plateToken": null
+      };
+      let _0x3ae282 = {
+          "fn": "dragonBoat2024_pushCoin",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024CoinService~pushCoin",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x1f4960
+        },
+        {
+          result: _0x25c651
+        } = await this.request(_0x3ae282);
+      if (_0x25c651?.["success"]) {
+        let _0x28759a = this.dragonBoat2024_parse_item(_0x25c651?.["obj"]?.["receivedAccountList"] || []);
+        _0x28759a = _0x28759a.map(_0x48e071 => _0x48e071.type + "x" + _0x48e071.amount);
+        _0x28759a.length ? this.log("端午推金币成功: " + _0x28759a.join(", ")) : this.log("端午推金币成功, 没有获得奖品");
+      } else this.log("端午推金币失败: " + (_0x25c651?.["errorMessage"] || (_0x25c651 ? JSON.stringify(_0x25c651) : "无返回")));
+    } catch (_0x484f52) {
+      console.log(_0x484f52);
+    }
+  }
+  async ["dragonBoat2024_coinStatus_checkDraw"](_0x1c1852 = {}) {
+    try {
+      let _0x3c0626 = {
+          "fn": "dragonBoat2024_coinStatus",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024CoinService~coinStatus",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": {}
+        },
+        {
+          result: _0x2b0947
+        } = await this.request(_0x3c0626);
+      if (_0x2b0947?.["success"]) {
+        let {
+            accountCurrencyList = [],
+            pushedTimesToday: _0x47e349,
+            pushedTimesTotal: _0x50975a
+          } = _0x2b0947?.["obj"],
+          _0x44593f = this.dragonBoat2024_parse_item(accountCurrencyList),
+          _0x11bf5a = _0x44593f.filter(_0x16f185 => _0x16f185.currency == "COIN"),
+          _0x25e2c0 = _0x44593f.filter(_0x20a10d => _0x20a10d.currency == "RICH_CARD_GAME");
+        this.coin = _0x11bf5a?.[0]?.["amount"] || 0;
+        this.rich_card = _0x25e2c0?.[0]?.["amount"] || 0;
+        const _0x1b1444 = {
+          "notify": true
+        };
+        this.log("端午金币: " + this.coin + ", 发财卡: " + this.rich_card, _0x1b1444);
+        let _0x470bc8 = Math.floor(this.coin / 230),
+          _0x145d29 = Math.min(_0x470bc8, this.rich_card);
+        this.log("端午可以抽发财卡池" + _0x145d29 + "次");
+        while (_0x145d29-- > 0) {
+          if (await this.dragonBoat2024_prizeDraw(4)) this.coin -= 230;else {
+            break;
+          }
+        }
+        const _0x44090e = {
+            "idx": 3,
+            "coin": 200
+          },
+          _0x1b2bb7 = {
+            "idx": 2,
+            "coin": 150
+          },
+          _0x4a1762 = {
+            "idx": 1,
+            "coin": 30
+          },
+          _0x17ecb3 = [_0x44090e, _0x1b2bb7, _0x4a1762];
+        for (let _0x40a841 of _0x17ecb3) {
+          while (this.coin >= _0x40a841.coin) {
+            if (await this.dragonBoat2024_prizeDraw(_0x40a841.idx)) this.coin -= _0x40a841.coin;else break;
+          }
+        }
+      } else this.log("端午查询金币失败: " + (_0x2b0947?.["errorMessage"] || (_0x2b0947 ? JSON.stringify(_0x2b0947) : "无返回")));
+    } catch (_0x364426) {
+      console.log(_0x364426);
+    }
+  }
+  async ["dragonBoat2024_prizeDraw"](_0x35b448, _0x28d532 = {}) {
+    let _0x59decf = false;
+    try {
+      const _0x77c15d = {
+        "drawType": _0x35b448
+      };
+      let _0x55d134 = {
+          "fn": "dragonBoat2024_prizeDraw",
+          "method": "post",
+          "url": "https://mcs-mimp-web.sf-express.com/mcs-mimp/commonPost/~memberNonactivity~dragonBoat2024LotteryService~prizeDraw",
+          "headers": {
+            ...this.getSign()
+          },
+          "json": _0x77c15d
+        },
+        {
+          result: _0x2b6864
+        } = await this.request(_0x55d134);
+      if (_0x2b6864?.["success"]) {
+        _0x59decf = true;
+        let {
+          giftBagName = "",
+          giftBagDesc = ""
+        } = _0x2b6864?.["obj"];
+        const _0x277161 = {
+          "notify": true
+        };
+        this.log("端午奖池[" + _0x35b448 + "]抽奖: [" + giftBagName + "]" + giftBagDesc, _0x277161);
+      } else this.log("端午奖池[" + _0x35b448 + "]抽奖失败: " + (_0x2b6864?.["errorMessage"] || (_0x2b6864 ? JSON.stringify(_0x2b6864) : "无返回")));
+    } catch (_0x24a6a8) {
+      console.log(_0x24a6a8);
+    } finally {
+      return _0x59decf;
+    }
+  }
+  async ["anniversary2024_task"](_0x153204 = {}) {
+    await this.anniversary2024_weeklyGiftStatus();
+    if (this.anniversary_black) return;
+    await this.anniversary2024_game_list();
+    await this.anniversary2024_taskList();
+    await this.anniversary2024_queryAccountStatus();
+  }
+  async ["anniversary2024_draw_task"](_0x325e2d = {}) {
+    let _0x4ca4cc = Date.now();
+    if (_0x4ca4cc < 1716516000000 || _0x4ca4cc > 1718812800000) {
+      return;
+    }
+    await this.dragonBoat2024_coinStatus_checkDraw();
+  }
+  async ["dragonBoat2024_task"](_0x22af8e = {}) {
+    let _0xd647a = Date.now();
+    if (_0xd647a < 1716516000000 || _0xd647a > 1718190000000) return;
+    await this.dragonBoat2024_weeklyGiftStatus();
+    if (this.dragonBoat_black) {
+      return;
+    }
+    await this.dragonBoat2024_game_indexInfo();
+    await this.dragonBoat2024_taskList();
+    await this.dragonBoat2024_givePushTimes();
+    await this.dragonBoat2024_coinStatus();
+  }
+  async ["dragonBoat2024_draw_task"](_0x244ae2 = {}) {
+    await this.anniversary2024_queryAccountStatus_card();
+  }
+  async ["memberDay_task"](_0x11ae4f = {}) {
+    let _0x31dd95 = new Date().getDate();
+    _0x31dd95 >= 26 && _0x31dd95 <= 28 && (await this.memberDay_index());
+  }
+  async ["userTask"](_0x5d1d30 = {}) {
+    _0x1366a8.log("\n-------------- 账号[" + this.index + "] --------------");
+    if (!(await this.refresh_cookie())) {
+      return;
+    }
+    await this.superWelfare_receiveRedPacket();
+    await this.automaticSignFetchPackage();
+    if (_0x94f81d == "true") {
+      await this.bee_indexData();
+    }
+    await this.memberDay_task();
+    _0x3bec27 == "true" && (await this.anniversary2024_draw_task());
+    await this.coupon_list();
   }
 }
 !(async () => {
-  if (!(await _0x342cb7())) {
-    return;
+  _0x1366a8.read_env(_0x520715);
+  let _0x5cf3af = _0x94f81d == "true" ? "运行" : "不运行";
+  _0x1366a8.log("");
+  const _0x46c441 = {
+    "notify": true
+  };
+  _0x1366a8.log("采蜜游戏目前设置为: " + _0x5cf3af, _0x46c441);
+  _0x1366a8.log("");
+  for (let _0x3257e7 of _0x1366a8.userList) {
+    await _0x3257e7.userTask();
   }
-  await _0xdfa6ec();
-  _0x4c672b.read_env(_0x333e45);
-  _0x4c672b.log("\n------------------------------------");
-  _0x4c672b.log("首页签到设置为: " + (_0x159493 ? "不" : "") + "运行");
-  _0x4c672b.log("联通祝福设置为: " + (_0xedc529 ? "不" : "") + "运行");
-  _0x4c672b.log("------------------------------------\n");
-  for (let _0x3a7d7a of _0x4c672b.userList) {
-    await _0x3a7d7a.userLoginTask();
-  }
-  for (let _0x3df144 of _0x4c672b.userList.filter(_0xa33969 => _0xa33969.valid)) {
-    await _0x3df144.userTask();
-  }
-  let _0x1b59a7 = _0x4c672b.userList.filter(_0x3fbb9d => _0x3fbb9d.valid && _0x3fbb9d.woread_verifycode && (_0x3fbb9d.need_read_rabbit || Object.values(_0x3fbb9d.moonbox_task_record).filter(_0x5c7f98 => _0x5c7f98 === true).length));
-  if (_0x1b59a7.length) {
-    let _0x46ed2b = [];
-    _0x4c672b.log("\n============ 开始刷阅读时长 ============");
-    for (let _0x5ef13c of _0x1b59a7) {
-      _0x46ed2b.push(_0x5ef13c.woread_reading_task());
-    }
-    await Promise.all(_0x46ed2b);
-  }
-})().catch(_0x56ffeb => _0x4c672b.log(_0x56ffeb)).finally(() => _0x4c672b.exitNow());
-async function _0x342cb7(_0x1f9ad3 = 0) {
-  let _0x3e3c00 = true;
+})().catch(_0x436262 => _0x1366a8.log(_0x436262)).finally(() => _0x1366a8.exitNow());
+async function _0x1325bb(_0x27cd92 = 0) {
+  let _0x28402a = false;
   try {
-    const _0x1ac0e5 = {
-      fn: "auth",
-      method: "get",
-      url: _0x2eca5f,
-      timeout: 20000
+    const _0x1e7c34 = {
+      "fn": "auth",
+      "method": "get",
+      "url": _0x1e5430,
+      "timeout": 20000
     };
     let {
-      statusCode: _0x196f7a,
-      result: _0x3b4e95
-    } = await _0x23c014.request(_0x1ac0e5);
-    if (_0x196f7a != 200) {
-      _0x1f9ad3++ < _0x239ea0 && (_0x3e3c00 = await _0x342cb7(_0x1f9ad3));
-      return _0x3e3c00;
-    }
-    if (_0x3b4e95?.["code"] == 0) {
-      _0x3b4e95 = JSON.parse(_0x3b4e95.data.file.data);
-      if (_0x3b4e95?.["commonNotify"] && _0x3b4e95.commonNotify.length > 0) {
-        const _0x3d781c = {
-          notify: true
+      statusCode: _0x111564,
+      result: _0x532d3d
+    } = await _0xd9af8d.request(_0x1e7c34);
+    if (_0x111564 != 200) return _0x27cd92++ < _0x4da51e && (_0x28402a = await _0x1325bb(_0x27cd92)), _0x28402a;
+    if (_0x532d3d?.["code"] == 0) {
+      _0x532d3d = JSON.parse(_0x532d3d.data.file.data);
+      if (_0x532d3d?.["commonNotify"] && _0x532d3d.commonNotify.length > 0) {
+        const _0x59bb96 = {
+          "notify": true
         };
-        _0x4c672b.log(_0x3b4e95.commonNotify.join("\n") + "\n", _0x3d781c);
+        _0x1366a8.log(_0x532d3d.commonNotify.join("\n") + "\n", _0x59bb96);
       }
-      _0x3b4e95?.["commonMsg"] && _0x3b4e95.commonMsg.length > 0 && _0x4c672b.log(_0x3b4e95.commonMsg.join("\n") + "\n");
-      if (_0x3b4e95[_0x4a2c68]) {
-        let _0x589da0 = _0x3b4e95[_0x4a2c68];
-        _0x589da0.status == 0 ? _0x2bad9c >= _0x589da0.version ? (_0x3e3c00 = true, _0x4c672b.log(_0x589da0.msg[_0x589da0.status]), _0x4c672b.log(_0x589da0.updateMsg), _0x4c672b.log("现在运行的脚本版本是：" + _0x2bad9c + "，最新脚本版本：" + _0x589da0.latestVersion)) : _0x4c672b.log(_0x589da0.versionMsg) : _0x4c672b.log(_0x589da0.msg[_0x589da0.status]);
-      } else {
-        _0x4c672b.log(_0x3b4e95.errorMsg);
-      }
-    } else {
-      _0x1f9ad3++ < _0x239ea0 && (_0x3e3c00 = await _0x342cb7(_0x1f9ad3));
-    }
-  } catch (_0x4e2a96) {
-    _0x4c672b.log(_0x4e2a96);
+      _0x532d3d?.["commonMsg"] && _0x532d3d.commonMsg.length > 0 && _0x1366a8.log(_0x532d3d.commonMsg.join("\n") + "\n");
+      if (_0x532d3d[_0x16c88c]) {
+        let _0x60e4bc = _0x532d3d[_0x16c88c];
+        _0x60e4bc.status == 0 ? _0x30f72a >= _0x60e4bc.version ? (_0x28402a = true, _0x1366a8.log(_0x60e4bc.msg[_0x60e4bc.status]), _0x1366a8.log(_0x60e4bc.updateMsg), _0x1366a8.log("现在运行的脚本版本是：" + _0x30f72a + "，最新脚本版本：" + _0x60e4bc.latestVersion)) : _0x1366a8.log(_0x60e4bc.versionMsg) : _0x1366a8.log(_0x60e4bc.msg[_0x60e4bc.status]);
+      } else _0x1366a8.log(_0x532d3d.errorMsg);
+    } else _0x27cd92++ < _0x4da51e && (_0x28402a = await _0x1325bb(_0x27cd92));
+  } catch (_0x171d00) {
+    _0x1366a8.log(_0x171d00);
   } finally {
-    return _0x3e3c00;
+    return _0x28402a;
   }
 }
-async function _0xdfa6ec() {
-  let _0x5ad89b = false;
+async function _0x1a0bdc() {
+  let _0x4cac42 = false;
   try {
-    const _0x279978 = {
-      fn: "getTaskUrl",
-      method: "get",
-      url: _0x1971e5
+    const _0x4214e2 = {
+      "fn": "auth",
+      "method": "get",
+      "url": _0x5c6146
     };
     let {
-      statusCode: _0x10974a,
-      result: _0x54f592
-    } = await _0x23c014.request(_0x279978);
-    if (_0x10974a != 200) {
-      return Promise.resolve();
-    }
-    if (_0x54f592?.["code"] == 0) {
-      _0x54f592 = JSON.parse(_0x54f592.data.file.data);
-      _0x333e1b = _0x54f592?.["ltyp_lottery"] || _0x333e1b;
-      _0x5724ea = _0x54f592?.["woread_draw_id"] || _0x5724ea;
-      _0x1051da = _0x54f592?.["appMonth_28_share"] || _0x1051da;
-      _0x188394 = _0x54f592?.["act_517_share"] || _0x188394;
-    }
-  } catch (_0x45222a) {
-    _0x4c672b.log(_0x45222a);
+      statusCode: _0x19ac60,
+      result: _0x4e8c35
+    } = await _0xd9af8d.request(_0x4214e2);
+    if (_0x19ac60 != 200) return Promise.resolve();
+    _0x4e8c35?.["code"] == 0 && (_0x4e8c35 = JSON.parse(_0x4e8c35.data.file.data), _0x11aa2a = _0x4e8c35?.["inviteUserId"] || _0x11aa2a, _0x479306 = _0x4e8c35?.["anniversary_2024"] || _0x479306);
+  } catch (_0x412800) {
+    _0x1366a8.log(_0x412800);
   } finally {
-    return _0x5ad89b;
+    return _0x4cac42;
   }
 }
-function _0x4a9430(_0x3dc8ae) {
+function _0x1c156a(_0x3a0dcc) {
   return new class {
-    constructor(_0x20ff7f) {
-      this.name = _0x20ff7f;
+    constructor(_0x2c471d) {
+      this.name = _0x2c471d;
       this.startTime = Date.now();
-      const _0x39680c = {
-        time: true
+      const _0x5594c9 = {
+        "time": true
       };
-      this.log("[" + this.name + "]开始运行\n", _0x39680c);
+      this.log("[" + this.name + "]开始运行\n", _0x5594c9);
       this.notifyStr = [];
       this.notifyFlag = true;
       this.userIdx = 0;
@@ -4066,234 +2975,220 @@ function _0x4a9430(_0x3dc8ae) {
       this.default_wait_limit = 3600000;
       this.default_wait_ahead = 0;
     }
-    log(_0x2ae7b7, _0x275447 = {}) {
-      const _0x56f445 = {
-        console: true
+    ["log"](_0x3caf63, _0x133ba6 = {}) {
+      const _0x5e3859 = {
+        "console": true
       };
-      Object.assign(_0x56f445, _0x275447);
-      if (_0x56f445.time) {
-        let _0x3ef8cb = _0x56f445.fmt || "hh:mm:ss";
-        _0x2ae7b7 = "[" + this.time(_0x3ef8cb) + "]" + _0x2ae7b7;
+      Object.assign(_0x5e3859, _0x133ba6);
+      if (_0x5e3859.time) {
+        let _0x5f28e7 = _0x5e3859.fmt || "hh:mm:ss";
+        _0x3caf63 = "[" + this.time(_0x5f28e7) + "]" + _0x3caf63;
       }
-      if (_0x56f445.notify) {
-        this.notifyStr.push(_0x2ae7b7);
-      }
-      if (_0x56f445.console) {
-        console.log(_0x2ae7b7);
+      _0x5e3859.notify && this.notifyStr.push(_0x3caf63);
+      if (_0x5e3859.console) {
+        console.log(_0x3caf63);
       }
     }
-    get(_0x2a0329, _0x4bceb4, _0x4a1980 = "") {
-      let _0x5317bb = _0x4a1980;
-      _0x2a0329?.["hasOwnProperty"](_0x4bceb4) && (_0x5317bb = _0x2a0329[_0x4bceb4]);
-      return _0x5317bb;
+    ["get"](_0x33f5bf, _0xfc24e, _0x248b6f = "") {
+      let _0xb3549c = _0x248b6f;
+      return _0x33f5bf?.["hasOwnProperty"](_0xfc24e) && (_0xb3549c = _0x33f5bf[_0xfc24e]), _0xb3549c;
     }
-    pop(_0x1b7e25, _0xe7c4ac, _0x41427d = "") {
-      let _0x189530 = _0x41427d;
-      _0x1b7e25?.["hasOwnProperty"](_0xe7c4ac) && (_0x189530 = _0x1b7e25[_0xe7c4ac], delete _0x1b7e25[_0xe7c4ac]);
-      return _0x189530;
+    ["pop"](_0x37af18, _0x5e098b, _0x379c8b = "") {
+      let _0x376bfb = _0x379c8b;
+      return _0x37af18?.["hasOwnProperty"](_0x5e098b) && (_0x376bfb = _0x37af18[_0x5e098b], delete _0x37af18[_0x5e098b]), _0x376bfb;
     }
-    copy(_0x35e17d) {
-      return Object.assign({}, _0x35e17d);
+    ["copy"](_0x59f3c8) {
+      return Object.assign({}, _0x59f3c8);
     }
-    read_env(_0x313c6f) {
-      let _0x2818ab = _0x52f10b.map(_0x4a0e55 => process.env[_0x4a0e55]);
-      for (let _0x2db17f of _0x2818ab.filter(_0x898472 => !!_0x898472)) {
-        let _0xd94a01 = _0x55899c.filter(_0x477b8e => _0x2db17f.includes(_0x477b8e)),
-          _0x40b5c7 = _0xd94a01.length > 0 ? _0xd94a01[0] : _0x55899c[0];
-        for (let _0x1c8866 of _0x2db17f.split(_0x40b5c7).filter(_0x32ae75 => !!_0x32ae75)) {
-          this.userList.push(new _0x313c6f(_0x1c8866));
+    ["read_env"](_0x24b8a0) {
+      let _0xf1c91c = _0x12e0b9.map(_0x45fe99 => process.env[_0x45fe99]);
+      for (let _0x31dc49 of _0xf1c91c.filter(_0x1d455e => !!_0x1d455e)) {
+        for (let _0x623936 of _0x31dc49.split(_0x371509).filter(_0x6623e8 => !!_0x6623e8)) {
+          if (this.userList.includes(_0x623936)) continue;
+          this.userList.push(new _0x24b8a0(_0x623936));
         }
       }
       this.userCount = this.userList.length;
       if (!this.userCount) {
-        const _0x5d04ec = {
-          notify: true
+        const _0x4af330 = {
+          "notify": true
         };
-        this.log("未找到变量，请检查变量" + _0x52f10b.map(_0x46a071 => "[" + _0x46a071 + "]").join("或"), _0x5d04ec);
-        return false;
+        return this.log("未找到变量，请检查变量" + _0x12e0b9.map(_0x184d4a => "[" + _0x184d4a + "]").join("或"), _0x4af330), false;
       }
-      this.log("共找到" + this.userCount + "个账号");
-      return true;
+      return this.log("共找到" + this.userCount + "个账号"), true;
     }
-    async threads(_0x5db126, _0x57b22b, _0x392357 = {}) {
-      while (_0x57b22b.idx < _0x4c672b.userList.length) {
-        let _0x258f29 = _0x4c672b.userList[_0x57b22b.idx++];
-        if (!_0x258f29.valid) {
+    async ["threads"](_0x336cfa, _0x13a10b, _0x47a236 = {}) {
+      while (_0x13a10b.idx < _0x1366a8.userList.length) {
+        let _0x19de07 = _0x1366a8.userList[_0x13a10b.idx++];
+        if (!_0x19de07.valid) {
           continue;
         }
-        await _0x258f29[_0x5db126](_0x392357);
+        await _0x19de07[_0x336cfa](_0x47a236);
       }
     }
-    async threadTask(_0xa21bf9, _0x52bb63) {
-      let _0x279723 = [];
-      const _0x10e941 = {
-        idx: 0
+    async ["threadTask"](_0x39283c, _0x38ea4d) {
+      let _0x21e5f0 = [];
+      const _0x2e9602 = {
+        "idx": 0
       };
-      while (_0x52bb63--) {
-        _0x279723.push(this.threads(_0xa21bf9, _0x10e941));
+      while (_0x38ea4d--) {
+        _0x21e5f0.push(this.threads(_0x39283c, _0x2e9602));
       }
-      await Promise.all(_0x279723);
+      await Promise.all(_0x21e5f0);
     }
-    time(_0xc0075d, _0x39d0d0 = null) {
-      let _0x47b00f = _0x39d0d0 ? new Date(_0x39d0d0) : new Date(),
-        _0x3e8b62 = {
-          "M+": _0x47b00f.getMonth() + 1,
-          "d+": _0x47b00f.getDate(),
-          "h+": _0x47b00f.getHours(),
-          "m+": _0x47b00f.getMinutes(),
-          "s+": _0x47b00f.getSeconds(),
-          "q+": Math.floor((_0x47b00f.getMonth() + 3) / 3),
-          S: this.padStr(_0x47b00f.getMilliseconds(), 3)
+    ["time"](_0x398c80, _0x2b2ccb = null) {
+      let _0x27fdf5 = _0x2b2ccb ? new Date(_0x2b2ccb) : new Date(),
+        _0x39a78d = {
+          "M+": _0x27fdf5.getMonth() + 1,
+          "d+": _0x27fdf5.getDate(),
+          "h+": _0x27fdf5.getHours(),
+          "m+": _0x27fdf5.getMinutes(),
+          "s+": _0x27fdf5.getSeconds(),
+          "q+": Math.floor((_0x27fdf5.getMonth() + 3) / 3),
+          "S": this.padStr(_0x27fdf5.getMilliseconds(), 3)
         };
-      /(y+)/.test(_0xc0075d) && (_0xc0075d = _0xc0075d.replace(RegExp.$1, (_0x47b00f.getFullYear() + "").substr(4 - RegExp.$1.length)));
-      for (let _0x13db8b in _0x3e8b62) new RegExp("(" + _0x13db8b + ")").test(_0xc0075d) && (_0xc0075d = _0xc0075d.replace(RegExp.$1, 1 == RegExp.$1.length ? _0x3e8b62[_0x13db8b] : ("00" + _0x3e8b62[_0x13db8b]).substr(("" + _0x3e8b62[_0x13db8b]).length)));
-      return _0xc0075d;
+      /(y+)/.test(_0x398c80) && (_0x398c80 = _0x398c80.replace(RegExp.$1, (_0x27fdf5.getFullYear() + "").substr(4 - RegExp.$1.length)));
+      for (let _0x13675c in _0x39a78d) new RegExp("(" + _0x13675c + ")").test(_0x398c80) && (_0x398c80 = _0x398c80.replace(RegExp.$1, 1 == RegExp.$1.length ? _0x39a78d[_0x13675c] : ("00" + _0x39a78d[_0x13675c]).substr(("" + _0x39a78d[_0x13675c]).length)));
+      return _0x398c80;
     }
-    async showmsg() {
-      if (!this.notifyFlag) {
-        return;
-      }
-      if (!this.notifyStr.length) {
-        return;
-      }
-      var _0x19b840 = require("./sendNotify");
+    async ["showmsg"]() {
+      if (!this.notifyFlag) return;
+      if (!this.notifyStr.length) return;
+      var _0x591b6e = require("./sendNotify");
       this.log("\n============== 推送 ==============");
-      await _0x19b840.sendNotify(this.name, this.notifyStr.join("\n"));
+      await _0x591b6e.sendNotify(this.name, this.notifyStr.join("\n"));
     }
-    padStr(_0x246b7e, _0x485edb, _0x56d4e8 = {}) {
-      let _0x4ec3df = _0x56d4e8.padding || "0",
-        _0x5951a7 = _0x56d4e8.mode || "l",
-        _0x2508bb = String(_0x246b7e),
-        _0x2284d5 = _0x485edb > _0x2508bb.length ? _0x485edb - _0x2508bb.length : 0,
-        _0x4f9fa3 = "";
-      for (let _0x325347 = 0; _0x325347 < _0x2284d5; _0x325347++) {
-        _0x4f9fa3 += _0x4ec3df;
+    ["padStr"](_0xb2785, _0x17c2a9, _0x4321a6 = {}) {
+      let _0x148a28 = _0x4321a6.padding || "0",
+        _0x4aa94e = _0x4321a6.mode || "l",
+        _0x40b65e = String(_0xb2785),
+        _0x384a26 = _0x17c2a9 > _0x40b65e.length ? _0x17c2a9 - _0x40b65e.length : 0,
+        _0x1cdf92 = "";
+      for (let _0x4e9ffd = 0; _0x4e9ffd < _0x384a26; _0x4e9ffd++) {
+        _0x1cdf92 += _0x148a28;
       }
-      _0x5951a7 == "r" ? _0x2508bb = _0x2508bb + _0x4f9fa3 : _0x2508bb = _0x4f9fa3 + _0x2508bb;
-      return _0x2508bb;
+      return _0x4aa94e == "r" ? _0x40b65e = _0x40b65e + _0x1cdf92 : _0x40b65e = _0x1cdf92 + _0x40b65e, _0x40b65e;
     }
-    json2str(_0x50c3fd, _0x5546cf, _0x126bf8 = false) {
-      let _0x2a028b = [];
-      for (let _0xf7404a of Object.keys(_0x50c3fd).sort()) {
-        let _0xf3ba9 = _0x50c3fd[_0xf7404a];
-        if (_0xf3ba9 && _0x126bf8) {
-          _0xf3ba9 = encodeURIComponent(_0xf3ba9);
-        }
-        _0x2a028b.push(_0xf7404a + "=" + _0xf3ba9);
+    ["json2str"](_0x496a73, _0x270d9f, _0x5a2b87 = false) {
+      let _0x23ebb1 = [];
+      for (let _0x5f2507 of Object.keys(_0x496a73).sort()) {
+        let _0x529513 = _0x496a73[_0x5f2507];
+        _0x529513 && _0x5a2b87 && (_0x529513 = encodeURIComponent(_0x529513));
+        _0x23ebb1.push(_0x5f2507 + "=" + _0x529513);
       }
-      return _0x2a028b.join(_0x5546cf);
+      return _0x23ebb1.join(_0x270d9f);
     }
-    str2json(_0x5ac0e0, _0x2b412e = false) {
-      let _0x55b019 = {};
-      for (let _0x251032 of _0x5ac0e0.split("&")) {
-        if (!_0x251032) {
+    ["str2json"](_0x42de6f, _0x4d8085 = false) {
+      let _0x586bd4 = {};
+      for (let _0x196d20 of _0x42de6f.split("&")) {
+        if (!_0x196d20) {
           continue;
         }
-        let _0x1a4334 = _0x251032.indexOf("=");
-        if (_0x1a4334 == -1) {
-          continue;
-        }
-        let _0x43dbca = _0x251032.substr(0, _0x1a4334),
-          _0x5a058c = _0x251032.substr(_0x1a4334 + 1);
-        if (_0x2b412e) {
-          _0x5a058c = decodeURIComponent(_0x5a058c);
-        }
-        _0x55b019[_0x43dbca] = _0x5a058c;
+        let _0x3389da = _0x196d20.indexOf("=");
+        if (_0x3389da == -1) continue;
+        let _0x152994 = _0x196d20.substr(0, _0x3389da),
+          _0x470ecd = _0x196d20.substr(_0x3389da + 1);
+        _0x4d8085 && (_0x470ecd = decodeURIComponent(_0x470ecd));
+        _0x586bd4[_0x152994] = _0x470ecd;
       }
-      return _0x55b019;
+      return _0x586bd4;
     }
-    randomPattern(_0x2e6754, _0x2d62bd = "abcdef0123456789") {
-      let _0x1ef277 = "";
-      for (let _0x24e475 of _0x2e6754) {
-        if (_0x24e475 == "x") {
-          _0x1ef277 += _0x2d62bd.charAt(Math.floor(Math.random() * _0x2d62bd.length));
-        } else {
-          _0x24e475 == "X" ? _0x1ef277 += _0x2d62bd.charAt(Math.floor(Math.random() * _0x2d62bd.length)).toUpperCase() : _0x1ef277 += _0x24e475;
-        }
+    ["randomPattern"](_0x1da066, _0x22e44b = "abcdef0123456789") {
+      let _0x954ec7 = "";
+      for (let _0x27a93c of _0x1da066) {
+        _0x27a93c == "x" ? _0x954ec7 += _0x22e44b.charAt(Math.floor(Math.random() * _0x22e44b.length)) : _0x27a93c == "X" ? _0x954ec7 += _0x22e44b.charAt(Math.floor(Math.random() * _0x22e44b.length)).toUpperCase() : _0x954ec7 += _0x27a93c;
       }
-      return _0x1ef277;
+      return _0x954ec7;
     }
-    randomUuid() {
-      return this.randomPattern("xxxxxxxx-xxxx-4xxx-4xxx-xxxxxxxxxxxx");
+    ["randomUuid"]() {
+      return this.randomPattern("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx");
     }
-    randomString(_0x1e4fee, _0x58454d = "abcdef0123456789") {
-      let _0x437894 = "";
-      for (let _0x5b91d3 = 0; _0x5b91d3 < _0x1e4fee; _0x5b91d3++) {
-        _0x437894 += _0x58454d.charAt(Math.floor(Math.random() * _0x58454d.length));
+    ["randomString"](_0x4e3131, _0x4ca898 = "abcdef0123456789") {
+      let _0x3ddc83 = "";
+      for (let _0x58f49d = 0; _0x58f49d < _0x4e3131; _0x58f49d++) {
+        _0x3ddc83 += _0x4ca898.charAt(Math.floor(Math.random() * _0x4ca898.length));
       }
-      return _0x437894;
+      return _0x3ddc83;
     }
-    randomList(_0x243ee5) {
-      let _0x5d4508 = Math.floor(Math.random() * _0x243ee5.length);
-      return _0x243ee5[_0x5d4508];
+    ["randomList"](_0x2829c1) {
+      if (!_0x2829c1.length) return null;
+      let _0x2f423f = Math.floor(Math.random() * _0x2829c1.length);
+      return _0x2829c1[_0x2f423f];
     }
-    wait(_0x7fb1b7) {
-      return new Promise(_0x13dc83 => setTimeout(_0x13dc83, _0x7fb1b7));
+    ["wait"](_0x5ac958) {
+      return new Promise(_0x173c6d => setTimeout(_0x173c6d, 1500));
     }
-    async exitNow() {
+    async ["exitNow"]() {
       await this.showmsg();
-      let _0x3b76e8 = Date.now(),
-        _0x4e1727 = (_0x3b76e8 - this.startTime) / 1000;
+      let _0x4684ae = Date.now(),
+        _0x28a1f8 = (_0x4684ae - this.startTime) / 1000;
       this.log("");
-      const _0x265b3c = {
-        time: true
+      const _0x45b2ca = {
+        "time": true
       };
-      this.log("[" + this.name + "]运行结束，共运行了" + _0x4e1727 + "秒", _0x265b3c);
+      this.log("[" + this.name + "]运行结束，共运行了" + _0x28a1f8 + "秒", _0x45b2ca);
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
+      console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
       process.exit(0);
     }
-    normalize_time(_0x138270, _0x5b6289 = {}) {
-      let _0x40e1b4 = _0x5b6289.len || this.default_timestamp_len;
-      _0x138270 = _0x138270.toString();
-      let _0x2a2577 = _0x138270.length;
-      while (_0x2a2577 < _0x40e1b4) {
-        _0x138270 += "0";
+    ["normalize_time"](_0x586c9d, _0x3f0356 = {}) {
+      let _0x4c1e32 = _0x3f0356.len || this.default_timestamp_len;
+      _0x586c9d = _0x586c9d.toString();
+      let _0x277449 = _0x586c9d.length;
+      while (_0x277449 < _0x4c1e32) {
+        _0x586c9d += "0";
       }
-      _0x2a2577 > _0x40e1b4 && (_0x138270 = _0x138270.slice(0, 13));
-      return parseInt(_0x138270);
+      return _0x277449 > _0x4c1e32 && (_0x586c9d = _0x586c9d.slice(0, 13)), parseInt(_0x586c9d);
     }
-    async wait_until(_0x25aba7, _0x4c0658 = {}) {
-      let _0x219c45 = _0x4c0658.logger || this,
-        _0x501f43 = _0x4c0658.interval || default_wait_interval,
-        _0x51a46f = _0x4c0658.limit || default_wait_limit,
-        _0xbc5c1a = _0x4c0658.ahead || default_wait_ahead;
-      if (typeof _0x25aba7 == "string" && _0x25aba7.includes(":")) {
-        if (_0x25aba7.includes("-")) {
-          _0x25aba7 = new Date(_0x25aba7).getTime();
-        } else {
-          let _0x59861b = this.time("yyyy-MM-dd ");
-          _0x25aba7 = new Date(_0x59861b + _0x25aba7).getTime();
+    async ["wait_until"](_0x2d5805, _0x2ddc81 = {}) {
+      let _0x5e6026 = _0x2ddc81.logger || this,
+        _0x41d163 = _0x2ddc81.interval || this.default_wait_interval,
+        _0x4450bb = _0x2ddc81.limit || this.default_wait_limit,
+        _0x316825 = _0x2ddc81.ahead || this.default_wait_ahead;
+      if (typeof _0x2d5805 == "string" && _0x2d5805.includes(":")) {
+        if (_0x2d5805.includes("-")) _0x2d5805 = new Date(_0x2d5805).getTime();else {
+          let _0x54aecc = this.time("yyyy-MM-dd ");
+          _0x2d5805 = new Date(_0x54aecc + _0x2d5805).getTime();
         }
       }
-      let _0x1afff0 = this.normalize_time(_0x25aba7) - _0xbc5c1a,
-        _0x5e4710 = this.time("hh:mm:ss.S", _0x1afff0),
-        _0x1b5a4f = Date.now();
-      _0x1b5a4f > _0x1afff0 && (_0x1afff0 += 86400000);
-      let _0x10797a = _0x1afff0 - _0x1b5a4f;
-      if (_0x10797a > _0x51a46f) {
-        const _0x1b182a = {
-          time: true
+      let _0x1d33f6 = this.normalize_time(_0x2d5805) - _0x316825,
+        _0x199a76 = this.time("hh:mm:ss.S", _0x1d33f6),
+        _0x566c0b = Date.now();
+      _0x566c0b > _0x1d33f6 && (_0x1d33f6 += 86400000);
+      let _0x4c20e9 = _0x1d33f6 - _0x566c0b;
+      if (_0x4c20e9 > _0x4450bb) {
+        const _0x360695 = {
+          "time": true
         };
-        _0x219c45.log("离目标时间[" + _0x5e4710 + "]大于" + _0x51a46f / 1000 + "秒,不等待", _0x1b182a);
+        _0x5e6026.log("离目标时间[" + _0x199a76 + "]大于" + _0x4450bb / 1000 + "秒,不等待", _0x360695);
       } else {
-        const _0x2644ea = {
-          time: true
+        const _0x445b15 = {
+          "time": true
         };
-        _0x219c45.log("离目标时间[" + _0x5e4710 + "]还有" + _0x10797a / 1000 + "秒,开始等待", _0x2644ea);
-        while (_0x10797a > 0) {
-          let _0x59135c = Math.min(_0x10797a, _0x501f43);
-          await this.wait(_0x59135c);
-          _0x1b5a4f = Date.now();
-          _0x10797a = _0x1afff0 - _0x1b5a4f;
+        _0x5e6026.log("离目标时间[" + _0x199a76 + "]还有" + _0x4c20e9 / 1000 + "秒,开始等待", _0x445b15);
+        while (_0x4c20e9 > 0) {
+          let _0x16bdf0 = Math.min(_0x4c20e9, _0x41d163);
+          await this.wait(_0x16bdf0);
+          _0x566c0b = Date.now();
+          _0x4c20e9 = _0x1d33f6 - _0x566c0b;
         }
-        const _0x246dd7 = {
-          time: true
+        const _0xfad39f = {
+          "time": true
         };
-        _0x219c45.log("已完成等待", _0x246dd7);
+        _0x5e6026.log("已完成等待", _0xfad39f);
       }
     }
-    async wait_gap_interval(_0x380985, _0x47b42d) {
-      let _0x55e493 = Date.now() - _0x380985;
-      _0x55e493 < _0x47b42d && (await this.wait(_0x47b42d - _0x55e493));
+    async ["wait_gap_interval"](_0x683bff, _0x3f5dc4) {
+      let _0x171bb0 = Date.now() - _0x683bff;
+      _0x171bb0 < _0x3f5dc4 && (await this.wait(_0x3f5dc4 - _0x171bb0));
     }
-  }(_0x3dc8ae);
+  }(_0x3a0dcc);
 }
